@@ -1,0 +1,14 @@
+﻿attack,level,trials,extraction_completed,payload_exact,image_exact,joint_exact
+control,0,4,4,4,4,4
+bitflip,1,20,20,14,6,0
+bitflip,10,20,19,0,0,0
+bitflip,100,20,12,0,0,0
+gaussian,0.5,20,0,0,0,0
+gaussian,1,20,0,0,0,0
+gaussian,2,20,0,0,0,0
+crop_zero,0.01,4,0,0,0,0
+crop_zero,0.05,4,0,0,0,0
+crop_zero,0.1,4,0,0,0,0
+translate,1,4,0,0,0,0
+translate,2,4,0,0,0,0
+translate,4,4,0,0,0,0

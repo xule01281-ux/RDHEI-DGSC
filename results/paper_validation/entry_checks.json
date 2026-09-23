@@ -1,0 +1,15 @@
+{
+  "status": "PASS",
+  "dgp_axis_cases": 11,
+  "dgp_exact_payload_matches": 11,
+  "timing_warmups": 1,
+  "timing_validation_repeats": 2,
+  "table4_validation_runs": 1,
+  "damage_validation_runs": 2,
+  "detection_validation_sources": 1,
+  "table5_validation_cases": 4,
+  "table10_proposed_validation_cases": 4,
+  "formal_experiments_rerun": false,
+  "full_datasets_run": false,
+  "all_dependencies_inside_package": true
+}

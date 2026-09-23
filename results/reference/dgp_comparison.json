@@ -1,0 +1,866 @@
+[
+  {
+    "image": "Man",
+    "configuration": "dgp",
+    "split": [
+      285,
+      222
+    ],
+    "data": {
+      "payload_bits": 872799,
+      "ecc_bpp": 3.3294639587402344,
+      "raw_slots_bits": 878919,
+      "global_overlap_bits": 32,
+      "displaced_bits": 6088,
+      "global_auxiliary_bits": 6082,
+      "block_header_bits": 467673,
+      "prediction_reference_bits": 1919,
+      "fold_map_bits": 64,
+      "fold_pixels": 2,
+      "skipped_blocks": 0,
+      "skipped_r_bits": 0,
+      "opt_bits": 6996,
+      "opt_method": "paeth_rice",
+      "prediction_seconds": 0.6097596,
+      "capacity_seconds": 1.8219681,
+      "prediction": {
+        "split": [
+          285,
+          222
+        ],
+        "pattern": 0,
+        "center_energy_ratio": 0.31474687007080837,
+        "directions": [
+          2,
+          0,
+          2,
+          1
+        ],
+        "residual_std": 7.9344678327911069,
+        "residual_mae": 4.7046966552734375,
+        "residual_rmse": 7.9351812865731839,
+        "residual_min": -113,
+        "residual_max": 136,
+        "diagnostics": [
+          260100,
+          260100,
+          259700,
+          400,
+          3407,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  {
+    "image": "Man",
+    "configuration": "geometric_center",
+    "split": [
+      256,
+      256
+    ],
+    "data": {
+      "payload_bits": 872068,
+      "ecc_bpp": 3.3266754150390625,
+      "raw_slots_bits": 878276,
+      "global_overlap_bits": 88,
+      "displaced_bits": 6120,
+      "global_auxiliary_bits": 6117,
+      "block_header_bits": 469052,
+      "prediction_reference_bits": 2015,
+      "fold_map_bits": 4,
+      "fold_pixels": 0,
+      "skipped_blocks": 0,
+      "skipped_r_bits": 0,
+      "opt_bits": 7027,
+      "opt_method": "paeth_rice",
+      "prediction_seconds": 0.6411793,
+      "capacity_seconds": 1.9016022,
+      "prediction": {
+        "split": [
+          256,
+          256
+        ],
+        "pattern": 0,
+        "center_energy_ratio": 0.25965838131216967,
+        "directions": [
+          2,
+          0,
+          2,
+          1
+        ],
+        "residual_std": 7.9519407969973717,
+        "residual_mae": 4.70965576171875,
+        "residual_rmse": 7.952616557298728,
+        "residual_min": -120,
+        "residual_max": 116,
+        "diagnostics": [
+          260100,
+          260100,
+          259713,
+          387,
+          3479,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  {
+    "image": "Man",
+    "configuration": "maximum_error",
+    "split": [
+      342,
+      244
+    ],
+    "data": {
+      "payload_bits": 873785,
+      "ecc_bpp": 3.3332252502441406,
+      "raw_slots_bits": 879713,
+      "global_overlap_bits": 128,
+      "displaced_bits": 5800,
+      "global_auxiliary_bits": 5794,
+      "block_header_bits": 462095,
+      "prediction_reference_bits": 1674,
+      "fold_map_bits": 48,
+      "fold_pixels": 1,
+      "skipped_blocks": 0,
+      "skipped_r_bits": 0,
+      "opt_bits": 7024,
+      "opt_method": "paeth_rice",
+      "prediction_seconds": 0.6412578,
+      "capacity_seconds": 1.9169272,
+      "prediction": {
+        "split": [
+          342,
+          244
+        ],
+        "pattern": 0,
+        "center_energy_ratio": 0.32047495533159615,
+        "directions": [
+          2,
+          0,
+          2,
+          1
+        ],
+        "residual_std": 7.9125008851690426,
+        "residual_mae": 4.6985130310058594,
+        "residual_rmse": 7.9133213671513714,
+        "residual_min": -123,
+        "residual_max": 170,
+        "diagnostics": [
+          260100,
+          260100,
+          259701,
+          399,
+          3520,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  {
+    "image": "Man",
+    "configuration": "max_row_column_energy",
+    "split": [
+      252,
+      218
+    ],
+    "data": {
+      "payload_bits": 873382,
+      "ecc_bpp": 3.3316879272460938,
+      "raw_slots_bits": 878174,
+      "global_overlap_bits": 8,
+      "displaced_bits": 4784,
+      "global_auxiliary_bits": 4778,
+      "block_header_bits": 470330,
+      "prediction_reference_bits": 687,
+      "fold_map_bits": 48,
+      "fold_pixels": 1,
+      "skipped_blocks": 0,
+      "skipped_r_bits": 0,
+      "opt_bits": 7029,
+      "opt_method": "paeth_rice",
+      "prediction_seconds": 0.710611,
+      "capacity_seconds": 1.9878562,
+      "prediction": {
+        "split": [
+          252,
+          218
+        ],
+        "pattern": 0,
+        "center_energy_ratio": 0.31002208517164542,
+        "directions": [
+          2,
+          2,
+          1,
+          0
+        ],
+        "residual_std": 7.9684415962614921,
+        "residual_mae": 4.7117919921875,
+        "residual_rmse": 7.9690214223077112,
+        "residual_min": -104,
+        "residual_max": 156,
+        "diagnostics": [
+          260100,
+          260100,
+          259700,
+          400,
+          3342,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  {
+    "image": "Jetplane",
+    "configuration": "dgp",
+    "split": [
+      305,
+      235
+    ],
+    "data": {
+      "payload_bits": 1.035906E+6,
+      "ecc_bpp": 3.9516677856445312,
+      "raw_slots_bits": 1.043386E+6,
+      "global_overlap_bits": 104,
+      "displaced_bits": 7376,
+      "global_auxiliary_bits": 7370,
+      "block_header_bits": 437046,
+      "prediction_reference_bits": 3275,
+      "fold_map_bits": 66,
+      "fold_pixels": 2,
+      "skipped_blocks": 0,
+      "skipped_r_bits": 0,
+      "opt_bits": 6986,
+      "opt_method": "paeth_rice",
+      "prediction_seconds": 0.4745398,
+      "capacity_seconds": 1.6088487,
+      "prediction": {
+        "split": [
+          305,
+          235
+        ],
+        "pattern": 1,
+        "center_energy_ratio": 0.44200500491077294,
+        "directions": [
+          0,
+          3,
+          2,
+          3
+        ],
+        "residual_std": 6.9003641125231034,
+        "residual_mae": 3.6492576599121094,
+        "residual_rmse": 6.9050808430440993,
+        "residual_min": -137,
+        "residual_max": 78,
+        "diagnostics": [
+          260100,
+          51305,
+          51304,
+          1,
+          1752,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  {
+    "image": "Jetplane",
+    "configuration": "geometric_center",
+    "split": [
+      256,
+      256
+    ],
+    "data": {
+      "payload_bits": 1.03047E+6,
+      "ecc_bpp": 3.9309310913085938,
+      "raw_slots_bits": 1.036926E+6,
+      "global_overlap_bits": 336,
+      "displaced_bits": 6120,
+      "global_auxiliary_bits": 6113,
+      "block_header_bits": 452018,
+      "prediction_reference_bits": 1984,
+      "fold_map_bits": 66,
+      "fold_pixels": 2,
+      "skipped_blocks": 0,
+      "skipped_r_bits": 0,
+      "opt_bits": 7031,
+      "opt_method": "paeth_rice",
+      "prediction_seconds": 0.6877617,
+      "capacity_seconds": 1.8417231,
+      "prediction": {
+        "split": [
+          256,
+          256
+        ],
+        "pattern": 0,
+        "center_energy_ratio": 0.34574429043987537,
+        "directions": [
+          0,
+          3,
+          2,
+          0
+        ],
+        "residual_std": 6.206519942073526,
+        "residual_mae": 3.3746452331542969,
+        "residual_rmse": 6.2065288131488821,
+        "residual_min": -145,
+        "residual_max": 117,
+        "diagnostics": [
+          260100,
+          260100,
+          259958,
+          142,
+          3048,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  {
+    "image": "Jetplane",
+    "configuration": "maximum_error",
+    "split": [
+      2,
+      2
+    ],
+    "data": {
+      "payload_bits": 1.035215E+6,
+      "ecc_bpp": 3.9490318298339844,
+      "raw_slots_bits": 1.039823E+6,
+      "global_overlap_bits": 56,
+      "displaced_bits": 4552,
+      "global_auxiliary_bits": 4546,
+      "block_header_bits": 456329,
+      "prediction_reference_bits": 391,
+      "fold_map_bits": 66,
+      "fold_pixels": 2,
+      "skipped_blocks": 0,
+      "skipped_r_bits": 0,
+      "opt_bits": 7090,
+      "opt_method": "paeth_rice",
+      "prediction_seconds": 0.9754982,
+      "capacity_seconds": 2.1473582,
+      "prediction": {
+        "split": [
+          2,
+          2
+        ],
+        "pattern": 2,
+        "center_energy_ratio": 0.01779476845365776,
+        "directions": [
+          0,
+          3,
+          2,
+          0
+        ],
+        "residual_std": 6.1775118140597991,
+        "residual_mae": 3.3694534301757812,
+        "residual_rmse": 6.1775043552063762,
+        "residual_min": -145,
+        "residual_max": 126,
+        "diagnostics": [
+          260100,
+          247367,
+          247227,
+          140,
+          3293,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  {
+    "image": "Jetplane",
+    "configuration": "max_row_column_energy",
+    "split": [
+      229,
+      2
+    ],
+    "data": {
+      "payload_bits": 1.032328E+6,
+      "ecc_bpp": 3.938018798828125,
+      "raw_slots_bits": 1.038248E+6,
+      "global_overlap_bits": 104,
+      "displaced_bits": 5816,
+      "global_auxiliary_bits": 5810,
+      "block_header_bits": 457184,
+      "prediction_reference_bits": 1638,
+      "fold_map_bits": 66,
+      "fold_pixels": 2,
+      "skipped_blocks": 0,
+      "skipped_r_bits": 0,
+      "opt_bits": 7050,
+      "opt_method": "paeth_rice",
+      "prediction_seconds": 0.7828017,
+      "capacity_seconds": 1.9414796,
+      "prediction": {
+        "split": [
+          229,
+          2
+        ],
+        "pattern": 0,
+        "center_energy_ratio": 0.19162998899040448,
+        "directions": [
+          0,
+          3,
+          2,
+          0
+        ],
+        "residual_std": 6.2962199068247422,
+        "residual_mae": 3.3881568908691406,
+        "residual_rmse": 6.2962222080401178,
+        "residual_min": -145,
+        "residual_max": 126,
+        "diagnostics": [
+          260100,
+          260100,
+          259960,
+          140,
+          2825,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  {
+    "image": "Baboon",
+    "configuration": "dgp",
+    "split": [
+      179,
+      244
+    ],
+    "data": {
+      "payload_bits": 491502,
+      "ecc_bpp": 1.8749313354492188,
+      "raw_slots_bits": 496158,
+      "global_overlap_bits": 0,
+      "displaced_bits": 4656,
+      "global_auxiliary_bits": 4653,
+      "block_header_bits": 410882,
+      "prediction_reference_bits": 695,
+      "fold_map_bits": 66,
+      "fold_pixels": 2,
+      "skipped_blocks": 0,
+      "skipped_r_bits": 0,
+      "opt_bits": 6763,
+      "opt_method": "paeth_rice",
+      "prediction_seconds": 0.6823415,
+      "capacity_seconds": 2.495648,
+      "prediction": {
+        "split": [
+          179,
+          244
+        ],
+        "pattern": 0,
+        "center_energy_ratio": 0.11224634544470671,
+        "directions": [
+          3,
+          2,
+          1,
+          3
+        ],
+        "residual_std": 17.872291324208351,
+        "residual_mae": 12.374042510986328,
+        "residual_rmse": 17.872287464401559,
+        "residual_min": -129,
+        "residual_max": 173,
+        "diagnostics": [
+          260100,
+          260100,
+          260100,
+          0,
+          27420,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  {
+    "image": "Baboon",
+    "configuration": "geometric_center",
+    "split": [
+      256,
+      256
+    ],
+    "data": {
+      "payload_bits": 488526,
+      "ecc_bpp": 1.8635787963867188,
+      "raw_slots_bits": 494742,
+      "global_overlap_bits": 0,
+      "displaced_bits": 6216,
+      "global_auxiliary_bits": 6210,
+      "block_header_bits": 410594,
+      "prediction_reference_bits": 2153,
+      "fold_map_bits": 66,
+      "fold_pixels": 2,
+      "skipped_blocks": 0,
+      "skipped_r_bits": 0,
+      "opt_bits": 6811,
+      "opt_method": "paeth_rice",
+      "prediction_seconds": 0.599365,
+      "capacity_seconds": 2.3785277,
+      "prediction": {
+        "split": [
+          256,
+          256
+        ],
+        "pattern": 2,
+        "center_energy_ratio": 0.045001701068156548,
+        "directions": [
+          3,
+          2,
+          2,
+          3
+        ],
+        "residual_std": 17.934832479302152,
+        "residual_mae": 12.437381744384766,
+        "residual_rmse": 17.934920068950369,
+        "residual_min": -145,
+        "residual_max": 122,
+        "diagnostics": [
+          260100,
+          209179,
+          209179,
+          0,
+          26828,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  {
+    "image": "Baboon",
+    "configuration": "maximum_error",
+    "split": [
+      511,
+      2
+    ],
+    "data": {
+      "payload_bits": 486665,
+      "ecc_bpp": 1.8564796447753906,
+      "raw_slots_bits": 491033,
+      "global_overlap_bits": 0,
+      "displaced_bits": 4368,
+      "global_auxiliary_bits": 4363,
+      "block_header_bits": 412631,
+      "prediction_reference_bits": 383,
+      "fold_map_bits": 48,
+      "fold_pixels": 1,
+      "skipped_blocks": 0,
+      "skipped_r_bits": 0,
+      "opt_bits": 6841,
+      "opt_method": "paeth_rice",
+      "prediction_seconds": 0.8825658,
+      "capacity_seconds": 2.7353342,
+      "prediction": {
+        "split": [
+          511,
+          2
+        ],
+        "pattern": 2,
+        "center_energy_ratio": 0.015961557080551941,
+        "directions": [
+          2,
+          2,
+          2,
+          3
+        ],
+        "residual_std": 18.228696875457828,
+        "residual_mae": 12.599163055419922,
+        "residual_rmse": 18.22888916966987,
+        "residual_min": -145,
+        "residual_max": 120,
+        "diagnostics": [
+          260100,
+          247369,
+          247369,
+          0,
+          27563,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  {
+    "image": "Baboon",
+    "configuration": "max_row_column_energy",
+    "split": [
+      2,
+      2
+    ],
+    "data": {
+      "payload_bits": 481352,
+      "ecc_bpp": 1.836212158203125,
+      "raw_slots_bits": 489248,
+      "global_overlap_bits": 0,
+      "displaced_bits": 7896,
+      "global_auxiliary_bits": 7889,
+      "block_header_bits": 409392,
+      "prediction_reference_bits": 3838,
+      "fold_map_bits": 66,
+      "fold_pixels": 2,
+      "skipped_blocks": 0,
+      "skipped_r_bits": 0,
+      "opt_bits": 6797,
+      "opt_method": "paeth_rice",
+      "prediction_seconds": 0.7833093,
+      "capacity_seconds": 2.5796196,
+      "prediction": {
+        "split": [
+          2,
+          2
+        ],
+        "pattern": 0,
+        "center_energy_ratio": 0.12740918715939908,
+        "directions": [
+          0,
+          0,
+          2,
+          3
+        ],
+        "residual_std": 18.211204443238739,
+        "residual_mae": 12.605247497558594,
+        "residual_rmse": 18.211171060747539,
+        "residual_min": -163,
+        "residual_max": 123,
+        "diagnostics": [
+          260100,
+          260100,
+          260100,
+          0,
+          27324,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  {
+    "image": "Tiffany",
+    "configuration": "dgp",
+    "split": [
+      253,
+      254
+    ],
+    "data": {
+      "payload_bits": 980588,
+      "ecc_bpp": 3.7406463623046875,
+      "raw_slots_bits": 985924,
+      "global_overlap_bits": 448,
+      "displaced_bits": 4888,
+      "global_auxiliary_bits": 4881,
+      "block_header_bits": 423148,
+      "prediction_reference_bits": 691,
+      "fold_map_bits": 116,
+      "fold_pixels": 5,
+      "skipped_blocks": 0,
+      "skipped_r_bits": 0,
+      "opt_bits": 7005,
+      "opt_method": "paeth_rice",
+      "prediction_seconds": 0.665595,
+      "capacity_seconds": 1.9541003,
+      "prediction": {
+        "split": [
+          253,
+          254
+        ],
+        "pattern": 0,
+        "center_energy_ratio": 0.24092772405070698,
+        "directions": [
+          2,
+          0,
+          2,
+          2
+        ],
+        "residual_std": 5.4258785221700156,
+        "residual_mae": 3.3472862243652344,
+        "residual_rmse": 5.426018530516262,
+        "residual_min": -250,
+        "residual_max": 200,
+        "diagnostics": [
+          260100,
+          260100,
+          259522,
+          578,
+          3574,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  {
+    "image": "Tiffany",
+    "configuration": "geometric_center",
+    "split": [
+      256,
+      256
+    ],
+    "data": {
+      "payload_bits": 981184,
+      "ecc_bpp": 3.742919921875,
+      "raw_slots_bits": 986440,
+      "global_overlap_bits": 448,
+      "displaced_bits": 4808,
+      "global_auxiliary_bits": 4800,
+      "block_header_bits": 423288,
+      "prediction_reference_bits": 687,
+      "fold_map_bits": 100,
+      "fold_pixels": 4,
+      "skipped_blocks": 0,
+      "skipped_r_bits": 0,
+      "opt_bits": 6974,
+      "opt_method": "paeth_rice",
+      "prediction_seconds": 0.6095177,
+      "capacity_seconds": 1.6912881,
+      "prediction": {
+        "split": [
+          256,
+          256
+        ],
+        "pattern": 0,
+        "center_energy_ratio": 0.23958547939470845,
+        "directions": [
+          2,
+          0,
+          2,
+          2
+        ],
+        "residual_std": 5.408452723511032,
+        "residual_mae": 3.3469734191894531,
+        "residual_rmse": 5.4085938769545345,
+        "residual_min": -200,
+        "residual_max": 200,
+        "diagnostics": [
+          260100,
+          260100,
+          259522,
+          578,
+          3556,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  {
+    "image": "Tiffany",
+    "configuration": "maximum_error",
+    "split": [
+      511,
+      256
+    ],
+    "data": {
+      "payload_bits": 980475,
+      "ecc_bpp": 3.7402153015136719,
+      "raw_slots_bits": 985611,
+      "global_overlap_bits": 496,
+      "displaced_bits": 4640,
+      "global_auxiliary_bits": 4639,
+      "block_header_bits": 424309,
+      "prediction_reference_bits": 543,
+      "fold_map_bits": 83,
+      "fold_pixels": 3,
+      "skipped_blocks": 0,
+      "skipped_r_bits": 0,
+      "opt_bits": 7003,
+      "opt_method": "paeth_rice",
+      "prediction_seconds": 0.6985944,
+      "capacity_seconds": 1.7512585,
+      "prediction": {
+        "split": [
+          511,
+          256
+        ],
+        "pattern": 2,
+        "center_energy_ratio": 0.053699536507725062,
+        "directions": [
+          2,
+          0,
+          2,
+          2
+        ],
+        "residual_std": 5.4650734639829155,
+        "residual_mae": 3.3832817077636719,
+        "residual_rmse": 5.4650723543813253,
+        "residual_min": -200,
+        "residual_max": 200,
+        "diagnostics": [
+          260100,
+          234512,
+          233989,
+          523,
+          3723,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  {
+    "image": "Tiffany",
+    "configuration": "max_row_column_energy",
+    "split": [
+      511,
+      256
+    ],
+    "data": {
+      "payload_bits": 980475,
+      "ecc_bpp": 3.7402153015136719,
+      "raw_slots_bits": 985611,
+      "global_overlap_bits": 496,
+      "displaced_bits": 4640,
+      "global_auxiliary_bits": 4639,
+      "block_header_bits": 424309,
+      "prediction_reference_bits": 543,
+      "fold_map_bits": 83,
+      "fold_pixels": 3,
+      "skipped_blocks": 0,
+      "skipped_r_bits": 0,
+      "opt_bits": 7003,
+      "opt_method": "paeth_rice",
+      "prediction_seconds": 0.6874649,
+      "capacity_seconds": 1.7564712,
+      "prediction": {
+        "split": [
+          511,
+          256
+        ],
+        "pattern": 2,
+        "center_energy_ratio": 0.053699536507725062,
+        "directions": [
+          2,
+          0,
+          2,
+          2
+        ],
+        "residual_std": 5.4650734639829155,
+        "residual_mae": 3.3832817077636719,
+        "residual_rmse": 5.4650723543813253,
+        "residual_min": -200,
+        "residual_max": 200,
+        "diagnostics": [
+          260100,
+          234512,
+          233989,
+          523,
+          3723,
+          0,
+          0
+        ]
+      }
+    }
+  }
+]

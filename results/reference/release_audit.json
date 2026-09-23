@@ -1,0 +1,23 @@
+{
+  "version": "1.0.0",
+  "production_sources_unchanged": true,
+  "full_roundtrip_cases": 7,
+  "fixed_vector_passed": true,
+  "natural_image_pixel_errors": 0,
+  "block_capacity_cases": 16,
+  "block_capacities_equal_previous_current_configuration": true,
+  "scec_ablation_cases": 28,
+  "dgp_comparison_cases": 16,
+  "damage_smoke_cases": 8,
+  "damage_controls_passed": 4,
+  "damage_full_suite_rerun": false,
+  "dataset_synthetic_cases": 2,
+  "dataset_resume_merge_passed": true,
+  "full_datasets_run": false,
+  "timing_images": 4,
+  "timing_warmups_per_image": 1,
+  "timing_repeats": 3,
+  "dependency_files": 71,
+  "external_project_dependencies": 0,
+  "public_status": "Prepared locally for author upload; not published online."
+}

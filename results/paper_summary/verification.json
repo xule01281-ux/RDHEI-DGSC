@@ -1,0 +1,15 @@
+{
+  "checks": {
+    "table3": "PASS: all 1200 source identities/splits disjoint; AUC, BA and paired bootstrap intervals regenerated",
+    "table4": "PASS: 20 original round trips and 12 stage means",
+    "table5": "PASS: 16 block-size measurements",
+    "table7": "PASS: 28 runs; full-minus-disabled = 7626 bit",
+    "table8": "PASS: 44 axis runs; correct 10-candidate maximum",
+    "table10": "PASS: fixed seed 0; baseline gross and proposed net kept distinct",
+    "table11": "PASS: 40 measurements; 11.1425245 s mean paired total",
+    "table12": "PASS: 148 records, 4/4 intact controls, 0/144 joint damaged recovery"
+  },
+  "status": "PASS",
+  "new_encoding_experiments": false,
+  "full_dataset_runs": false
+}

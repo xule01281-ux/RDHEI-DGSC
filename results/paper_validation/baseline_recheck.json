@@ -1,0 +1,16 @@
+[
+  {
+    "image": "Man",
+    "domain": "plaintext",
+    "idpvo_seed0_round3_bits": 104072,
+    "mhm_seed0_delta6_bits": 204167,
+    "archived_gross_counts_match": true
+  },
+  {
+    "image": "Man",
+    "domain": "ciphertext",
+    "idpvo_seed0_round3_bits": 9108,
+    "mhm_seed0_delta6_bits": 12156,
+    "archived_gross_counts_match": true
+  }
+]

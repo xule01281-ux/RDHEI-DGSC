@@ -1,0 +1,307 @@
+{
+  "scope": "smoke",
+  "baseline": [
+    {
+      "image": "Man",
+      "payload_bits": 872799,
+      "ecc_bpp": 3.3294639587402344,
+      "public_bytes": 53
+    },
+    {
+      "image": "Jetplane",
+      "payload_bits": 1.035906E+6,
+      "ecc_bpp": 3.9516677856445312,
+      "public_bytes": 53
+    },
+    {
+      "image": "Baboon",
+      "payload_bits": 491502,
+      "ecc_bpp": 1.8749313354492188,
+      "public_bytes": 53
+    },
+    {
+      "image": "Tiffany",
+      "payload_bits": 980588,
+      "ecc_bpp": 3.7406463623046875,
+      "public_bytes": 53
+    }
+  ],
+  "rows": [
+    {
+      "image": "Man",
+      "attack": "control",
+      "level": 0,
+      "repeat": 1,
+      "seed": 2.0271019E+7,
+      "payload_bits": 872799,
+      "metadata": {
+        "changed_pixels": 0,
+        "changed_bits": 0,
+        "affected_area_fraction": 0,
+        "crop_square_side": 0,
+        "noise_sigma_gray_levels": 0
+      },
+      "result": {
+        "extraction_completed": true,
+        "payload_length_match": true,
+        "payload_exact": true,
+        "payload_bit_errors": 0,
+        "payload_ber": 0,
+        "recovery_attempted": true,
+        "recovery_completed": true,
+        "image_exact": true,
+        "pixel_mismatches": 0,
+        "image_psnr_db": null,
+        "joint_exact": true,
+        "failure_stage": "",
+        "extraction_error": "",
+        "recovery_error": "",
+        "error_message": "",
+        "reference_exact": true,
+        "seconds": 1.4543591
+      }
+    },
+    {
+      "image": "Man",
+      "attack": "bitflip",
+      "level": 1,
+      "repeat": 1,
+      "seed": 2.0271119E+7,
+      "payload_bits": 872799,
+      "metadata": {
+        "changed_pixels": 1,
+        "changed_bits": 1,
+        "affected_area_fraction": 0,
+        "crop_square_side": 0,
+        "noise_sigma_gray_levels": 0
+      },
+      "result": {
+        "extraction_completed": true,
+        "payload_length_match": true,
+        "payload_exact": false,
+        "payload_bit_errors": 1,
+        "payload_ber": 1.145739167895472E-6,
+        "recovery_attempted": true,
+        "recovery_completed": true,
+        "image_exact": true,
+        "pixel_mismatches": 0,
+        "image_psnr_db": null,
+        "joint_exact": false,
+        "failure_stage": "",
+        "extraction_error": "",
+        "recovery_error": "",
+        "error_message": "",
+        "reference_exact": true,
+        "seconds": 1.3506934
+      }
+    },
+    {
+      "image": "Jetplane",
+      "attack": "control",
+      "level": 0,
+      "repeat": 1,
+      "seed": 2.0281019E+7,
+      "payload_bits": 1.035906E+6,
+      "metadata": {
+        "changed_pixels": 0,
+        "changed_bits": 0,
+        "affected_area_fraction": 0,
+        "crop_square_side": 0,
+        "noise_sigma_gray_levels": 0
+      },
+      "result": {
+        "extraction_completed": true,
+        "payload_length_match": true,
+        "payload_exact": true,
+        "payload_bit_errors": 0,
+        "payload_ber": 0,
+        "recovery_attempted": true,
+        "recovery_completed": true,
+        "image_exact": true,
+        "pixel_mismatches": 0,
+        "image_psnr_db": null,
+        "joint_exact": true,
+        "failure_stage": "",
+        "extraction_error": "",
+        "recovery_error": "",
+        "error_message": "",
+        "reference_exact": true,
+        "seconds": 1.7377373
+      }
+    },
+    {
+      "image": "Jetplane",
+      "attack": "bitflip",
+      "level": 1,
+      "repeat": 1,
+      "seed": 2.0281119E+7,
+      "payload_bits": 1.035906E+6,
+      "metadata": {
+        "changed_pixels": 1,
+        "changed_bits": 1,
+        "affected_area_fraction": 0,
+        "crop_square_side": 0,
+        "noise_sigma_gray_levels": 0
+      },
+      "result": {
+        "extraction_completed": true,
+        "payload_length_match": true,
+        "payload_exact": true,
+        "payload_bit_errors": 0,
+        "payload_ber": 0,
+        "recovery_attempted": true,
+        "recovery_completed": false,
+        "image_exact": false,
+        "pixel_mismatches": null,
+        "image_psnr_db": null,
+        "joint_exact": false,
+        "failure_stage": "image_decode",
+        "extraction_error": "",
+        "recovery_error": "Recover_Image2:BlockMismatch",
+        "error_message": " | Block (15,32) has 1 mismatched elements; first at (14,10): expected 219, got 217.",
+        "reference_exact": true,
+        "seconds": 1.1137048
+      }
+    },
+    {
+      "image": "Baboon",
+      "attack": "control",
+      "level": 0,
+      "repeat": 1,
+      "seed": 2.0291019E+7,
+      "payload_bits": 491502,
+      "metadata": {
+        "changed_pixels": 0,
+        "changed_bits": 0,
+        "affected_area_fraction": 0,
+        "crop_square_side": 0,
+        "noise_sigma_gray_levels": 0
+      },
+      "result": {
+        "extraction_completed": true,
+        "payload_length_match": true,
+        "payload_exact": true,
+        "payload_bit_errors": 0,
+        "payload_ber": 0,
+        "recovery_attempted": true,
+        "recovery_completed": true,
+        "image_exact": true,
+        "pixel_mismatches": 0,
+        "image_psnr_db": null,
+        "joint_exact": true,
+        "failure_stage": "",
+        "extraction_error": "",
+        "recovery_error": "",
+        "error_message": "",
+        "reference_exact": true,
+        "seconds": 1.2156892
+      }
+    },
+    {
+      "image": "Baboon",
+      "attack": "bitflip",
+      "level": 1,
+      "repeat": 1,
+      "seed": 2.0291119E+7,
+      "payload_bits": 491502,
+      "metadata": {
+        "changed_pixels": 1,
+        "changed_bits": 1,
+        "affected_area_fraction": 0,
+        "crop_square_side": 0,
+        "noise_sigma_gray_levels": 0
+      },
+      "result": {
+        "extraction_completed": true,
+        "payload_length_match": true,
+        "payload_exact": true,
+        "payload_bit_errors": 0,
+        "payload_ber": 0,
+        "recovery_attempted": true,
+        "recovery_completed": false,
+        "image_exact": false,
+        "pixel_mismatches": null,
+        "image_psnr_db": null,
+        "joint_exact": false,
+        "failure_stage": "image_decode",
+        "extraction_error": "",
+        "recovery_error": "Recover_Image2:BlockMismatch",
+        "error_message": " | Block (14,6) has 1 mismatched elements; first at (13,7): expected 123, got 107.",
+        "reference_exact": true,
+        "seconds": 0.8519086
+      }
+    },
+    {
+      "image": "Tiffany",
+      "attack": "control",
+      "level": 0,
+      "repeat": 1,
+      "seed": 2.0301019E+7,
+      "payload_bits": 980588,
+      "metadata": {
+        "changed_pixels": 0,
+        "changed_bits": 0,
+        "affected_area_fraction": 0,
+        "crop_square_side": 0,
+        "noise_sigma_gray_levels": 0
+      },
+      "result": {
+        "extraction_completed": true,
+        "payload_length_match": true,
+        "payload_exact": true,
+        "payload_bit_errors": 0,
+        "payload_ber": 0,
+        "recovery_attempted": true,
+        "recovery_completed": true,
+        "image_exact": true,
+        "pixel_mismatches": 0,
+        "image_psnr_db": null,
+        "joint_exact": true,
+        "failure_stage": "",
+        "extraction_error": "",
+        "recovery_error": "",
+        "error_message": "",
+        "reference_exact": true,
+        "seconds": 1.6511638
+      }
+    },
+    {
+      "image": "Tiffany",
+      "attack": "bitflip",
+      "level": 1,
+      "repeat": 1,
+      "seed": 2.0301119E+7,
+      "payload_bits": 980588,
+      "metadata": {
+        "changed_pixels": 1,
+        "changed_bits": 1,
+        "affected_area_fraction": 0,
+        "crop_square_side": 0,
+        "noise_sigma_gray_levels": 0
+      },
+      "result": {
+        "extraction_completed": true,
+        "payload_length_match": true,
+        "payload_exact": true,
+        "payload_bit_errors": 0,
+        "payload_ber": 0,
+        "recovery_attempted": true,
+        "recovery_completed": false,
+        "image_exact": false,
+        "pixel_mismatches": null,
+        "image_psnr_db": null,
+        "joint_exact": false,
+        "failure_stage": "image_decode",
+        "extraction_error": "",
+        "recovery_error": "Recover_Image2:ElementMismatch",
+        "error_message": " | Block (30,32), element 146, local (10,2), image (474,498): expected 1, got 64; segment 2, state 6308929597186890 -> 154861665672698.",
+        "reference_exact": true,
+        "seconds": 0.4190668
+      }
+    }
+  ],
+  "public_header_intact": true,
+  "production_assertions_retained": true,
+  "recovery_timeout_seconds": 30,
+  "image_success_definition": "All production checks pass and every pixel matches."
+}

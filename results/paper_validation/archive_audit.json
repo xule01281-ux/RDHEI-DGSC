@@ -1,0 +1,31 @@
+{
+  "version": "1.1.0",
+  "main_chain_files_unchanged": 56,
+  "paper_table_summary_status": "PASS",
+  "table3_formal_sources": 1000,
+  "table3_pilot_sources": 200,
+  "table4_full_runs_archived": 20,
+  "table5_cases_archived": 16,
+  "table7_cases_archived": 28,
+  "table8_axis_cases_archived": 44,
+  "table11_formal_timing_measurements": 40,
+  "table12_records_archived": 148,
+  "paper_entries_validation": {
+    "status": "PASS",
+    "dgp_axis_cases": 11,
+    "dgp_exact_payload_matches": 11,
+    "timing_warmups": 1,
+    "timing_validation_repeats": 2,
+    "table4_validation_runs": 1,
+    "damage_validation_runs": 2,
+    "detection_validation_sources": 1,
+    "table5_validation_cases": 4,
+    "table10_proposed_validation_cases": 4,
+    "formal_experiments_rerun": false,
+    "full_datasets_run": false,
+    "all_dependencies_inside_package": true
+  },
+  "full_formal_experiments_rerun": false,
+  "full_datasets_run": false,
+  "public_status": "Local archive for author upload; no public URL yet"
+}

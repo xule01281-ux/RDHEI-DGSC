@@ -1,0 +1,1514 @@
+[
+  {
+    "image": "Man",
+    "group": "full",
+    "split": [
+      285,
+      222
+    ],
+    "data": {
+      "payload_bits": 872799,
+      "ecc_bpp": 3.3294639587402344,
+      "raw_slots_bits": 878919,
+      "global_overlap_bits": 32,
+      "displaced_bits": 6088,
+      "global_auxiliary_bits": 6082,
+      "block_header_bits": 467673,
+      "prediction_reference_bits": 1919,
+      "fold_map_bits": 64,
+      "fold_pixels": 2,
+      "skipped_blocks": 0,
+      "skipped_r_bits": 0,
+      "opt_bits": 6996,
+      "opt_method": "paeth_rice",
+      "prediction_seconds": 0.6497368,
+      "capacity_seconds": 1.9149202,
+      "prediction": {
+        "split": [
+          285,
+          222
+        ],
+        "pattern": 0,
+        "center_energy_ratio": 0.31474687007080837,
+        "directions": [
+          2,
+          0,
+          2,
+          1
+        ],
+        "residual_std": 7.9344678327911069,
+        "residual_mae": 4.7046966552734375,
+        "residual_rmse": 7.9351812865731839,
+        "residual_min": -113,
+        "residual_max": 136,
+        "diagnostics": [
+          260100,
+          260100,
+          259700,
+          400,
+          3407,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  {
+    "image": "Man",
+    "group": "no_scec",
+    "split": [
+      285,
+      222
+    ],
+    "data": {
+      "payload_bits": 867468,
+      "ecc_bpp": 3.3091278076171875,
+      "raw_slots_bits": 873572,
+      "global_overlap_bits": 32,
+      "displaced_bits": 6072,
+      "global_auxiliary_bits": 6069,
+      "block_header_bits": 467108,
+      "prediction_reference_bits": 1956,
+      "fold_map_bits": 64,
+      "fold_pixels": 2,
+      "skipped_blocks": 0,
+      "skipped_r_bits": 0,
+      "opt_bits": 7081,
+      "opt_method": "paeth_rice",
+      "prediction_seconds": 0.5364766,
+      "capacity_seconds": 1.7899303,
+      "prediction": {
+        "split": [
+          285,
+          222
+        ],
+        "pattern": 0,
+        "center_energy_ratio": 0.31474687007080837,
+        "directions": [
+          2,
+          2,
+          2,
+          1
+        ],
+        "residual_std": 8.24033615857427,
+        "residual_mae": 4.8687210083007812,
+        "residual_rmse": 8.2407067871664257,
+        "residual_min": -132,
+        "residual_max": 130,
+        "diagnostics": [
+          260100,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  {
+    "image": "Man",
+    "group": "no_feedback",
+    "split": [
+      285,
+      222
+    ],
+    "data": {
+      "payload_bits": 867468,
+      "ecc_bpp": 3.3091278076171875,
+      "raw_slots_bits": 873572,
+      "global_overlap_bits": 32,
+      "displaced_bits": 6072,
+      "global_auxiliary_bits": 6069,
+      "block_header_bits": 467108,
+      "prediction_reference_bits": 1956,
+      "fold_map_bits": 64,
+      "fold_pixels": 2,
+      "skipped_blocks": 0,
+      "skipped_r_bits": 0,
+      "opt_bits": 7081,
+      "opt_method": "paeth_rice",
+      "prediction_seconds": 0.6718323,
+      "capacity_seconds": 1.8834645,
+      "prediction": {
+        "split": [
+          285,
+          222
+        ],
+        "pattern": 0,
+        "center_energy_ratio": 0.31474687007080837,
+        "directions": [
+          2,
+          2,
+          2,
+          1
+        ],
+        "residual_std": 8.24033615857427,
+        "residual_mae": 4.8687210083007812,
+        "residual_rmse": 8.2407067871664257,
+        "residual_min": -132,
+        "residual_max": 130,
+        "diagnostics": [
+          260100,
+          260100,
+          259706,
+          394,
+          3442,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  {
+    "image": "Man",
+    "group": "no_spatial",
+    "split": [
+      285,
+      222
+    ],
+    "data": {
+      "payload_bits": 872799,
+      "ecc_bpp": 3.3294639587402344,
+      "raw_slots_bits": 878919,
+      "global_overlap_bits": 32,
+      "displaced_bits": 6088,
+      "global_auxiliary_bits": 6082,
+      "block_header_bits": 467673,
+      "prediction_reference_bits": 1919,
+      "fold_map_bits": 64,
+      "fold_pixels": 2,
+      "skipped_blocks": 0,
+      "skipped_r_bits": 0,
+      "opt_bits": 6996,
+      "opt_method": "paeth_rice",
+      "prediction_seconds": 0.6961079,
+      "capacity_seconds": 1.9042464,
+      "prediction": {
+        "split": [
+          285,
+          222
+        ],
+        "pattern": 0,
+        "center_energy_ratio": 0.31474687007080837,
+        "directions": [
+          2,
+          0,
+          2,
+          1
+        ],
+        "residual_std": 7.9344678327911069,
+        "residual_mae": 4.7046966552734375,
+        "residual_rmse": 7.9351812865731839,
+        "residual_min": -113,
+        "residual_max": 136,
+        "diagnostics": [
+          260100,
+          260100,
+          259700,
+          400,
+          3407,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  {
+    "image": "Man",
+    "group": "weight_05",
+    "split": [
+      285,
+      222
+    ],
+    "data": {
+      "payload_bits": 870781,
+      "ecc_bpp": 3.3217658996582031,
+      "raw_slots_bits": 876813,
+      "global_overlap_bits": 80,
+      "displaced_bits": 5952,
+      "global_auxiliary_bits": 5949,
+      "block_header_bits": 465923,
+      "prediction_reference_bits": 1911,
+      "fold_map_bits": 65,
+      "fold_pixels": 2,
+      "skipped_blocks": 0,
+      "skipped_r_bits": 0,
+      "opt_bits": 7023,
+      "opt_method": "paeth_rice",
+      "prediction_seconds": 0.6802172,
+      "capacity_seconds": 1.8821332,
+      "prediction": {
+        "split": [
+          285,
+          222
+        ],
+        "pattern": 0,
+        "center_energy_ratio": 0.31474687007080837,
+        "directions": [
+          2,
+          0,
+          2,
+          3
+        ],
+        "residual_std": 7.8878967887353024,
+        "residual_mae": 4.70440673828125,
+        "residual_rmse": 7.8886658304167234,
+        "residual_min": -112,
+        "residual_max": 140,
+        "diagnostics": [
+          260100,
+          260100,
+          259697,
+          403,
+          3378,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  {
+    "image": "Man",
+    "group": "no_bias_clamp",
+    "split": [
+      285,
+      222
+    ],
+    "data": {
+      "payload_bits": 873438,
+      "ecc_bpp": 3.3319015502929688,
+      "raw_slots_bits": 879494,
+      "global_overlap_bits": 0,
+      "displaced_bits": 6056,
+      "global_auxiliary_bits": 6050,
+      "block_header_bits": 465090,
+      "prediction_reference_bits": 1919,
+      "fold_map_bits": 64,
+      "fold_pixels": 2,
+      "skipped_blocks": 0,
+      "skipped_r_bits": 0,
+      "opt_bits": 6987,
+      "opt_method": "paeth_rice",
+      "prediction_seconds": 0.7148097,
+      "capacity_seconds": 1.888387,
+      "prediction": {
+        "split": [
+          285,
+          222
+        ],
+        "pattern": 0,
+        "center_energy_ratio": 0.31474687007080837,
+        "directions": [
+          2,
+          0,
+          2,
+          1
+        ],
+        "residual_std": 7.9248547687373421,
+        "residual_mae": 4.7005424499511719,
+        "residual_rmse": 7.9255957057662085,
+        "residual_min": -113,
+        "residual_max": 136,
+        "diagnostics": [
+          260100,
+          260100,
+          259700,
+          400,
+          0,
+          3,
+          0
+        ]
+      }
+    }
+  },
+  {
+    "image": "Man",
+    "group": "no_neighborhood_clamp",
+    "split": [
+      285,
+      222
+    ],
+    "data": {
+      "payload_bits": 872799,
+      "ecc_bpp": 3.3294639587402344,
+      "raw_slots_bits": 878919,
+      "global_overlap_bits": 32,
+      "displaced_bits": 6088,
+      "global_auxiliary_bits": 6082,
+      "block_header_bits": 467673,
+      "prediction_reference_bits": 1919,
+      "fold_map_bits": 64,
+      "fold_pixels": 2,
+      "skipped_blocks": 0,
+      "skipped_r_bits": 0,
+      "opt_bits": 6996,
+      "opt_method": "paeth_rice",
+      "prediction_seconds": 0.6479826,
+      "capacity_seconds": 1.8565055,
+      "prediction": {
+        "split": [
+          285,
+          222
+        ],
+        "pattern": 0,
+        "center_energy_ratio": 0.31474687007080837,
+        "directions": [
+          2,
+          0,
+          2,
+          1
+        ],
+        "residual_std": 7.9344678327911069,
+        "residual_mae": 4.7046966552734375,
+        "residual_rmse": 7.9351812865731839,
+        "residual_min": -113,
+        "residual_max": 136,
+        "diagnostics": [
+          260100,
+          260100,
+          259700,
+          400,
+          3407,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  {
+    "image": "Jetplane",
+    "group": "full",
+    "split": [
+      305,
+      235
+    ],
+    "data": {
+      "payload_bits": 1.035906E+6,
+      "ecc_bpp": 3.9516677856445312,
+      "raw_slots_bits": 1.043386E+6,
+      "global_overlap_bits": 104,
+      "displaced_bits": 7376,
+      "global_auxiliary_bits": 7370,
+      "block_header_bits": 437046,
+      "prediction_reference_bits": 3275,
+      "fold_map_bits": 66,
+      "fold_pixels": 2,
+      "skipped_blocks": 0,
+      "skipped_r_bits": 0,
+      "opt_bits": 6986,
+      "opt_method": "paeth_rice",
+      "prediction_seconds": 0.5829916,
+      "capacity_seconds": 1.7612257,
+      "prediction": {
+        "split": [
+          305,
+          235
+        ],
+        "pattern": 1,
+        "center_energy_ratio": 0.44200500491077294,
+        "directions": [
+          0,
+          3,
+          2,
+          3
+        ],
+        "residual_std": 6.9003641125231034,
+        "residual_mae": 3.6492576599121094,
+        "residual_rmse": 6.9050808430440993,
+        "residual_min": -137,
+        "residual_max": 78,
+        "diagnostics": [
+          260100,
+          51305,
+          51304,
+          1,
+          1752,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  {
+    "image": "Jetplane",
+    "group": "no_scec",
+    "split": [
+      305,
+      235
+    ],
+    "data": {
+      "payload_bits": 1.031964E+6,
+      "ecc_bpp": 3.9366302490234375,
+      "raw_slots_bits": 1.038772E+6,
+      "global_overlap_bits": 512,
+      "displaced_bits": 6296,
+      "global_auxiliary_bits": 6289,
+      "block_header_bits": 460676,
+      "prediction_reference_bits": 2165,
+      "fold_map_bits": 66,
+      "fold_pixels": 2,
+      "skipped_blocks": 0,
+      "skipped_r_bits": 0,
+      "opt_bits": 7122,
+      "opt_method": "paeth_rice",
+      "prediction_seconds": 0.4500362,
+      "capacity_seconds": 1.68238,
+      "prediction": {
+        "split": [
+          305,
+          235
+        ],
+        "pattern": 1,
+        "center_energy_ratio": 0.44200500491077294,
+        "directions": [
+          0,
+          3,
+          2,
+          2
+        ],
+        "residual_std": 6.5552853557168511,
+        "residual_mae": 3.4964561462402344,
+        "residual_rmse": 6.5552744005907959,
+        "residual_min": -144,
+        "residual_max": 82,
+        "diagnostics": [
+          260100,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  {
+    "image": "Jetplane",
+    "group": "no_feedback",
+    "split": [
+      305,
+      235
+    ],
+    "data": {
+      "payload_bits": 1.033352E+6,
+      "ecc_bpp": 3.941925048828125,
+      "raw_slots_bits": 1.040872E+6,
+      "global_overlap_bits": 104,
+      "displaced_bits": 7416,
+      "global_auxiliary_bits": 7414,
+      "block_header_bits": 444880,
+      "prediction_reference_bits": 3275,
+      "fold_map_bits": 66,
+      "fold_pixels": 2,
+      "skipped_blocks": 0,
+      "skipped_r_bits": 0,
+      "opt_bits": 7056,
+      "opt_method": "paeth_rice",
+      "prediction_seconds": 0.6243036,
+      "capacity_seconds": 1.8072601,
+      "prediction": {
+        "split": [
+          305,
+          235
+        ],
+        "pattern": 1,
+        "center_energy_ratio": 0.44200500491077294,
+        "directions": [
+          0,
+          3,
+          2,
+          3
+        ],
+        "residual_std": 7.0557171804092871,
+        "residual_mae": 3.7135772705078125,
+        "residual_rmse": 7.0605622730641224,
+        "residual_min": -137,
+        "residual_max": 82,
+        "diagnostics": [
+          260100,
+          51305,
+          51304,
+          1,
+          1752,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  {
+    "image": "Jetplane",
+    "group": "no_spatial",
+    "split": [
+      305,
+      235
+    ],
+    "data": {
+      "payload_bits": 1.031992E+6,
+      "ecc_bpp": 3.936737060546875,
+      "raw_slots_bits": 1.038656E+6,
+      "global_overlap_bits": 344,
+      "displaced_bits": 6320,
+      "global_auxiliary_bits": 6312,
+      "block_header_bits": 450016,
+      "prediction_reference_bits": 2181,
+      "fold_map_bits": 66,
+      "fold_pixels": 2,
+      "skipped_blocks": 0,
+      "skipped_r_bits": 0,
+      "opt_bits": 7014,
+      "opt_method": "paeth_rice",
+      "prediction_seconds": 0.6460479,
+      "capacity_seconds": 1.80524,
+      "prediction": {
+        "split": [
+          305,
+          235
+        ],
+        "pattern": 1,
+        "center_energy_ratio": 0.44200500491077294,
+        "directions": [
+          0,
+          3,
+          2,
+          0
+        ],
+        "residual_std": 6.2181696807594973,
+        "residual_mae": 3.3781166076660156,
+        "residual_rmse": 6.2181601699906546,
+        "residual_min": -144,
+        "residual_max": 97,
+        "diagnostics": [
+          260100,
+          260100,
+          259949,
+          151,
+          3352,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  {
+    "image": "Jetplane",
+    "group": "weight_05",
+    "split": [
+      305,
+      235
+    ],
+    "data": {
+      "payload_bits": 1.037027E+6,
+      "ecc_bpp": 3.9559440612792969,
+      "raw_slots_bits": 1.043379E+6,
+      "global_overlap_bits": 24,
+      "displaced_bits": 6328,
+      "global_auxiliary_bits": 6324,
+      "block_header_bits": 435085,
+      "prediction_reference_bits": 2165,
+      "fold_map_bits": 66,
+      "fold_pixels": 2,
+      "skipped_blocks": 0,
+      "skipped_r_bits": 0,
+      "opt_bits": 6941,
+      "opt_method": "paeth_rice",
+      "prediction_seconds": 0.5655504,
+      "capacity_seconds": 1.6658421,
+      "prediction": {
+        "split": [
+          305,
+          235
+        ],
+        "pattern": 1,
+        "center_energy_ratio": 0.44200500491077294,
+        "directions": [
+          0,
+          3,
+          3,
+          3
+        ],
+        "residual_std": 6.8763975235535835,
+        "residual_mae": 3.6492271423339844,
+        "residual_rmse": 6.880859375,
+        "residual_min": -134,
+        "residual_max": 146,
+        "diagnostics": [
+          260100,
+          51177,
+          51176,
+          1,
+          1744,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  {
+    "image": "Jetplane",
+    "group": "no_bias_clamp",
+    "split": [
+      305,
+      235
+    ],
+    "data": {
+      "payload_bits": 1.035975E+6,
+      "ecc_bpp": 3.9519309997558594,
+      "raw_slots_bits": 1.043511E+6,
+      "global_overlap_bits": 104,
+      "displaced_bits": 7432,
+      "global_auxiliary_bits": 7429,
+      "block_header_bits": 437113,
+      "prediction_reference_bits": 3275,
+      "fold_map_bits": 66,
+      "fold_pixels": 2,
+      "skipped_blocks": 0,
+      "skipped_r_bits": 0,
+      "opt_bits": 7020,
+      "opt_method": "paeth_rice",
+      "prediction_seconds": 0.5217045,
+      "capacity_seconds": 1.5935145,
+      "prediction": {
+        "split": [
+          305,
+          235
+        ],
+        "pattern": 1,
+        "center_energy_ratio": 0.44200500491077294,
+        "directions": [
+          0,
+          3,
+          2,
+          3
+        ],
+        "residual_std": 6.8756832960922871,
+        "residual_mae": 3.6411323547363281,
+        "residual_rmse": 6.8803692745200653,
+        "residual_min": -137,
+        "residual_max": 78,
+        "diagnostics": [
+          260100,
+          51305,
+          51304,
+          1,
+          0,
+          8,
+          0
+        ]
+      }
+    }
+  },
+  {
+    "image": "Jetplane",
+    "group": "no_neighborhood_clamp",
+    "split": [
+      305,
+      235
+    ],
+    "data": {
+      "payload_bits": 1.035906E+6,
+      "ecc_bpp": 3.9516677856445312,
+      "raw_slots_bits": 1.043386E+6,
+      "global_overlap_bits": 104,
+      "displaced_bits": 7376,
+      "global_auxiliary_bits": 7370,
+      "block_header_bits": 437046,
+      "prediction_reference_bits": 3275,
+      "fold_map_bits": 66,
+      "fold_pixels": 2,
+      "skipped_blocks": 0,
+      "skipped_r_bits": 0,
+      "opt_bits": 6986,
+      "opt_method": "paeth_rice",
+      "prediction_seconds": 0.5376963,
+      "capacity_seconds": 1.607989,
+      "prediction": {
+        "split": [
+          305,
+          235
+        ],
+        "pattern": 1,
+        "center_energy_ratio": 0.44200500491077294,
+        "directions": [
+          0,
+          3,
+          2,
+          3
+        ],
+        "residual_std": 6.9003641125231034,
+        "residual_mae": 3.6492576599121094,
+        "residual_rmse": 6.9050808430440993,
+        "residual_min": -137,
+        "residual_max": 78,
+        "diagnostics": [
+          260100,
+          51305,
+          51304,
+          1,
+          1752,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  {
+    "image": "Baboon",
+    "group": "full",
+    "split": [
+      179,
+      244
+    ],
+    "data": {
+      "payload_bits": 491502,
+      "ecc_bpp": 1.8749313354492188,
+      "raw_slots_bits": 496158,
+      "global_overlap_bits": 0,
+      "displaced_bits": 4656,
+      "global_auxiliary_bits": 4653,
+      "block_header_bits": 410882,
+      "prediction_reference_bits": 695,
+      "fold_map_bits": 66,
+      "fold_pixels": 2,
+      "skipped_blocks": 0,
+      "skipped_r_bits": 0,
+      "opt_bits": 6763,
+      "opt_method": "paeth_rice",
+      "prediction_seconds": 0.6279714,
+      "capacity_seconds": 2.3712593,
+      "prediction": {
+        "split": [
+          179,
+          244
+        ],
+        "pattern": 0,
+        "center_energy_ratio": 0.11224634544470671,
+        "directions": [
+          3,
+          2,
+          1,
+          3
+        ],
+        "residual_std": 17.872291324208351,
+        "residual_mae": 12.374042510986328,
+        "residual_rmse": 17.872287464401559,
+        "residual_min": -129,
+        "residual_max": 173,
+        "diagnostics": [
+          260100,
+          260100,
+          260100,
+          0,
+          27420,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  {
+    "image": "Baboon",
+    "group": "no_scec",
+    "split": [
+      179,
+      244
+    ],
+    "data": {
+      "payload_bits": 488107,
+      "ecc_bpp": 1.8619804382324219,
+      "raw_slots_bits": 492747,
+      "global_overlap_bits": 0,
+      "displaced_bits": 4640,
+      "global_auxiliary_bits": 4635,
+      "block_header_bits": 401077,
+      "prediction_reference_bits": 695,
+      "fold_map_bits": 48,
+      "fold_pixels": 1,
+      "skipped_blocks": 0,
+      "skipped_r_bits": 0,
+      "opt_bits": 6800,
+      "opt_method": "paeth_rice",
+      "prediction_seconds": 0.4373224,
+      "capacity_seconds": 2.2449157,
+      "prediction": {
+        "split": [
+          179,
+          244
+        ],
+        "pattern": 0,
+        "center_energy_ratio": 0.11224634544470671,
+        "directions": [
+          3,
+          2,
+          1,
+          3
+        ],
+        "residual_std": 18.171520963725033,
+        "residual_mae": 12.593711853027344,
+        "residual_rmse": 18.171541848904948,
+        "residual_min": -127,
+        "residual_max": 173,
+        "diagnostics": [
+          260100,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  {
+    "image": "Baboon",
+    "group": "no_feedback",
+    "split": [
+      179,
+      244
+    ],
+    "data": {
+      "payload_bits": 488107,
+      "ecc_bpp": 1.8619804382324219,
+      "raw_slots_bits": 492747,
+      "global_overlap_bits": 0,
+      "displaced_bits": 4640,
+      "global_auxiliary_bits": 4635,
+      "block_header_bits": 401077,
+      "prediction_reference_bits": 695,
+      "fold_map_bits": 48,
+      "fold_pixels": 1,
+      "skipped_blocks": 0,
+      "skipped_r_bits": 0,
+      "opt_bits": 6800,
+      "opt_method": "paeth_rice",
+      "prediction_seconds": 0.640551,
+      "capacity_seconds": 2.4399327,
+      "prediction": {
+        "split": [
+          179,
+          244
+        ],
+        "pattern": 0,
+        "center_energy_ratio": 0.11224634544470671,
+        "directions": [
+          3,
+          2,
+          1,
+          3
+        ],
+        "residual_std": 18.171520963725033,
+        "residual_mae": 12.593711853027344,
+        "residual_rmse": 18.171541848904948,
+        "residual_min": -127,
+        "residual_max": 173,
+        "diagnostics": [
+          260100,
+          260100,
+          260100,
+          0,
+          27420,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  {
+    "image": "Baboon",
+    "group": "no_spatial",
+    "split": [
+      179,
+      244
+    ],
+    "data": {
+      "payload_bits": 491502,
+      "ecc_bpp": 1.8749313354492188,
+      "raw_slots_bits": 496158,
+      "global_overlap_bits": 0,
+      "displaced_bits": 4656,
+      "global_auxiliary_bits": 4653,
+      "block_header_bits": 410882,
+      "prediction_reference_bits": 695,
+      "fold_map_bits": 66,
+      "fold_pixels": 2,
+      "skipped_blocks": 0,
+      "skipped_r_bits": 0,
+      "opt_bits": 6763,
+      "opt_method": "paeth_rice",
+      "prediction_seconds": 0.6162144,
+      "capacity_seconds": 2.3557743,
+      "prediction": {
+        "split": [
+          179,
+          244
+        ],
+        "pattern": 0,
+        "center_energy_ratio": 0.11224634544470671,
+        "directions": [
+          3,
+          2,
+          1,
+          3
+        ],
+        "residual_std": 17.872291324208351,
+        "residual_mae": 12.374042510986328,
+        "residual_rmse": 17.872287464401559,
+        "residual_min": -129,
+        "residual_max": 173,
+        "diagnostics": [
+          260100,
+          260100,
+          260100,
+          0,
+          27420,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  {
+    "image": "Baboon",
+    "group": "weight_05",
+    "split": [
+      179,
+      244
+    ],
+    "data": {
+      "payload_bits": 489521,
+      "ecc_bpp": 1.8673744201660156,
+      "raw_slots_bits": 494177,
+      "global_overlap_bits": 0,
+      "displaced_bits": 4656,
+      "global_auxiliary_bits": 4649,
+      "block_header_bits": 409807,
+      "prediction_reference_bits": 695,
+      "fold_map_bits": 82,
+      "fold_pixels": 3,
+      "skipped_blocks": 0,
+      "skipped_r_bits": 0,
+      "opt_bits": 6759,
+      "opt_method": "paeth_rice",
+      "prediction_seconds": 0.6563238,
+      "capacity_seconds": 2.4212846,
+      "prediction": {
+        "split": [
+          179,
+          244
+        ],
+        "pattern": 0,
+        "center_energy_ratio": 0.11224634544470671,
+        "directions": [
+          3,
+          2,
+          1,
+          3
+        ],
+        "residual_std": 17.899389799354459,
+        "residual_mae": 12.397552490234375,
+        "residual_rmse": 17.89938100245358,
+        "residual_min": -130,
+        "residual_max": 173,
+        "diagnostics": [
+          260100,
+          260100,
+          260100,
+          0,
+          27420,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  {
+    "image": "Baboon",
+    "group": "no_bias_clamp",
+    "split": [
+      179,
+      244
+    ],
+    "data": {
+      "payload_bits": 488505,
+      "ecc_bpp": 1.8634986877441406,
+      "raw_slots_bits": 495161,
+      "global_overlap_bits": 0,
+      "displaced_bits": 6656,
+      "global_auxiliary_bits": 6651,
+      "block_header_bits": 413967,
+      "prediction_reference_bits": 2612,
+      "fold_map_bits": 66,
+      "fold_pixels": 2,
+      "skipped_blocks": 0,
+      "skipped_r_bits": 0,
+      "opt_bits": 6753,
+      "opt_method": "paeth_rice",
+      "prediction_seconds": 0.7078092,
+      "capacity_seconds": 2.5181052,
+      "prediction": {
+        "split": [
+          179,
+          244
+        ],
+        "pattern": 0,
+        "center_energy_ratio": 0.11224634544470671,
+        "directions": [
+          3,
+          2,
+          2,
+          3
+        ],
+        "residual_std": 17.869120034924904,
+        "residual_mae": 12.361660003662109,
+        "residual_rmse": 17.869133366691607,
+        "residual_min": -145,
+        "residual_max": 122,
+        "diagnostics": [
+          260100,
+          260100,
+          260100,
+          0,
+          0,
+          37,
+          0
+        ]
+      }
+    }
+  },
+  {
+    "image": "Baboon",
+    "group": "no_neighborhood_clamp",
+    "split": [
+      179,
+      244
+    ],
+    "data": {
+      "payload_bits": 491502,
+      "ecc_bpp": 1.8749313354492188,
+      "raw_slots_bits": 496158,
+      "global_overlap_bits": 0,
+      "displaced_bits": 4656,
+      "global_auxiliary_bits": 4653,
+      "block_header_bits": 410882,
+      "prediction_reference_bits": 695,
+      "fold_map_bits": 66,
+      "fold_pixels": 2,
+      "skipped_blocks": 0,
+      "skipped_r_bits": 0,
+      "opt_bits": 6763,
+      "opt_method": "paeth_rice",
+      "prediction_seconds": 0.6469009,
+      "capacity_seconds": 2.459473,
+      "prediction": {
+        "split": [
+          179,
+          244
+        ],
+        "pattern": 0,
+        "center_energy_ratio": 0.11224634544470671,
+        "directions": [
+          3,
+          2,
+          1,
+          3
+        ],
+        "residual_std": 17.872291324208351,
+        "residual_mae": 12.374042510986328,
+        "residual_rmse": 17.872287464401559,
+        "residual_min": -129,
+        "residual_max": 173,
+        "diagnostics": [
+          260100,
+          260100,
+          260100,
+          0,
+          27420,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  {
+    "image": "Tiffany",
+    "group": "full",
+    "split": [
+      253,
+      254
+    ],
+    "data": {
+      "payload_bits": 980588,
+      "ecc_bpp": 3.7406463623046875,
+      "raw_slots_bits": 985924,
+      "global_overlap_bits": 448,
+      "displaced_bits": 4888,
+      "global_auxiliary_bits": 4881,
+      "block_header_bits": 423148,
+      "prediction_reference_bits": 691,
+      "fold_map_bits": 116,
+      "fold_pixels": 5,
+      "skipped_blocks": 0,
+      "skipped_r_bits": 0,
+      "opt_bits": 7005,
+      "opt_method": "paeth_rice",
+      "prediction_seconds": 0.6184154,
+      "capacity_seconds": 1.773341,
+      "prediction": {
+        "split": [
+          253,
+          254
+        ],
+        "pattern": 0,
+        "center_energy_ratio": 0.24092772405070698,
+        "directions": [
+          2,
+          0,
+          2,
+          2
+        ],
+        "residual_std": 5.4258785221700156,
+        "residual_mae": 3.3472862243652344,
+        "residual_rmse": 5.426018530516262,
+        "residual_min": -250,
+        "residual_max": 200,
+        "diagnostics": [
+          260100,
+          260100,
+          259522,
+          578,
+          3574,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  {
+    "image": "Tiffany",
+    "group": "no_scec",
+    "split": [
+      253,
+      254
+    ],
+    "data": {
+      "payload_bits": 985630,
+      "ecc_bpp": 3.7598800659179688,
+      "raw_slots_bits": 991102,
+      "global_overlap_bits": 528,
+      "displaced_bits": 4944,
+      "global_auxiliary_bits": 4937,
+      "block_header_bits": 428218,
+      "prediction_reference_bits": 691,
+      "fold_map_bits": 116,
+      "fold_pixels": 5,
+      "skipped_blocks": 0,
+      "skipped_r_bits": 0,
+      "opt_bits": 6975,
+      "opt_method": "paeth_rice",
+      "prediction_seconds": 0.4592869,
+      "capacity_seconds": 1.5976156,
+      "prediction": {
+        "split": [
+          253,
+          254
+        ],
+        "pattern": 0,
+        "center_energy_ratio": 0.24092772405070698,
+        "directions": [
+          2,
+          0,
+          2,
+          2
+        ],
+        "residual_std": 5.5687814451149658,
+        "residual_mae": 3.3857383728027344,
+        "residual_rmse": 5.5689478161545685,
+        "residual_min": -250,
+        "residual_max": 200,
+        "diagnostics": [
+          260100,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  {
+    "image": "Tiffany",
+    "group": "no_feedback",
+    "split": [
+      253,
+      254
+    ],
+    "data": {
+      "payload_bits": 985630,
+      "ecc_bpp": 3.7598800659179688,
+      "raw_slots_bits": 991102,
+      "global_overlap_bits": 528,
+      "displaced_bits": 4944,
+      "global_auxiliary_bits": 4937,
+      "block_header_bits": 428218,
+      "prediction_reference_bits": 691,
+      "fold_map_bits": 116,
+      "fold_pixels": 5,
+      "skipped_blocks": 0,
+      "skipped_r_bits": 0,
+      "opt_bits": 6975,
+      "opt_method": "paeth_rice",
+      "prediction_seconds": 0.6671974,
+      "capacity_seconds": 1.7450061,
+      "prediction": {
+        "split": [
+          253,
+          254
+        ],
+        "pattern": 0,
+        "center_energy_ratio": 0.24092772405070698,
+        "directions": [
+          2,
+          0,
+          2,
+          2
+        ],
+        "residual_std": 5.5687814451149658,
+        "residual_mae": 3.3857383728027344,
+        "residual_rmse": 5.5689478161545685,
+        "residual_min": -250,
+        "residual_max": 200,
+        "diagnostics": [
+          260100,
+          260100,
+          259522,
+          578,
+          3574,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  {
+    "image": "Tiffany",
+    "group": "no_spatial",
+    "split": [
+      253,
+      254
+    ],
+    "data": {
+      "payload_bits": 980588,
+      "ecc_bpp": 3.7406463623046875,
+      "raw_slots_bits": 985924,
+      "global_overlap_bits": 448,
+      "displaced_bits": 4888,
+      "global_auxiliary_bits": 4881,
+      "block_header_bits": 423148,
+      "prediction_reference_bits": 691,
+      "fold_map_bits": 116,
+      "fold_pixels": 5,
+      "skipped_blocks": 0,
+      "skipped_r_bits": 0,
+      "opt_bits": 7005,
+      "opt_method": "paeth_rice",
+      "prediction_seconds": 0.6296379,
+      "capacity_seconds": 1.7264858,
+      "prediction": {
+        "split": [
+          253,
+          254
+        ],
+        "pattern": 0,
+        "center_energy_ratio": 0.24092772405070698,
+        "directions": [
+          2,
+          0,
+          2,
+          2
+        ],
+        "residual_std": 5.4258785221700156,
+        "residual_mae": 3.3472862243652344,
+        "residual_rmse": 5.426018530516262,
+        "residual_min": -250,
+        "residual_max": 200,
+        "diagnostics": [
+          260100,
+          260100,
+          259522,
+          578,
+          3574,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  {
+    "image": "Tiffany",
+    "group": "weight_05",
+    "split": [
+      253,
+      254
+    ],
+    "data": {
+      "payload_bits": 977704,
+      "ecc_bpp": 3.729644775390625,
+      "raw_slots_bits": 984008,
+      "global_overlap_bits": 240,
+      "displaced_bits": 6064,
+      "global_auxiliary_bits": 6057,
+      "block_header_bits": 419616,
+      "prediction_reference_bits": 1918,
+      "fold_map_bits": 100,
+      "fold_pixels": 4,
+      "skipped_blocks": 0,
+      "skipped_r_bits": 0,
+      "opt_bits": 6937,
+      "opt_method": "paeth_rice",
+      "prediction_seconds": 0.6588598,
+      "capacity_seconds": 1.7583563,
+      "prediction": {
+        "split": [
+          253,
+          254
+        ],
+        "pattern": 0,
+        "center_energy_ratio": 0.24092772405070698,
+        "directions": [
+          2,
+          0,
+          2,
+          1
+        ],
+        "residual_std": 5.3979178851057279,
+        "residual_mae": 3.3628997802734375,
+        "residual_rmse": 5.3980445994866395,
+        "residual_min": -139,
+        "residual_max": 200,
+        "diagnostics": [
+          260100,
+          260100,
+          259525,
+          575,
+          3560,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  {
+    "image": "Tiffany",
+    "group": "no_bias_clamp",
+    "split": [
+      253,
+      254
+    ],
+    "data": {
+      "payload_bits": 980581,
+      "ecc_bpp": 3.7406196594238281,
+      "raw_slots_bits": 985821,
+      "global_overlap_bits": 368,
+      "displaced_bits": 4872,
+      "global_auxiliary_bits": 4867,
+      "block_header_bits": 422659,
+      "prediction_reference_bits": 691,
+      "fold_map_bits": 116,
+      "fold_pixels": 5,
+      "skipped_blocks": 0,
+      "skipped_r_bits": 0,
+      "opt_bits": 6963,
+      "opt_method": "paeth_rice",
+      "prediction_seconds": 0.6105565,
+      "capacity_seconds": 1.7298412,
+      "prediction": {
+        "split": [
+          253,
+          254
+        ],
+        "pattern": 0,
+        "center_energy_ratio": 0.24092772405070698,
+        "directions": [
+          2,
+          0,
+          2,
+          2
+        ],
+        "residual_std": 5.4115626016107461,
+        "residual_mae": 3.3402442932128906,
+        "residual_rmse": 5.411709713229607,
+        "residual_min": -250,
+        "residual_max": 200,
+        "diagnostics": [
+          260100,
+          260100,
+          259522,
+          578,
+          0,
+          12,
+          0
+        ]
+      }
+    }
+  },
+  {
+    "image": "Tiffany",
+    "group": "no_neighborhood_clamp",
+    "split": [
+      253,
+      254
+    ],
+    "data": {
+      "payload_bits": 980588,
+      "ecc_bpp": 3.7406463623046875,
+      "raw_slots_bits": 985924,
+      "global_overlap_bits": 448,
+      "displaced_bits": 4888,
+      "global_auxiliary_bits": 4881,
+      "block_header_bits": 423148,
+      "prediction_reference_bits": 691,
+      "fold_map_bits": 116,
+      "fold_pixels": 5,
+      "skipped_blocks": 0,
+      "skipped_r_bits": 0,
+      "opt_bits": 7005,
+      "opt_method": "paeth_rice",
+      "prediction_seconds": 0.6252218,
+      "capacity_seconds": 1.7142985,
+      "prediction": {
+        "split": [
+          253,
+          254
+        ],
+        "pattern": 0,
+        "center_energy_ratio": 0.24092772405070698,
+        "directions": [
+          2,
+          0,
+          2,
+          2
+        ],
+        "residual_std": 5.4258785221700156,
+        "residual_mae": 3.3472862243652344,
+        "residual_rmse": 5.426018530516262,
+        "residual_min": -250,
+        "residual_max": 200,
+        "diagnostics": [
+          260100,
+          260100,
+          259522,
+          578,
+          3574,
+          0,
+          0
+        ]
+      }
+    }
+  }
+]

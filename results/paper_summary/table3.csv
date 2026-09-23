@@ -1,0 +1,11 @@
+﻿auc,balanced_accuracy,comparison,detector
+0.9989333333333333,0.9733333333333334,AES vs zero payload,statistics_only
+1.0,1.0,AES vs zero payload,statistics_and_public_parser
+0.9984555555555555,0.9683333333333333,AES vs full payload,statistics_only
+1.0,1.0,AES vs full payload,statistics_and_public_parser
+0.4534111111111111,0.4666666666666667,zero vs 25 percent,statistics_only
+0.4534111111111111,0.4666666666666667,zero vs 25 percent,statistics_and_public_parser
+0.4829777777777778,0.4816666666666667,zero vs 50 percent,statistics_only
+0.4829777777777778,0.4816666666666667,zero vs 50 percent,statistics_and_public_parser
+0.5056555555555555,0.5116666666666667,zero vs full payload,statistics_only
+0.5056555555555555,0.5116666666666667,zero vs full payload,statistics_and_public_parser

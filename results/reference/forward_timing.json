@@ -1,0 +1,59 @@
+{
+  "matlab_version": "9.14.0.2206163 (R2023a)",
+  "computer": "PCWIN64",
+  "images": [
+    "Man",
+    "Jetplane",
+    "Baboon",
+    "Tiffany"
+  ],
+  "timing_scope": "deviate entry through protected-image block/pixel scrambling; excludes receiver",
+  "warmup_calls_per_image": 1,
+  "repeats": 3,
+  "seconds": [
+    [
+      2.4606362,
+      2.1755512,
+      2.7773982,
+      2.1780916
+    ],
+    [
+      2.3959264,
+      2.1535783,
+      2.8986023,
+      2.2019426
+    ],
+    [
+      2.3635604,
+      2.111077,
+      2.777677,
+      2.1437794
+    ]
+  ],
+  "mean_seconds": [
+    2.4067076666666667,
+    2.1467355,
+    2.8178924999999997,
+    2.1746045333333335
+  ],
+  "std_seconds": [
+    0.049427770732790956,
+    0.032777256601033714,
+    0.06989687614185619,
+    0.029237975032709355
+  ],
+  "median_seconds": [
+    2.3959264,
+    2.1535783,
+    2.777677,
+    2.1780916
+  ],
+  "payload_bits": [
+    872799,
+    1.035906E+6,
+    491502,
+    980588
+  ],
+  "total_payload_bits": 3.380795E+6,
+  "sum_mean_seconds": 9.5459402
+}

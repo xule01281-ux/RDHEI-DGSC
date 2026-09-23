@@ -1,0 +1,693 @@
+{
+  "table3": [
+    {
+      "auc": 0.9989333333333333,
+      "balanced_accuracy": 0.9733333333333334,
+      "auc_ci95": [
+        0.9979608333333334,
+        0.9996841666666667
+      ],
+      "comparison": "AES vs zero payload",
+      "detector": "statistics_only"
+    },
+    {
+      "auc": 1.0,
+      "balanced_accuracy": 1.0,
+      "auc_ci95": [
+        1.0,
+        1.0
+      ],
+      "comparison": "AES vs zero payload",
+      "detector": "statistics_and_public_parser"
+    },
+    {
+      "auc": 0.9984555555555555,
+      "balanced_accuracy": 0.9683333333333333,
+      "auc_ci95": [
+        0.9972544444444444,
+        0.9994947222222222
+      ],
+      "comparison": "AES vs full payload",
+      "detector": "statistics_only"
+    },
+    {
+      "auc": 1.0,
+      "balanced_accuracy": 1.0,
+      "auc_ci95": [
+        1.0,
+        1.0
+      ],
+      "comparison": "AES vs full payload",
+      "detector": "statistics_and_public_parser"
+    },
+    {
+      "auc": 0.4534111111111111,
+      "balanced_accuracy": 0.4666666666666667,
+      "auc_ci95": [
+        0.4209625,
+        0.4850777777777778
+      ],
+      "comparison": "zero vs 25 percent",
+      "detector": "statistics_only"
+    },
+    {
+      "auc": 0.4534111111111111,
+      "balanced_accuracy": 0.4666666666666667,
+      "auc_ci95": [
+        0.4209625,
+        0.4850777777777778
+      ],
+      "comparison": "zero vs 25 percent",
+      "detector": "statistics_and_public_parser"
+    },
+    {
+      "auc": 0.4829777777777778,
+      "balanced_accuracy": 0.4816666666666667,
+      "auc_ci95": [
+        0.44926916666666666,
+        0.5166302777777777
+      ],
+      "comparison": "zero vs 50 percent",
+      "detector": "statistics_only"
+    },
+    {
+      "auc": 0.4829777777777778,
+      "balanced_accuracy": 0.4816666666666667,
+      "auc_ci95": [
+        0.44926916666666666,
+        0.5166302777777777
+      ],
+      "comparison": "zero vs 50 percent",
+      "detector": "statistics_and_public_parser"
+    },
+    {
+      "auc": 0.5056555555555555,
+      "balanced_accuracy": 0.5116666666666667,
+      "auc_ci95": [
+        0.4675580555555555,
+        0.5375669444444444
+      ],
+      "comparison": "zero vs full payload",
+      "detector": "statistics_only"
+    },
+    {
+      "auc": 0.5056555555555555,
+      "balanced_accuracy": 0.5116666666666667,
+      "auc_ci95": [
+        0.4675580555555555,
+        0.5375669444444444
+      ],
+      "comparison": "zero vs full payload",
+      "detector": "statistics_and_public_parser"
+    }
+  ],
+  "table4": [
+    {
+      "image": "Baboon",
+      "stage": "cipher",
+      "repetitions": 5,
+      "psnr_db_mean": 9.523802821115103,
+      "psnr_db_std": 0.012396140662895396,
+      "ssim_mean": 0.010077224155650105,
+      "ssim_std": 0.0012992007284916725,
+      "entropy_mean": 7.999309234272154,
+      "entropy_std": 6.20677377619204e-05,
+      "mae_mean": 71.00328521728515,
+      "mae_std": 0.12587304926608894
+    },
+    {
+      "image": "Baboon",
+      "stage": "marked",
+      "repetitions": 5,
+      "psnr_db_mean": 9.516190215831134,
+      "psnr_db_std": 0.012765572290159415,
+      "ssim_mean": 0.008822170873063794,
+      "ssim_std": 0.00048411421233114914,
+      "entropy_mean": 7.999281036532283,
+      "entropy_std": 8.367348661046386e-05,
+      "mae_mean": 71.09038543701172,
+      "mae_std": 0.07971901669375227
+    },
+    {
+      "image": "Baboon",
+      "stage": "recovered",
+      "repetitions": 5,
+      "psnr_db_mean": "Inf",
+      "psnr_db_std": 0,
+      "ssim_mean": 1,
+      "ssim_std": 0.0,
+      "entropy_mean": 7.358336714515905,
+      "entropy_std": 0.0,
+      "mae_mean": 0,
+      "mae_std": 0.0
+    },
+    {
+      "image": "Jetplane",
+      "stage": "cipher",
+      "repetitions": 5,
+      "psnr_db_mean": 8.009092299115311,
+      "psnr_db_std": 0.010761694932401698,
+      "ssim_mean": 0.01032146314172738,
+      "ssim_std": 0.0005267448191706436,
+      "entropy_mean": 7.99932626442749,
+      "entropy_std": 8.154117722383467e-05,
+      "mae_mean": 82.82963180541992,
+      "mae_std": 0.15291648443178119
+    },
+    {
+      "image": "Jetplane",
+      "stage": "marked",
+      "repetitions": 5,
+      "psnr_db_mean": 8.011013773813252,
+      "psnr_db_std": 0.0066916324845014835,
+      "ssim_mean": 0.009655728152585839,
+      "ssim_std": 0.0007052295591575446,
+      "entropy_mean": 7.9991503719657056,
+      "entropy_std": 6.456461932361245e-05,
+      "mae_mean": 82.77801132202148,
+      "mae_std": 0.06242944223189849
+    },
+    {
+      "image": "Jetplane",
+      "stage": "recovered",
+      "repetitions": 5,
+      "psnr_db_mean": "Inf",
+      "psnr_db_std": 0,
+      "ssim_mean": 1,
+      "ssim_std": 0.0,
+      "entropy_mean": 6.702462718871628,
+      "entropy_std": 0.0,
+      "mae_mean": 0,
+      "mae_std": 0.0
+    },
+    {
+      "image": "Tiffany",
+      "stage": "cipher",
+      "repetitions": 5,
+      "psnr_db_mean": 6.8814121514397915,
+      "psnr_db_std": 0.012770651947595505,
+      "ssim_mean": 0.009663744062645118,
+      "ssim_std": 0.00033289451562218636,
+      "entropy_mean": 7.999257968627679,
+      "entropy_std": 3.519348456412995e-05,
+      "mae_mean": 94.76311264038085,
+      "mae_std": 0.1722309415790252
+    },
+    {
+      "image": "Tiffany",
+      "stage": "marked",
+      "repetitions": 5,
+      "psnr_db_mean": 6.895036369546569,
+      "psnr_db_std": 0.009794393909675686,
+      "ssim_mean": 0.00981636698803614,
+      "ssim_std": 0.0004336614544506604,
+      "entropy_mean": 7.999199441159534,
+      "entropy_std": 9.686597020059443e-05,
+      "mae_mean": 94.57173233032226,
+      "mae_std": 0.16607649626858723
+    },
+    {
+      "image": "Tiffany",
+      "stage": "recovered",
+      "repetitions": 5,
+      "psnr_db_mean": "Inf",
+      "psnr_db_std": 0,
+      "ssim_mean": 1,
+      "ssim_std": 0.0,
+      "entropy_mean": 6.600937903729747,
+      "entropy_std": 0.0,
+      "mae_mean": 0,
+      "mae_std": 0.0
+    },
+    {
+      "image": "Man",
+      "stage": "cipher",
+      "repetitions": 5,
+      "psnr_db_mean": 9.111934236242279,
+      "psnr_db_std": 0.009011185112408263,
+      "ssim_mean": 0.009596478186012957,
+      "ssim_std": 0.000525200143265245,
+      "entropy_mean": 7.999316443008654,
+      "entropy_std": 2.8545526664427278e-05,
+      "mae_mean": 73.84177169799804,
+      "mae_std": 0.07170705789396611
+    },
+    {
+      "image": "Man",
+      "stage": "marked",
+      "repetitions": 5,
+      "psnr_db_mean": 9.094891002124411,
+      "psnr_db_std": 0.0032305717209755347,
+      "ssim_mean": 0.009205493070438971,
+      "ssim_std": 0.0005144042878185907,
+      "entropy_mean": 7.9991487329940645,
+      "entropy_std": 0.00011904651654603577,
+      "mae_mean": 73.96768951416016,
+      "mae_std": 0.03571323512123452
+    },
+    {
+      "image": "Man",
+      "stage": "recovered",
+      "repetitions": 5,
+      "psnr_db_mean": "Inf",
+      "psnr_db_std": 0,
+      "ssim_mean": 1,
+      "ssim_std": 0.0,
+      "entropy_mean": 7.192588108833032,
+      "entropy_std": 0.0,
+      "mae_mean": 0,
+      "mae_std": 0.0
+    }
+  ],
+  "table5": [
+    {
+      "image": "Man",
+      "block_size": 8,
+      "payload_bits": 854702,
+      "auxiliary_bits": 568467,
+      "ecc_bpp": 3.2604293823242188
+    },
+    {
+      "image": "Jetplane",
+      "block_size": 8,
+      "payload_bits": 1011607.0,
+      "auxiliary_bits": 550346,
+      "ecc_bpp": 3.8589744567871094
+    },
+    {
+      "image": "Baboon",
+      "block_size": 8,
+      "payload_bits": 470493,
+      "auxiliary_bits": 547674,
+      "ecc_bpp": 1.7947883605957031
+    },
+    {
+      "image": "Tiffany",
+      "block_size": 8,
+      "payload_bits": 956786,
+      "auxiliary_bits": 546333,
+      "ecc_bpp": 3.6498489379882812
+    },
+    {
+      "image": "Man",
+      "block_size": 16,
+      "payload_bits": 872799,
+      "auxiliary_bits": 473755,
+      "ecc_bpp": 3.3294639587402344
+    },
+    {
+      "image": "Jetplane",
+      "block_size": 16,
+      "payload_bits": 1035906.0,
+      "auxiliary_bits": 444416,
+      "ecc_bpp": 3.9516677856445312
+    },
+    {
+      "image": "Baboon",
+      "block_size": 16,
+      "payload_bits": 491502,
+      "auxiliary_bits": 415535,
+      "ecc_bpp": 1.8749313354492188
+    },
+    {
+      "image": "Tiffany",
+      "block_size": 16,
+      "payload_bits": 980588,
+      "auxiliary_bits": 428029,
+      "ecc_bpp": 3.7406463623046875
+    },
+    {
+      "image": "Man",
+      "block_size": 32,
+      "payload_bits": 860734,
+      "auxiliary_bits": 468493,
+      "ecc_bpp": 3.2834396362304688
+    },
+    {
+      "image": "Jetplane",
+      "block_size": 32,
+      "payload_bits": 1028360.0,
+      "auxiliary_bits": 438847,
+      "ecc_bpp": 3.922882080078125
+    },
+    {
+      "image": "Baboon",
+      "block_size": 32,
+      "payload_bits": 481436,
+      "auxiliary_bits": 398067,
+      "ecc_bpp": 1.8365325927734375
+    },
+    {
+      "image": "Tiffany",
+      "block_size": 32,
+      "payload_bits": 971673,
+      "auxiliary_bits": 422221,
+      "ecc_bpp": 3.7066383361816406
+    },
+    {
+      "image": "Man",
+      "block_size": 64,
+      "payload_bits": 850939,
+      "auxiliary_bits": 483057,
+      "ecc_bpp": 3.246074676513672
+    },
+    {
+      "image": "Jetplane",
+      "block_size": 64,
+      "payload_bits": 1018282.0,
+      "auxiliary_bits": 485566,
+      "ecc_bpp": 3.8844375610351562
+    },
+    {
+      "image": "Baboon",
+      "block_size": 64,
+      "payload_bits": 472397,
+      "auxiliary_bits": 406572,
+      "ecc_bpp": 1.8020515441894531
+    },
+    {
+      "image": "Tiffany",
+      "block_size": 64,
+      "payload_bits": 960289,
+      "auxiliary_bits": 418677,
+      "ecc_bpp": 3.6632118225097656
+    }
+  ],
+  "table7": [
+    {
+      "configuration": "full",
+      "Man_bits": 872799,
+      "Man_ecc": 3.3294639587402344,
+      "Jetplane_bits": 1035906.0,
+      "Jetplane_ecc": 3.9516677856445312,
+      "Baboon_bits": 491502,
+      "Baboon_ecc": 1.8749313354492188,
+      "Tiffany_bits": 980588,
+      "Tiffany_ecc": 3.7406463623046875,
+      "total_bits": 3380795.0,
+      "mean_ecc": 3.224177360534668,
+      "loss_from_full_bits": 0.0
+    },
+    {
+      "configuration": "no_scec",
+      "Man_bits": 867468,
+      "Man_ecc": 3.3091278076171875,
+      "Jetplane_bits": 1031964.0,
+      "Jetplane_ecc": 3.9366302490234375,
+      "Baboon_bits": 488107,
+      "Baboon_ecc": 1.8619804382324219,
+      "Tiffany_bits": 985630,
+      "Tiffany_ecc": 3.7598800659179688,
+      "total_bits": 3373169.0,
+      "mean_ecc": 3.216904640197754,
+      "loss_from_full_bits": 7626.0
+    },
+    {
+      "configuration": "no_feedback",
+      "Man_bits": 867468,
+      "Man_ecc": 3.3091278076171875,
+      "Jetplane_bits": 1033352.0,
+      "Jetplane_ecc": 3.941925048828125,
+      "Baboon_bits": 488107,
+      "Baboon_ecc": 1.8619804382324219,
+      "Tiffany_bits": 985630,
+      "Tiffany_ecc": 3.7598800659179688,
+      "total_bits": 3374557.0,
+      "mean_ecc": 3.218228340148926,
+      "loss_from_full_bits": 6238.0
+    },
+    {
+      "configuration": "no_spatial",
+      "Man_bits": 872799,
+      "Man_ecc": 3.3294639587402344,
+      "Jetplane_bits": 1031992.0,
+      "Jetplane_ecc": 3.936737060546875,
+      "Baboon_bits": 491502,
+      "Baboon_ecc": 1.8749313354492188,
+      "Tiffany_bits": 980588,
+      "Tiffany_ecc": 3.7406463623046875,
+      "total_bits": 3376881.0,
+      "mean_ecc": 3.220444679260254,
+      "loss_from_full_bits": 3914.0
+    },
+    {
+      "configuration": "weight_05",
+      "Man_bits": 870781,
+      "Man_ecc": 3.321765899658203,
+      "Jetplane_bits": 1037027.0,
+      "Jetplane_ecc": 3.955944061279297,
+      "Baboon_bits": 489521,
+      "Baboon_ecc": 1.8673744201660156,
+      "Tiffany_bits": 977704,
+      "Tiffany_ecc": 3.729644775390625,
+      "total_bits": 3375033.0,
+      "mean_ecc": 3.218682289123535,
+      "loss_from_full_bits": 5762.0
+    },
+    {
+      "configuration": "no_bias_clamp",
+      "Man_bits": 873438,
+      "Man_ecc": 3.3319015502929688,
+      "Jetplane_bits": 1035975.0,
+      "Jetplane_ecc": 3.9519309997558594,
+      "Baboon_bits": 488505,
+      "Baboon_ecc": 1.8634986877441406,
+      "Tiffany_bits": 980581,
+      "Tiffany_ecc": 3.740619659423828,
+      "total_bits": 3378499.0,
+      "mean_ecc": 3.221987724304199,
+      "loss_from_full_bits": 2296.0
+    },
+    {
+      "configuration": "no_neighborhood_clamp",
+      "Man_bits": 872799,
+      "Man_ecc": 3.3294639587402344,
+      "Jetplane_bits": 1035906.0,
+      "Jetplane_ecc": 3.9516677856445312,
+      "Baboon_bits": 491502,
+      "Baboon_ecc": 1.8749313354492188,
+      "Tiffany_bits": 980588,
+      "Tiffany_ecc": 3.7406463623046875,
+      "total_bits": 3380795.0,
+      "mean_ecc": 3.224177360534668,
+      "loss_from_full_bits": 0.0
+    }
+  ],
+  "table8": [
+    {
+      "image": "Man",
+      "first": 3.319988250732422,
+      "geometric": 3.3266754150390625,
+      "centroid": 3.3294639587402344,
+      "finite_best": 3.339160919189453,
+      "finite_best_row": 128,
+      "finite_best_col": 256
+    },
+    {
+      "image": "Jetplane",
+      "first": 3.9516830444335938,
+      "geometric": 3.9309310913085938,
+      "centroid": 3.9516677856445312,
+      "finite_best": 3.9572677612304688,
+      "finite_best_row": 128,
+      "finite_best_col": 384
+    },
+    {
+      "image": "Baboon",
+      "first": 1.8519744873046875,
+      "geometric": 1.8635787963867188,
+      "centroid": 1.8749313354492188,
+      "finite_best": 1.8749313354492188,
+      "finite_best_row": 179,
+      "finite_best_col": 244
+    },
+    {
+      "image": "Tiffany",
+      "first": 3.744609832763672,
+      "geometric": 3.742919921875,
+      "centroid": 3.7406463623046875,
+      "finite_best": 3.7462501525878906,
+      "finite_best_row": 256,
+      "finite_best_col": 384
+    }
+  ],
+  "table10": [
+    {
+      "image": "Man",
+      "mhm_plaintext_gross": 0.7788352966308594,
+      "idpvo_plaintext_gross": 0.397003173828125,
+      "mhm_ciphertext_gross": 0.0463714599609375,
+      "idpvo_ciphertext_gross": 0.0347442626953125,
+      "proposed_net": 3.3294639587402344
+    },
+    {
+      "image": "Jetplane",
+      "mhm_plaintext_gross": 0.8687667846679688,
+      "idpvo_plaintext_gross": 0.5670051574707031,
+      "mhm_ciphertext_gross": 0.0471649169921875,
+      "idpvo_ciphertext_gross": 0.034740447998046875,
+      "proposed_net": 3.9516677856445312
+    },
+    {
+      "image": "Baboon",
+      "mhm_plaintext_gross": 0.4102668762207031,
+      "idpvo_plaintext_gross": 0.186309814453125,
+      "mhm_ciphertext_gross": 0.046779632568359375,
+      "idpvo_ciphertext_gross": 0.034576416015625,
+      "proposed_net": 1.8749313354492188
+    },
+    {
+      "image": "Tiffany",
+      "mhm_plaintext_gross": 0.8195533752441406,
+      "idpvo_plaintext_gross": 0.5015792846679688,
+      "mhm_ciphertext_gross": 0.0460357666015625,
+      "idpvo_ciphertext_gross": 0.034671783447265625,
+      "proposed_net": 3.7406463623046875
+    }
+  ],
+  "table11": [
+    {
+      "image": "Man",
+      "mean_seconds": 2.74008523,
+      "sd_seconds": 0.08209307487941894,
+      "payload_bits": 872799
+    },
+    {
+      "image": "Jetplane",
+      "mean_seconds": 2.53511895,
+      "sd_seconds": 0.055614456702097234,
+      "payload_bits": 1035906.0
+    },
+    {
+      "image": "Baboon",
+      "mean_seconds": 3.30124816,
+      "sd_seconds": 0.05616058297295949,
+      "payload_bits": 491502
+    },
+    {
+      "image": "Tiffany",
+      "mean_seconds": 2.56607216,
+      "sd_seconds": 0.05354609186278887,
+      "payload_bits": 980588
+    }
+  ],
+  "table12": [
+    {
+      "attack": "control",
+      "level": 0,
+      "trials": 4,
+      "extraction_completed": 4,
+      "payload_exact": 4,
+      "image_exact": 4,
+      "joint_exact": 4
+    },
+    {
+      "attack": "bitflip",
+      "level": 1,
+      "trials": 20,
+      "extraction_completed": 20,
+      "payload_exact": 14,
+      "image_exact": 6,
+      "joint_exact": 0
+    },
+    {
+      "attack": "bitflip",
+      "level": 10,
+      "trials": 20,
+      "extraction_completed": 19,
+      "payload_exact": 0,
+      "image_exact": 0,
+      "joint_exact": 0
+    },
+    {
+      "attack": "bitflip",
+      "level": 100,
+      "trials": 20,
+      "extraction_completed": 12,
+      "payload_exact": 0,
+      "image_exact": 0,
+      "joint_exact": 0
+    },
+    {
+      "attack": "gaussian",
+      "level": 0.5,
+      "trials": 20,
+      "extraction_completed": 0,
+      "payload_exact": 0,
+      "image_exact": 0,
+      "joint_exact": 0
+    },
+    {
+      "attack": "gaussian",
+      "level": 1,
+      "trials": 20,
+      "extraction_completed": 0,
+      "payload_exact": 0,
+      "image_exact": 0,
+      "joint_exact": 0
+    },
+    {
+      "attack": "gaussian",
+      "level": 2,
+      "trials": 20,
+      "extraction_completed": 0,
+      "payload_exact": 0,
+      "image_exact": 0,
+      "joint_exact": 0
+    },
+    {
+      "attack": "crop_zero",
+      "level": 0.01,
+      "trials": 4,
+      "extraction_completed": 0,
+      "payload_exact": 0,
+      "image_exact": 0,
+      "joint_exact": 0
+    },
+    {
+      "attack": "crop_zero",
+      "level": 0.05,
+      "trials": 4,
+      "extraction_completed": 0,
+      "payload_exact": 0,
+      "image_exact": 0,
+      "joint_exact": 0
+    },
+    {
+      "attack": "crop_zero",
+      "level": 0.1,
+      "trials": 4,
+      "extraction_completed": 0,
+      "payload_exact": 0,
+      "image_exact": 0,
+      "joint_exact": 0
+    },
+    {
+      "attack": "translate",
+      "level": 1,
+      "trials": 4,
+      "extraction_completed": 0,
+      "payload_exact": 0,
+      "image_exact": 0,
+      "joint_exact": 0
+    },
+    {
+      "attack": "translate",
+      "level": 2,
+      "trials": 4,
+      "extraction_completed": 0,
+      "payload_exact": 0,
+      "image_exact": 0,
+      "joint_exact": 0
+    },
+    {
+      "attack": "translate",
+      "level": 4,
+      "trials": 4,
+      "extraction_completed": 0,
+      "payload_exact": 0,
+      "image_exact": 0,
+      "joint_exact": 0
+    }
+  ]
+}

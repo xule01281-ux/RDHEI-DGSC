@@ -1,0 +1,41 @@
+{
+  "pixel_hash_definition": "SHA-256 of decoded grayscale uint8 pixels in MATLAB column-major order (I(:)); no dimensions or header bytes included.",
+  "images": [
+    {
+      "label": "Man",
+      "source_filename": "11.png",
+      "height": 512,
+      "width": 512,
+      "dtype": "uint8",
+      "source_file_sha256": "a8791afbd2af4f977f30c3a9a72a50204264440c27b1f4bb282a085eb680abe1",
+      "decoded_pixels_sha256": "1376fc7ce236024d5f5ba57237e30afa061b0b8efb3b548545ada66eb92fa631"
+    },
+    {
+      "label": "Jetplane",
+      "source_filename": "Jetplane.tiff",
+      "height": 512,
+      "width": 512,
+      "dtype": "uint8",
+      "source_file_sha256": "90550441bad9f8678372190ba0f99fee6e43c8de34d848bdbe4502cad46004e8",
+      "decoded_pixels_sha256": "0e6fb5c44d1fb25c6980bb64b7cbbc97f942f1a6333ed7d48eb63e8042eaf176"
+    },
+    {
+      "label": "Baboon",
+      "source_filename": "Baboon.tiff",
+      "height": 512,
+      "width": 512,
+      "dtype": "uint8",
+      "source_file_sha256": "fa9ab25f0db9fc851dd80f5ecc9edbc73ecdf723ddd48fdcc2f16bf76d17d8e7",
+      "decoded_pixels_sha256": "5f6538775b63750aac2f64a2cda16971cd395dfea639da96895452913368aca7"
+    },
+    {
+      "label": "Tiffany",
+      "source_filename": "Tiffany.tiff",
+      "height": 512,
+      "width": 512,
+      "dtype": "uint8",
+      "source_file_sha256": "4d449c3c493f45b7bafb8cd852b998278dd8bbbf703c9e4e99eb08205bf5393d",
+      "decoded_pixels_sha256": "2ad845ea6252bf3cca6dfcd5dbdd7c225e533ad276a9334d651db82236057383"
+    }
+  ]
+}
