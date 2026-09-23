@@ -1,2 +1,2 @@
 # RDHEI-DGSC
-RDHEI-DGSC, integrating Dynamic Gravity Prediction Axes (DGP-Axes) with Spatial Collaborative Error Correction (SCEC). 
+RSource code and reproduction materials for RDHEI-DGSC.
