@@ -1,0 +1,448 @@
+{
+  "base_version": "1.0.0",
+  "archive_version": "1.1.0",
+  "records": [
+    {
+      "source_archive": "revision_20260919/results/capacity.json",
+      "path": "results/paper/table8/capacity.json",
+      "source_sha256": "296d231408e6b3cdbb1fae3c35902466e7932f05f72ee1cccb3284e42f1f8123",
+      "archive_sha256": "296d231408e6b3cdbb1fae3c35902466e7932f05f72ee1cccb3284e42f1f8123"
+    },
+    {
+      "source_archive": "revision_20260919/results/capacity_summary.json",
+      "path": "results/paper/table8/capacity_summary.json",
+      "source_sha256": "e7fc5e0ab05eb6dd43ad708d10dee1d0e1421f390eb427469503bfc3b32bd313",
+      "archive_sha256": "e7fc5e0ab05eb6dd43ad708d10dee1d0e1421f390eb427469503bfc3b32bd313"
+    },
+    {
+      "source_archive": "revision_20260919/retest/results/ablation.json",
+      "path": "results/paper/table7/ablation.json",
+      "source_sha256": "a682176f4c23dc62aa9f70c99d0a650779f96b5e7627074d9a3537a8c3b6259e",
+      "archive_sha256": "a682176f4c23dc62aa9f70c99d0a650779f96b5e7627074d9a3537a8c3b6259e"
+    },
+    {
+      "source_archive": "revision_20260919/retest/results/damage.json",
+      "path": "results/paper/table12/damage.json",
+      "source_sha256": "09413ea6e707b2108dad92ec557784dc0c261db9012aad4d26afcee343a8ab0c",
+      "archive_sha256": "09413ea6e707b2108dad92ec557784dc0c261db9012aad4d26afcee343a8ab0c"
+    },
+    {
+      "source_archive": "revision_20260919/retest/results/summary.json",
+      "path": "results/paper/table12/retest_summary.json",
+      "source_sha256": "22d04268470d77cdc5030e90ae2234699f4575d898860a1cedb11f2264415752",
+      "archive_sha256": "22d04268470d77cdc5030e90ae2234699f4575d898860a1cedb11f2264415752"
+    },
+    {
+      "source_archive": "revision_20260920/block_time_benchmark/results/timing.json",
+      "path": "results/paper/table11/timing.json",
+      "source_sha256": "547f89d3fd71b58b70f47cfd462379c24112fb6c95d744df91d994f5bfc7dfac",
+      "archive_sha256": "547f89d3fd71b58b70f47cfd462379c24112fb6c95d744df91d994f5bfc7dfac"
+    },
+    {
+      "source_archive": "revision_20260920/block_time_benchmark/results/capacity.json",
+      "path": "results/paper/table5/capacity.json",
+      "source_sha256": "5db0728219b15cf0b91f6d75584d219af2f9d0fe0cdf8d628422c3a0b0b57f52",
+      "archive_sha256": "5db0728219b15cf0b91f6d75584d219af2f9d0fe0cdf8d628422c3a0b0b57f52"
+    },
+    {
+      "source_archive": "revision_20260920/table4_retest/results/table4_raw.json",
+      "path": "results/paper/table4/table4_raw.json",
+      "source_sha256": "37da679ca09be7018cdcde106cb586f1da81d8e2bca28b9ef16c64912afd7714",
+      "archive_sha256": "37da679ca09be7018cdcde106cb586f1da81d8e2bca28b9ef16c64912afd7714"
+    },
+    {
+      "source_archive": "revision_20260920/table4_retest/results/table4_summary.json",
+      "path": "results/paper/table4/table4_summary.json",
+      "source_sha256": "99f5777dde2714d0342921b3b3c8614e0ac5cb0eadefb84b6ee9d7f8bc1e70fd",
+      "archive_sha256": "99f5777dde2714d0342921b3b3c8614e0ac5cb0eadefb84b6ee9d7f8bc1e70fd"
+    },
+    {
+      "source_archive": "revision_20260920/table4_retest/results/table4_summary.csv",
+      "path": "results/paper/table4/table4_summary.csv",
+      "source_sha256": "68c2fd155dac05316d57a64851a98a0af06d33d79ec69d1ffa17745d8e4fbe7e",
+      "archive_sha256": "68c2fd155dac05316d57a64851a98a0af06d33d79ec69d1ffa17745d8e4fbe7e"
+    },
+    {
+      "source_archive": "revision_20260919/results/security_formal_1.json",
+      "path": "results/paper/table3/security_formal_1.json",
+      "source_sha256": "e062087f3404fc4dade73de2b6aa4812d9e4e468557bf65b1f073aa35719810e",
+      "archive_sha256": "e062087f3404fc4dade73de2b6aa4812d9e4e468557bf65b1f073aa35719810e"
+    },
+    {
+      "source_archive": "revision_20260919/results/security_formal_2.json",
+      "path": "results/paper/table3/security_formal_2.json",
+      "source_sha256": "99d101129f1ba73fc6bfda77de81879ce49c04d0452a0e6f435928691b270102",
+      "archive_sha256": "99d101129f1ba73fc6bfda77de81879ce49c04d0452a0e6f435928691b270102"
+    },
+    {
+      "source_archive": "revision_20260919/results/security_pilot_1.json",
+      "path": "results/paper/table3/security_pilot_1.json",
+      "source_sha256": "4a7d3531d8c18052ae79141c499890fd1991ec4071d20e1501190c0b47a0bae4",
+      "archive_sha256": "4a7d3531d8c18052ae79141c499890fd1991ec4071d20e1501190c0b47a0bae4"
+    },
+    {
+      "source_archive": "revision_20260919/results/security_pilot_2.json",
+      "path": "results/paper/table3/security_pilot_2.json",
+      "source_sha256": "00f4d60183983867ff2df36a10dc7d9cbb6a37bfcff4661d076fdf6aeb55be7f",
+      "archive_sha256": "00f4d60183983867ff2df36a10dc7d9cbb6a37bfcff4661d076fdf6aeb55be7f"
+    },
+    {
+      "source_archive": "revision_20260919/results/detection_formal.json",
+      "path": "results/paper/table3/detection_formal.json",
+      "source_sha256": "9e0bd2d2fdce271fa84cc66cadbec6ef68bd29acac5d06f6c4a823d5e6ae8585",
+      "archive_sha256": "9e0bd2d2fdce271fa84cc66cadbec6ef68bd29acac5d06f6c4a823d5e6ae8585"
+    },
+    {
+      "source_archive": "revision_20260919/results/detection_pilot.json",
+      "path": "results/paper/table3/detection_pilot.json",
+      "source_sha256": "43db3cf0f74cb56301521ed5ccde155a1362232107989d3b963a2b624013b142",
+      "archive_sha256": "43db3cf0f74cb56301521ed5ccde155a1362232107989d3b963a2b624013b142"
+    },
+    {
+      "source_archive": "revision_20260919/results/core_tests.json",
+      "path": "results/paper/verification/core_tests.json",
+      "source_sha256": "43ba153575aa4c84210cd88fb098a06edd915f322cbeee70dc468ab393eb226e",
+      "archive_sha256": "43ba153575aa4c84210cd88fb098a06edd915f322cbeee70dc468ab393eb226e"
+    },
+    {
+      "source_archive": "revision_20260919/results/protocol_tests.json",
+      "path": "results/paper/verification/protocol_tests.json",
+      "source_sha256": "41003b01b5f209fe035ed3be20ca4e82e95e896bb45be8a0a0fb22bd0be28bba",
+      "archive_sha256": "41003b01b5f209fe035ed3be20ca4e82e95e896bb45be8a0a0fb22bd0be28bba"
+    },
+    {
+      "source_archive": "revision_20260919/results/leakage_audit.json",
+      "path": "results/paper/verification/leakage_audit.json",
+      "source_sha256": "feadf84dc03717d0aa27b7868fe6348e8aec29c28892f014a3f7b084553094f6",
+      "archive_sha256": "feadf84dc03717d0aa27b7868fe6348e8aec29c28892f014a3f7b084553094f6"
+    },
+    {
+      "source_archive": "revision_20260920/plaintext_rdh_comparison/results/Baboon_ciphertext_idpvo.json",
+      "path": "results/paper/table10/Baboon_ciphertext_idpvo.json",
+      "source_sha256": "e498e7541788d3e624c4ed3ac0ffad4a73fc56c8699113dd47631801e3ce0de2",
+      "archive_sha256": "e498e7541788d3e624c4ed3ac0ffad4a73fc56c8699113dd47631801e3ce0de2"
+    },
+    {
+      "source_archive": "revision_20260920/plaintext_rdh_comparison/results/Baboon_ciphertext_mhm.json",
+      "path": "results/paper/table10/Baboon_ciphertext_mhm.json",
+      "source_sha256": "9d0c48abbde756f6faba29f8e32acd0df84cc2d0b34b10c73a2daba6e2c48612",
+      "archive_sha256": "9d0c48abbde756f6faba29f8e32acd0df84cc2d0b34b10c73a2daba6e2c48612"
+    },
+    {
+      "source_archive": "revision_20260920/plaintext_rdh_comparison/results/Baboon_ciphertext_mhm_probes.json",
+      "path": "results/paper/table10/Baboon_ciphertext_mhm_probes.json",
+      "source_sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+      "archive_sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+    },
+    {
+      "source_archive": "revision_20260920/plaintext_rdh_comparison/results/Baboon_plaintext_idpvo.json",
+      "path": "results/paper/table10/Baboon_plaintext_idpvo.json",
+      "source_sha256": "7e4afce6381ef8a7f1b8a4661e80392db77b8b1985b056df89fbe8c02fc7656e",
+      "archive_sha256": "7e4afce6381ef8a7f1b8a4661e80392db77b8b1985b056df89fbe8c02fc7656e"
+    },
+    {
+      "source_archive": "revision_20260920/plaintext_rdh_comparison/results/Baboon_plaintext_mhm.json",
+      "path": "results/paper/table10/Baboon_plaintext_mhm.json",
+      "source_sha256": "a644d11ed8f7fc90ca6c6122177c6d0c60d936dd299c289cae977f6be440ccbf",
+      "archive_sha256": "a644d11ed8f7fc90ca6c6122177c6d0c60d936dd299c289cae977f6be440ccbf"
+    },
+    {
+      "source_archive": "revision_20260920/plaintext_rdh_comparison/results/Baboon_plaintext_mhm_probes.json",
+      "path": "results/paper/table10/Baboon_plaintext_mhm_probes.json",
+      "source_sha256": "ce20c88d9f423a74ecddcacd0c912ceb3c7dfab21004ae554d8c97b780ac00b3",
+      "archive_sha256": "ce20c88d9f423a74ecddcacd0c912ceb3c7dfab21004ae554d8c97b780ac00b3"
+    },
+    {
+      "source_archive": "revision_20260920/plaintext_rdh_comparison/results/Jetplane_ciphertext_idpvo.json",
+      "path": "results/paper/table10/Jetplane_ciphertext_idpvo.json",
+      "source_sha256": "96f7cd82d6da501c69b79ad423fe378a7e73c2b96b0685c3dc1c8bf220f87983",
+      "archive_sha256": "96f7cd82d6da501c69b79ad423fe378a7e73c2b96b0685c3dc1c8bf220f87983"
+    },
+    {
+      "source_archive": "revision_20260920/plaintext_rdh_comparison/results/Jetplane_ciphertext_mhm.json",
+      "path": "results/paper/table10/Jetplane_ciphertext_mhm.json",
+      "source_sha256": "85a519917d9c6cc5993fc9862d5ea0afcb4f85ab144c68c7a740525a36b2fa36",
+      "archive_sha256": "85a519917d9c6cc5993fc9862d5ea0afcb4f85ab144c68c7a740525a36b2fa36"
+    },
+    {
+      "source_archive": "revision_20260920/plaintext_rdh_comparison/results/Jetplane_ciphertext_mhm_probes.json",
+      "path": "results/paper/table10/Jetplane_ciphertext_mhm_probes.json",
+      "source_sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+      "archive_sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+    },
+    {
+      "source_archive": "revision_20260920/plaintext_rdh_comparison/results/Jetplane_plaintext_idpvo.json",
+      "path": "results/paper/table10/Jetplane_plaintext_idpvo.json",
+      "source_sha256": "34d8dc7bc28857b90aadaf3d35dadb7a45967c87976d055dd1eeecbf2fe7553a",
+      "archive_sha256": "34d8dc7bc28857b90aadaf3d35dadb7a45967c87976d055dd1eeecbf2fe7553a"
+    },
+    {
+      "source_archive": "revision_20260920/plaintext_rdh_comparison/results/Jetplane_plaintext_mhm.json",
+      "path": "results/paper/table10/Jetplane_plaintext_mhm.json",
+      "source_sha256": "c3a5067de3490a60b4ca916c5feb9880d3451efb0ff1485e14cf7f9305b995c1",
+      "archive_sha256": "c3a5067de3490a60b4ca916c5feb9880d3451efb0ff1485e14cf7f9305b995c1"
+    },
+    {
+      "source_archive": "revision_20260920/plaintext_rdh_comparison/results/Jetplane_plaintext_mhm_probes.json",
+      "path": "results/paper/table10/Jetplane_plaintext_mhm_probes.json",
+      "source_sha256": "bc8960ce5640d6b7de1db90a4fe6d2c4ca05d55f0b1c8730d4cf23dd369345a6",
+      "archive_sha256": "bc8960ce5640d6b7de1db90a4fe6d2c4ca05d55f0b1c8730d4cf23dd369345a6"
+    },
+    {
+      "source_archive": "revision_20260920/plaintext_rdh_comparison/results/Man_ciphertext_idpvo.json",
+      "path": "results/paper/table10/Man_ciphertext_idpvo.json",
+      "source_sha256": "81efaecae864d6fd71a2bc05b71f7bad5c176afe4a57294ab3e04ef85cfb63c3",
+      "archive_sha256": "81efaecae864d6fd71a2bc05b71f7bad5c176afe4a57294ab3e04ef85cfb63c3"
+    },
+    {
+      "source_archive": "revision_20260920/plaintext_rdh_comparison/results/Man_ciphertext_mhm.json",
+      "path": "results/paper/table10/Man_ciphertext_mhm.json",
+      "source_sha256": "4cbf02617b2f88012e780cef04993650948d4458f05d63f2504d55933d0b01b5",
+      "archive_sha256": "4cbf02617b2f88012e780cef04993650948d4458f05d63f2504d55933d0b01b5"
+    },
+    {
+      "source_archive": "revision_20260920/plaintext_rdh_comparison/results/Man_ciphertext_mhm_probes.json",
+      "path": "results/paper/table10/Man_ciphertext_mhm_probes.json",
+      "source_sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+      "archive_sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+    },
+    {
+      "source_archive": "revision_20260920/plaintext_rdh_comparison/results/Man_plaintext_idpvo.json",
+      "path": "results/paper/table10/Man_plaintext_idpvo.json",
+      "source_sha256": "35d189e4f044a798a5b3a1f2d9f7d48f7bd73502606b9d1df58fc7d0fd305270",
+      "archive_sha256": "35d189e4f044a798a5b3a1f2d9f7d48f7bd73502606b9d1df58fc7d0fd305270"
+    },
+    {
+      "source_archive": "revision_20260920/plaintext_rdh_comparison/results/Man_plaintext_mhm.json",
+      "path": "results/paper/table10/Man_plaintext_mhm.json",
+      "source_sha256": "c3194e6bea9b7d525cc9b2ff8b56932cf0ed2fd4ce1b68f7606c6f6956e5f3e5",
+      "archive_sha256": "c3194e6bea9b7d525cc9b2ff8b56932cf0ed2fd4ce1b68f7606c6f6956e5f3e5"
+    },
+    {
+      "source_archive": "revision_20260920/plaintext_rdh_comparison/results/Man_plaintext_mhm_probes.json",
+      "path": "results/paper/table10/Man_plaintext_mhm_probes.json",
+      "source_sha256": "5d2ddd1a08ebee29a7ed46c51de075083ca878663b564ceeef7d7cf4bfdd2f2a",
+      "archive_sha256": "5d2ddd1a08ebee29a7ed46c51de075083ca878663b564ceeef7d7cf4bfdd2f2a"
+    },
+    {
+      "source_archive": "revision_20260920/plaintext_rdh_comparison/results/mhm_gross_reference.json",
+      "path": "results/paper/table10/mhm_gross_reference.json",
+      "source_sha256": "f187ec15734d33bfba8156ec6758b25c655426e584348038c8424234f7e4aed8",
+      "archive_sha256": "f187ec15734d33bfba8156ec6758b25c655426e584348038c8424234f7e4aed8"
+    },
+    {
+      "source_archive": "revision_20260920/plaintext_rdh_comparison/results/paper_rule_verification.json",
+      "path": "results/paper/table10/paper_rule_verification.json",
+      "source_sha256": "4831ba77a02faf6d95ecfbef441f80ca9f716ccce5b58926c87fd515b3444b27",
+      "archive_sha256": "4831ba77a02faf6d95ecfbef441f80ca9f716ccce5b58926c87fd515b3444b27"
+    },
+    {
+      "source_archive": "revision_20260920/plaintext_rdh_comparison/results/proposed_current.json",
+      "path": "results/paper/table10/proposed_current.json",
+      "source_sha256": "6541e2c1ba85a11d296c300b18239c52c7d8b61491674123835d1c78bd5e0110",
+      "archive_sha256": "6541e2c1ba85a11d296c300b18239c52c7d8b61491674123835d1c78bd5e0110"
+    },
+    {
+      "source_archive": "revision_20260920/plaintext_rdh_comparison/results/Tiffany_ciphertext_idpvo.json",
+      "path": "results/paper/table10/Tiffany_ciphertext_idpvo.json",
+      "source_sha256": "77bfbfae0915dd660a3f3ad45189fc7e371e04c197a9ecd46801737fe421feef",
+      "archive_sha256": "77bfbfae0915dd660a3f3ad45189fc7e371e04c197a9ecd46801737fe421feef"
+    },
+    {
+      "source_archive": "revision_20260920/plaintext_rdh_comparison/results/Tiffany_ciphertext_mhm.json",
+      "path": "results/paper/table10/Tiffany_ciphertext_mhm.json",
+      "source_sha256": "6d3d0b3d921e86d204c340f3697a8c9873cd28100816defe31e98e32be72b2a3",
+      "archive_sha256": "6d3d0b3d921e86d204c340f3697a8c9873cd28100816defe31e98e32be72b2a3"
+    },
+    {
+      "source_archive": "revision_20260920/plaintext_rdh_comparison/results/Tiffany_ciphertext_mhm_probes.json",
+      "path": "results/paper/table10/Tiffany_ciphertext_mhm_probes.json",
+      "source_sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+      "archive_sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+    },
+    {
+      "source_archive": "revision_20260920/plaintext_rdh_comparison/results/Tiffany_plaintext_idpvo.json",
+      "path": "results/paper/table10/Tiffany_plaintext_idpvo.json",
+      "source_sha256": "5b629457bddeb8b2433904e30ed6b76b915f07ac06c980e5895ae4d49950a7b0",
+      "archive_sha256": "5b629457bddeb8b2433904e30ed6b76b915f07ac06c980e5895ae4d49950a7b0"
+    },
+    {
+      "source_archive": "revision_20260920/plaintext_rdh_comparison/results/Tiffany_plaintext_mhm.json",
+      "path": "results/paper/table10/Tiffany_plaintext_mhm.json",
+      "source_sha256": "703d4948a9a8b6420e39a0374aea48e93067b870b8c153ec62e7785276ea9324",
+      "archive_sha256": "703d4948a9a8b6420e39a0374aea48e93067b870b8c153ec62e7785276ea9324"
+    },
+    {
+      "source_archive": "revision_20260920/plaintext_rdh_comparison/results/Tiffany_plaintext_mhm_probes.json",
+      "path": "results/paper/table10/Tiffany_plaintext_mhm_probes.json",
+      "source_sha256": "0786c197feed35278490843e72939cd680637c990ec5f7b21ed28b5be5050d64",
+      "archive_sha256": "0786c197feed35278490843e72939cd680637c990ec5f7b21ed28b5be5050d64"
+    },
+    {
+      "source_archive": "revision_20260920/plaintext_rdh_comparison/results/verification.json",
+      "path": "results/paper/table10/verification.json",
+      "source_sha256": "894460d44dbb005e45729509583b381466f9294224b7023bd04da323a7e7fbfc",
+      "archive_sha256": "894460d44dbb005e45729509583b381466f9294224b7023bd04da323a7e7fbfc"
+    },
+    {
+      "source_archive": "revision_20260920/plaintext_rdh_comparison/inputs/Baboon_ciphertext.png",
+      "path": "experiments/paper/baselines/inputs/Baboon_ciphertext.png",
+      "source_sha256": "5db548f14560b303f4335fc6046afa349e18c1d9da80f3b8b6b04388693a9e3f",
+      "archive_sha256": "5db548f14560b303f4335fc6046afa349e18c1d9da80f3b8b6b04388693a9e3f"
+    },
+    {
+      "source_archive": "revision_20260920/plaintext_rdh_comparison/inputs/Jetplane_ciphertext.png",
+      "path": "experiments/paper/baselines/inputs/Jetplane_ciphertext.png",
+      "source_sha256": "303941a090e6b0dc623b71e5e4cc313b79ebac5d5d5cbd86c81fbe0446762669",
+      "archive_sha256": "303941a090e6b0dc623b71e5e4cc313b79ebac5d5d5cbd86c81fbe0446762669"
+    },
+    {
+      "source_archive": "revision_20260920/plaintext_rdh_comparison/inputs/Man_ciphertext.png",
+      "path": "experiments/paper/baselines/inputs/Man_ciphertext.png",
+      "source_sha256": "05da7142b6c214d763578650d045cfe4f0caa6c73b048e7e6ba147ba6a737840",
+      "archive_sha256": "05da7142b6c214d763578650d045cfe4f0caa6c73b048e7e6ba147ba6a737840"
+    },
+    {
+      "source_archive": "revision_20260920/plaintext_rdh_comparison/inputs/Tiffany_ciphertext.png",
+      "path": "experiments/paper/baselines/inputs/Tiffany_ciphertext.png",
+      "source_sha256": "e9f15925e4138d586c74b01661bec416da137f8746b8ca4dcca925459edcb40c",
+      "archive_sha256": "e9f15925e4138d586c74b01661bec416da137f8746b8ca4dcca925459edcb40c"
+    },
+    {
+      "source_archive": "revision_20260920/plaintext_rdh_comparison/rdh_capacity.py",
+      "path": "experiments/paper/baselines/rdh_capacity.py",
+      "source_sha256": "9b2f532f3b0de9051bae596497ca2a93c0b82a6240c727ce27e4b5ebc6353ff7",
+      "archive_sha256": "9b2f532f3b0de9051bae596497ca2a93c0b82a6240c727ce27e4b5ebc6353ff7"
+    },
+    {
+      "source_archive": "revision_20260920/plaintext_rdh_comparison/run_comparison.py",
+      "path": "experiments/paper/baselines/run_comparison.py",
+      "source_sha256": "55081dd2d8e5eec844c5030260328afc2f4622e238dcbc52b8085961c9c9920c",
+      "archive_sha256": "87ad1630fa03844f6b8cfa190237e598e0f2d8d4e5b39ceeca54bfd5f5da8015",
+      "transformation": "Portable paths and generated-output routing; historical reference data untouched."
+    },
+    {
+      "source_archive": "revision_20260920/plaintext_rdh_comparison/run_gross_reference.py",
+      "path": "experiments/paper/baselines/run_gross_reference.py",
+      "source_sha256": "9a58dd262b4d928340fd84c4d275d11815f1bff8a9df3fde22980972b8334bb6",
+      "archive_sha256": "df5762b14c63ca3459302a07d905b9b285918e7b267a8cfddc2bd5663671e6fa",
+      "transformation": "Portable paths and generated-output routing; historical reference data untouched."
+    },
+    {
+      "source_archive": "revision_20260920/plaintext_rdh_comparison/verify_paper_rules.py",
+      "path": "experiments/paper/baselines/verify_paper_rules.py",
+      "source_sha256": "5051ac02f08294a75766580c9c972ae119ca43d86da574b71d8ae903481d3c8e",
+      "archive_sha256": "7ab95944c167408148696a58ce00fcaece27527de2abce4cb831f4ff48366e15",
+      "transformation": "Portable paths and generated-output routing; historical reference data untouched."
+    },
+    {
+      "source_archive": "revision_20260919/tests/prepare_packet.m",
+      "path": "experiments/paper/detection/prepare_packet.m",
+      "source_sha256": "2e13ebfd4eb1595ec070a5023a6394bf3669fb048a6db43d574612f7267087e9",
+      "archive_sha256": "2e13ebfd4eb1595ec070a5023a6394bf3669fb048a6db43d574612f7267087e9"
+    },
+    {
+      "source_archive": "revision_20260919/tests/security_features.m",
+      "path": "experiments/paper/detection/security_features.m",
+      "source_sha256": "18aea89098404b6bd3a3024ef91535fa7eed98cc8f0a90d4086d1fd4da922454",
+      "archive_sha256": "18aea89098404b6bd3a3024ef91535fa7eed98cc8f0a90d4086d1fd4da922454"
+    },
+    {
+      "source_archive": "revision_20260919/tests/security_manifest.json",
+      "path": "results/paper/table3/security_manifest.json",
+      "source_sha256": "250215533940e4def29a430d7d744d11df4354804d20b9902d219f4f0fb5c9a8",
+      "transformation": "Replace local absolute image paths with filenames; IDs, hashes, splits and ordering unchanged.",
+      "archive_sha256": "f997e56b4f2aa171065c372aedab4fa7d86ee8be772a8e49cceac9ed4072ce1b"
+    },
+    {
+      "source_archive": "revision_20260919/analyze_results.py",
+      "path": "experiments/paper/detection/analyze_detection.py",
+      "source_sha256": "b970654a731c698b00a423be0b77d2950b995cf4ce396ca5cb1c9ab4a73aa909",
+      "archive_sha256": "b442129b63d32840d94c0d2097532d6aca80bfdee39c83168360c9b0c65c1fb7",
+      "transformation": "Portable paths and generated-output routing; historical reference data untouched."
+    },
+    {
+      "source_archive": "revision_20260919/tests/run_capacity.m",
+      "path": "experiments/paper/paper_table8.m",
+      "source_sha256": "02a73f0bc194f53aec3a659fcc6953627ac1816063975473e1850e00bc03d3d1",
+      "transformation": "Portable experiment wrapper; core arithmetic and published settings retained.",
+      "archive_sha256": "908630cf9179c1ca1a0b5a4dc789c76b4a44a82234389ded82461f15e8328b85"
+    },
+    {
+      "source_archive": "revision_20260920/block_time_benchmark/run_benchmarks.m",
+      "path": "experiments/paper/paper_table11.m",
+      "source_sha256": "4942eac4c63936309dd8dbc5f9cd2fc3a4302804300892c28f914cb4d484dd23",
+      "transformation": "Portable experiment wrapper; core arithmetic and published settings retained.",
+      "archive_sha256": "b3ffbc3f03cfaa7c3e30f5abf1191870224c640f8fddd2f21fbc03bb231b1411"
+    },
+    {
+      "source_archive": "revision_20260920/table4_retest/run_table4.m",
+      "path": "experiments/paper/paper_table4.m",
+      "source_sha256": "282989838b622aebabfd19318d9975875ee5c8bffb6bfe8a7b7c47217c26498c",
+      "transformation": "Portable experiment wrapper; core arithmetic and published settings retained.",
+      "archive_sha256": "9e61e168370e5a0e194a19deeaadb6ebbb3e4a5059f5b2406db6e021df7f978c"
+    },
+    {
+      "source_archive": "revision_20260919/retest/run_damage.m",
+      "path": "experiments/paper/paper_table12.m",
+      "source_sha256": "6ba68c235afa0b90ff6db3a191e579ba4c12f3633ddcfe8eb9d16d241f91140b",
+      "transformation": "Portable experiment wrapper; core arithmetic and published settings retained.",
+      "archive_sha256": "c4c5f39977f5b154177414488085364cee6ab39291e750a46033b93fc558aff8"
+    },
+    {
+      "path": "experiments/paper/paper_inputs.m",
+      "archive_sha256": "edb1dea880db6b1971a312b0f72643813031beebbe153b8e1f760f3f6eac1105",
+      "origin": "New public experiment adapter, documentation or integrity manifest."
+    },
+    {
+      "path": "experiments/paper/paper_setup.m",
+      "archive_sha256": "e977c30059ea88a45d74b649a27a4e777661292aef1310e8f83f311c4cdd7e30",
+      "origin": "New public experiment adapter, documentation or integrity manifest."
+    },
+    {
+      "path": "experiments/paper/paper_sha256.m",
+      "archive_sha256": "94deefebc881d7075ece1d61b3a5dcbff83afb4ba535f812a0d147cc0fe7bd29",
+      "origin": "New public experiment adapter, documentation or integrity manifest."
+    },
+    {
+      "path": "experiments/paper/paper_table10_proposed.m",
+      "archive_sha256": "42e1a22bee76f2df3d15903092fcd0dc11d99e7d6b7e151e27b71b541c6ffeb1",
+      "origin": "New public experiment adapter, documentation or integrity manifest."
+    },
+    {
+      "path": "experiments/paper/paper_table3.m",
+      "archive_sha256": "6ef1b203dcb8df99699a149f6351cf6ec2d17c2060b50a5dd91ac709a5463040",
+      "origin": "New public experiment adapter, documentation or integrity manifest."
+    },
+    {
+      "path": "experiments/paper/paper_table5.m",
+      "archive_sha256": "9b9ca0edcf9337d0b37b3e90f8b4dab1c9ed8f5f0c40346c4314ddfeee837cb8",
+      "origin": "New public experiment adapter, documentation or integrity manifest."
+    },
+    {
+      "path": "experiments/paper/paper_table7.m",
+      "archive_sha256": "612621103c4ec75d6b65a6ce7a5d334f707ff9cd82458c51049a51e62e0777bd",
+      "origin": "New public experiment adapter, documentation or integrity manifest."
+    },
+    {
+      "path": "experiments/paper/summarize_paper.py",
+      "archive_sha256": "571dd5378f33cf17fc26262c15601cc8bf5d3a7bc4e22c3066ffdee388fd431b",
+      "origin": "New public experiment adapter, documentation or integrity manifest."
+    },
+    {
+      "path": "experiments/paper/baselines/measurement_notes.md",
+      "archive_sha256": "81c1cdd61a42b053e85d3abdddef73a0115ab5a866ad7e057150e39a936607ef",
+      "origin": "New public experiment adapter, documentation or integrity manifest."
+    },
+    {
+      "path": "experiments/paper/baselines/prepare_inputs.py",
+      "archive_sha256": "37f4d2c8552732381fcb78f4e625c69b7391571a7d2c7895e2ba8d34adf6b146",
+      "origin": "New public experiment adapter, documentation or integrity manifest."
+    },
+    {
+      "path": "experiments/paper/baselines/inputs/cipher_manifest.json",
+      "archive_sha256": "556f0aad0b5ae6a7bda6941561232bc13f70b3a88e57d42c17cfb44a823c67f8",
+      "origin": "New public experiment adapter, documentation or integrity manifest."
+    }
+  ]
+}

@@ -1,0 +1,115 @@
+{
+  "stage": "formal",
+  "sources": 1000,
+  "train_sources": 700,
+  "test_sources": 300,
+  "failures": [],
+  "random_baseline": {
+    "auc": 0.5,
+    "balanced_accuracy": 0.5
+  },
+  "results": [
+    {
+      "auc": 0.9989333333333333,
+      "balanced_accuracy": 0.9733333333333334,
+      "auc_ci95": [
+        0.9979608333333334,
+        0.9996841666666667
+      ],
+      "comparison": "AES vs zero payload",
+      "detector": "statistics_only"
+    },
+    {
+      "auc": 1.0,
+      "balanced_accuracy": 1.0,
+      "auc_ci95": [
+        1.0,
+        1.0
+      ],
+      "comparison": "AES vs zero payload",
+      "detector": "statistics_and_public_parser"
+    },
+    {
+      "auc": 0.9984555555555555,
+      "balanced_accuracy": 0.9683333333333333,
+      "auc_ci95": [
+        0.9972544444444444,
+        0.9994947222222222
+      ],
+      "comparison": "AES vs full payload",
+      "detector": "statistics_only"
+    },
+    {
+      "auc": 1.0,
+      "balanced_accuracy": 1.0,
+      "auc_ci95": [
+        1.0,
+        1.0
+      ],
+      "comparison": "AES vs full payload",
+      "detector": "statistics_and_public_parser"
+    },
+    {
+      "auc": 0.4534111111111111,
+      "balanced_accuracy": 0.4666666666666667,
+      "auc_ci95": [
+        0.4209625,
+        0.4850777777777778
+      ],
+      "comparison": "zero vs 25 percent",
+      "detector": "statistics_only"
+    },
+    {
+      "auc": 0.4534111111111111,
+      "balanced_accuracy": 0.4666666666666667,
+      "auc_ci95": [
+        0.4209625,
+        0.4850777777777778
+      ],
+      "comparison": "zero vs 25 percent",
+      "detector": "statistics_and_public_parser"
+    },
+    {
+      "auc": 0.4829777777777778,
+      "balanced_accuracy": 0.4816666666666667,
+      "auc_ci95": [
+        0.44926916666666666,
+        0.5166302777777777
+      ],
+      "comparison": "zero vs 50 percent",
+      "detector": "statistics_only"
+    },
+    {
+      "auc": 0.4829777777777778,
+      "balanced_accuracy": 0.4816666666666667,
+      "auc_ci95": [
+        0.44926916666666666,
+        0.5166302777777777
+      ],
+      "comparison": "zero vs 50 percent",
+      "detector": "statistics_and_public_parser"
+    },
+    {
+      "auc": 0.5056555555555555,
+      "balanced_accuracy": 0.5116666666666667,
+      "auc_ci95": [
+        0.4675580555555555,
+        0.5375669444444444
+      ],
+      "comparison": "zero vs full payload",
+      "detector": "statistics_only"
+    },
+    {
+      "auc": 0.5056555555555555,
+      "balanced_accuracy": 0.5116666666666667,
+      "auc_ci95": [
+        0.4675580555555555,
+        0.5375669444444444
+      ],
+      "comparison": "zero vs full payload",
+      "detector": "statistics_and_public_parser"
+    }
+  ],
+  "detector": "302 grayscale/bit-plane/spatial statistics; optionally 1 public-format parser success flag. Fixed ridge penalty 10, threshold 0.5.",
+  "protocol": "Independent source-image split; paired ciphertext variants remain in same split; zero padding encrypted in all unused slots; payload length kept in public external context."
+}

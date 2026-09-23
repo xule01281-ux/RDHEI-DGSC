@@ -1,0 +1,14380 @@
+[
+  {
+    "image": "Man",
+    "domain": "plaintext",
+    "delta": 1,
+    "half_payload_bits": 0,
+    "second_gross_bits": 31191,
+    "second_aux_bits": 250,
+    "second_lm_bits": 21,
+    "second_lm_ones": 0,
+    "second_margin_bits": 30941,
+    "second_params": [
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        0
+      ]
+    ],
+    "second_threshold_width": 10,
+    "feasible": true
+  },
+  {
+    "image": "Man",
+    "domain": "plaintext",
+    "delta": 1,
+    "half_payload_bits": 3905,
+    "second_gross_bits": 31259,
+    "second_aux_bits": 250,
+    "second_lm_bits": 21,
+    "second_lm_ones": 0,
+    "second_margin_bits": 27104,
+    "second_params": [
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        0
+      ]
+    ],
+    "second_threshold_width": 10,
+    "feasible": true
+  },
+  {
+    "image": "Man",
+    "domain": "plaintext",
+    "delta": 1,
+    "half_payload_bits": 7810,
+    "second_gross_bits": 31286,
+    "second_aux_bits": 250,
+    "second_lm_bits": 21,
+    "second_lm_ones": 0,
+    "second_margin_bits": 23226,
+    "second_params": [
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        0
+      ]
+    ],
+    "second_threshold_width": 10,
+    "feasible": true
+  },
+  {
+    "image": "Man",
+    "domain": "plaintext",
+    "delta": 1,
+    "half_payload_bits": 11715,
+    "second_gross_bits": 31254,
+    "second_aux_bits": 250,
+    "second_lm_bits": 21,
+    "second_lm_ones": 0,
+    "second_margin_bits": 19289,
+    "second_params": [
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        0
+      ]
+    ],
+    "second_threshold_width": 10,
+    "feasible": true
+  },
+  {
+    "image": "Man",
+    "domain": "plaintext",
+    "delta": 1,
+    "half_payload_bits": 15620,
+    "second_gross_bits": 31313,
+    "second_aux_bits": 250,
+    "second_lm_bits": 21,
+    "second_lm_ones": 0,
+    "second_margin_bits": 15443,
+    "second_params": [
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        0
+      ]
+    ],
+    "second_threshold_width": 10,
+    "feasible": true
+  },
+  {
+    "image": "Man",
+    "domain": "plaintext",
+    "delta": 1,
+    "half_payload_bits": 19524,
+    "second_gross_bits": 31443,
+    "second_aux_bits": 250,
+    "second_lm_bits": 21,
+    "second_lm_ones": 0,
+    "second_margin_bits": 11669,
+    "second_params": [
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        0
+      ]
+    ],
+    "second_threshold_width": 10,
+    "feasible": true
+  },
+  {
+    "image": "Man",
+    "domain": "plaintext",
+    "delta": 1,
+    "half_payload_bits": 23429,
+    "second_gross_bits": 31490,
+    "second_aux_bits": 250,
+    "second_lm_bits": 21,
+    "second_lm_ones": 0,
+    "second_margin_bits": 7811,
+    "second_params": [
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        0
+      ]
+    ],
+    "second_threshold_width": 10,
+    "feasible": true
+  },
+  {
+    "image": "Man",
+    "domain": "plaintext",
+    "delta": 1,
+    "half_payload_bits": 27334,
+    "second_gross_bits": 31542,
+    "second_aux_bits": 250,
+    "second_lm_bits": 21,
+    "second_lm_ones": 0,
+    "second_margin_bits": 3958,
+    "second_params": [
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        0
+      ]
+    ],
+    "second_threshold_width": 10,
+    "feasible": true
+  },
+  {
+    "image": "Man",
+    "domain": "plaintext",
+    "delta": 1,
+    "half_payload_bits": 31239,
+    "second_gross_bits": 31494,
+    "second_aux_bits": 250,
+    "second_lm_bits": 21,
+    "second_lm_ones": 0,
+    "second_margin_bits": 5,
+    "second_params": [
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        0
+      ]
+    ],
+    "second_threshold_width": 10,
+    "feasible": true
+  },
+  {
+    "image": "Man",
+    "domain": "plaintext",
+    "delta": 2,
+    "half_payload_bits": 0,
+    "second_gross_bits": 56053,
+    "second_aux_bits": 266,
+    "second_lm_bits": 21,
+    "second_lm_ones": 0,
+    "second_margin_bits": 55787,
+    "second_params": [
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        2
+      ],
+      [
+        2,
+        2
+      ]
+    ],
+    "second_threshold_width": 10,
+    "feasible": true
+  },
+  {
+    "image": "Man",
+    "domain": "plaintext",
+    "delta": 2,
+    "half_payload_bits": 7036,
+    "second_gross_bits": 56138,
+    "second_aux_bits": 266,
+    "second_lm_bits": 21,
+    "second_lm_ones": 0,
+    "second_margin_bits": 48836,
+    "second_params": [
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ]
+    ],
+    "second_threshold_width": 10,
+    "feasible": true
+  },
+  {
+    "image": "Man",
+    "domain": "plaintext",
+    "delta": 2,
+    "half_payload_bits": 14072,
+    "second_gross_bits": 56074,
+    "second_aux_bits": 266,
+    "second_lm_bits": 21,
+    "second_lm_ones": 0,
+    "second_margin_bits": 41736,
+    "second_params": [
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        3
+      ]
+    ],
+    "second_threshold_width": 10,
+    "feasible": true
+  },
+  {
+    "image": "Man",
+    "domain": "plaintext",
+    "delta": 2,
+    "half_payload_bits": 21107,
+    "second_gross_bits": 55980,
+    "second_aux_bits": 266,
+    "second_lm_bits": 21,
+    "second_lm_ones": 0,
+    "second_margin_bits": 34607,
+    "second_params": [
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        2
+      ]
+    ],
+    "second_threshold_width": 10,
+    "feasible": true
+  },
+  {
+    "image": "Man",
+    "domain": "plaintext",
+    "delta": 2,
+    "half_payload_bits": 28143,
+    "second_gross_bits": 55880,
+    "second_aux_bits": 266,
+    "second_lm_bits": 21,
+    "second_lm_ones": 0,
+    "second_margin_bits": 27471,
+    "second_params": [
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        2
+      ],
+      [
+        2,
+        2
+      ],
+      [
+        2,
+        2
+      ]
+    ],
+    "second_threshold_width": 10,
+    "feasible": true
+  },
+  {
+    "image": "Man",
+    "domain": "plaintext",
+    "delta": 2,
+    "half_payload_bits": 35179,
+    "second_gross_bits": 55814,
+    "second_aux_bits": 266,
+    "second_lm_bits": 21,
+    "second_lm_ones": 0,
+    "second_margin_bits": 20369,
+    "second_params": [
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        2
+      ]
+    ],
+    "second_threshold_width": 10,
+    "feasible": true
+  },
+  {
+    "image": "Man",
+    "domain": "plaintext",
+    "delta": 2,
+    "half_payload_bits": 42214,
+    "second_gross_bits": 55792,
+    "second_aux_bits": 266,
+    "second_lm_bits": 21,
+    "second_lm_ones": 0,
+    "second_margin_bits": 13312,
+    "second_params": [
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        2
+      ]
+    ],
+    "second_threshold_width": 10,
+    "feasible": true
+  },
+  {
+    "image": "Man",
+    "domain": "plaintext",
+    "delta": 2,
+    "half_payload_bits": 49250,
+    "second_gross_bits": 55609,
+    "second_aux_bits": 266,
+    "second_lm_bits": 21,
+    "second_lm_ones": 0,
+    "second_margin_bits": 6093,
+    "second_params": [
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ]
+    ],
+    "second_threshold_width": 10,
+    "feasible": true
+  },
+  {
+    "image": "Man",
+    "domain": "plaintext",
+    "delta": 2,
+    "half_payload_bits": 56286,
+    "second_gross_bits": 55232,
+    "second_aux_bits": 266,
+    "second_lm_bits": 21,
+    "second_lm_ones": 0,
+    "second_margin_bits": -1320,
+    "second_params": [
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ]
+    ],
+    "second_threshold_width": 10,
+    "feasible": false
+  },
+  {
+    "image": "Man",
+    "domain": "plaintext",
+    "delta": 2,
+    "half_payload_bits": 52768,
+    "second_gross_bits": 55371,
+    "second_aux_bits": 266,
+    "second_lm_bits": 21,
+    "second_lm_ones": 0,
+    "second_margin_bits": 2337,
+    "second_params": [
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ]
+    ],
+    "second_threshold_width": 10,
+    "feasible": true
+  },
+  {
+    "image": "Man",
+    "domain": "plaintext",
+    "delta": 2,
+    "half_payload_bits": 54527,
+    "second_gross_bits": 55272,
+    "second_aux_bits": 266,
+    "second_lm_bits": 21,
+    "second_lm_ones": 0,
+    "second_margin_bits": 479,
+    "second_params": [
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ]
+    ],
+    "second_threshold_width": 10,
+    "feasible": true
+  },
+  {
+    "image": "Man",
+    "domain": "plaintext",
+    "delta": 2,
+    "half_payload_bits": 55406,
+    "second_gross_bits": 55254,
+    "second_aux_bits": 266,
+    "second_lm_bits": 21,
+    "second_lm_ones": 0,
+    "second_margin_bits": -418,
+    "second_params": [
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ]
+    ],
+    "second_threshold_width": 10,
+    "feasible": false
+  },
+  {
+    "image": "Man",
+    "domain": "plaintext",
+    "delta": 2,
+    "half_payload_bits": 54966,
+    "second_gross_bits": 55258,
+    "second_aux_bits": 266,
+    "second_lm_bits": 21,
+    "second_lm_ones": 0,
+    "second_margin_bits": 26,
+    "second_params": [
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ]
+    ],
+    "second_threshold_width": 10,
+    "feasible": true
+  },
+  {
+    "image": "Man",
+    "domain": "plaintext",
+    "delta": 2,
+    "half_payload_bits": 55186,
+    "second_gross_bits": 55250,
+    "second_aux_bits": 266,
+    "second_lm_bits": 21,
+    "second_lm_ones": 0,
+    "second_margin_bits": -202,
+    "second_params": [
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ]
+    ],
+    "second_threshold_width": 10,
+    "feasible": false
+  },
+  {
+    "image": "Man",
+    "domain": "plaintext",
+    "delta": 2,
+    "half_payload_bits": 55076,
+    "second_gross_bits": 55253,
+    "second_aux_bits": 266,
+    "second_lm_bits": 21,
+    "second_lm_ones": 0,
+    "second_margin_bits": -89,
+    "second_params": [
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ]
+    ],
+    "second_threshold_width": 10,
+    "feasible": false
+  },
+  {
+    "image": "Man",
+    "domain": "plaintext",
+    "delta": 2,
+    "half_payload_bits": 55021,
+    "second_gross_bits": 55256,
+    "second_aux_bits": 266,
+    "second_lm_bits": 21,
+    "second_lm_ones": 0,
+    "second_margin_bits": -31,
+    "second_params": [
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ]
+    ],
+    "second_threshold_width": 10,
+    "feasible": false
+  },
+  {
+    "image": "Man",
+    "domain": "plaintext",
+    "delta": 2,
+    "half_payload_bits": 54993,
+    "second_gross_bits": 55259,
+    "second_aux_bits": 266,
+    "second_lm_bits": 21,
+    "second_lm_ones": 0,
+    "second_margin_bits": 0,
+    "second_params": [
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ]
+    ],
+    "second_threshold_width": 10,
+    "feasible": true
+  },
+  {
+    "image": "Man",
+    "domain": "plaintext",
+    "delta": 2,
+    "half_payload_bits": 55007,
+    "second_gross_bits": 55255,
+    "second_aux_bits": 266,
+    "second_lm_bits": 21,
+    "second_lm_ones": 0,
+    "second_margin_bits": -18,
+    "second_params": [
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ]
+    ],
+    "second_threshold_width": 10,
+    "feasible": false
+  },
+  {
+    "image": "Man",
+    "domain": "plaintext",
+    "delta": 2,
+    "half_payload_bits": 54969,
+    "second_gross_bits": 55261,
+    "second_aux_bits": 266,
+    "second_lm_bits": 21,
+    "second_lm_ones": 0,
+    "second_margin_bits": 26,
+    "second_params": [
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ]
+    ],
+    "second_threshold_width": 10,
+    "feasible": true
+  },
+  {
+    "image": "Man",
+    "domain": "plaintext",
+    "delta": 2,
+    "half_payload_bits": 54973,
+    "second_gross_bits": 55263,
+    "second_aux_bits": 266,
+    "second_lm_bits": 21,
+    "second_lm_ones": 0,
+    "second_margin_bits": 24,
+    "second_params": [
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ]
+    ],
+    "second_threshold_width": 10,
+    "feasible": true
+  },
+  {
+    "image": "Man",
+    "domain": "plaintext",
+    "delta": 2,
+    "half_payload_bits": 54977,
+    "second_gross_bits": 55261,
+    "second_aux_bits": 266,
+    "second_lm_bits": 21,
+    "second_lm_ones": 0,
+    "second_margin_bits": 18,
+    "second_params": [
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ]
+    ],
+    "second_threshold_width": 10,
+    "feasible": true
+  },
+  {
+    "image": "Man",
+    "domain": "plaintext",
+    "delta": 2,
+    "half_payload_bits": 54981,
+    "second_gross_bits": 55260,
+    "second_aux_bits": 266,
+    "second_lm_bits": 21,
+    "second_lm_ones": 0,
+    "second_margin_bits": 13,
+    "second_params": [
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ]
+    ],
+    "second_threshold_width": 10,
+    "feasible": true
+  },
+  {
+    "image": "Man",
+    "domain": "plaintext",
+    "delta": 2,
+    "half_payload_bits": 54985,
+    "second_gross_bits": 55260,
+    "second_aux_bits": 266,
+    "second_lm_bits": 21,
+    "second_lm_ones": 0,
+    "second_margin_bits": 9,
+    "second_params": [
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ]
+    ],
+    "second_threshold_width": 10,
+    "feasible": true
+  },
+  {
+    "image": "Man",
+    "domain": "plaintext",
+    "delta": 2,
+    "half_payload_bits": 54989,
+    "second_gross_bits": 55259,
+    "second_aux_bits": 266,
+    "second_lm_bits": 21,
+    "second_lm_ones": 0,
+    "second_margin_bits": 4,
+    "second_params": [
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ]
+    ],
+    "second_threshold_width": 10,
+    "feasible": true
+  },
+  {
+    "image": "Man",
+    "domain": "plaintext",
+    "delta": 2,
+    "half_payload_bits": 54997,
+    "second_gross_bits": 55259,
+    "second_aux_bits": 266,
+    "second_lm_bits": 21,
+    "second_lm_ones": 0,
+    "second_margin_bits": -4,
+    "second_params": [
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ]
+    ],
+    "second_threshold_width": 10,
+    "feasible": false
+  },
+  {
+    "image": "Man",
+    "domain": "plaintext",
+    "delta": 2,
+    "half_payload_bits": 55001,
+    "second_gross_bits": 55258,
+    "second_aux_bits": 266,
+    "second_lm_bits": 21,
+    "second_lm_ones": 0,
+    "second_margin_bits": -9,
+    "second_params": [
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ]
+    ],
+    "second_threshold_width": 10,
+    "feasible": false
+  },
+  {
+    "image": "Man",
+    "domain": "plaintext",
+    "delta": 2,
+    "half_payload_bits": 55005,
+    "second_gross_bits": 55254,
+    "second_aux_bits": 266,
+    "second_lm_bits": 21,
+    "second_lm_ones": 0,
+    "second_margin_bits": -17,
+    "second_params": [
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ]
+    ],
+    "second_threshold_width": 10,
+    "feasible": false
+  },
+  {
+    "image": "Man",
+    "domain": "plaintext",
+    "delta": 2,
+    "half_payload_bits": 55009,
+    "second_gross_bits": 55255,
+    "second_aux_bits": 266,
+    "second_lm_bits": 21,
+    "second_lm_ones": 0,
+    "second_margin_bits": -20,
+    "second_params": [
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ]
+    ],
+    "second_threshold_width": 10,
+    "feasible": false
+  },
+  {
+    "image": "Man",
+    "domain": "plaintext",
+    "delta": 2,
+    "half_payload_bits": 55013,
+    "second_gross_bits": 55254,
+    "second_aux_bits": 266,
+    "second_lm_bits": 21,
+    "second_lm_ones": 0,
+    "second_margin_bits": -25,
+    "second_params": [
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ]
+    ],
+    "second_threshold_width": 10,
+    "feasible": false
+  },
+  {
+    "image": "Man",
+    "domain": "plaintext",
+    "delta": 2,
+    "half_payload_bits": 55017,
+    "second_gross_bits": 55255,
+    "second_aux_bits": 266,
+    "second_lm_bits": 21,
+    "second_lm_ones": 0,
+    "second_margin_bits": -28,
+    "second_params": [
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ]
+    ],
+    "second_threshold_width": 10,
+    "feasible": false
+  },
+  {
+    "image": "Man",
+    "domain": "plaintext",
+    "delta": 2,
+    "half_payload_bits": 55025,
+    "second_gross_bits": 55256,
+    "second_aux_bits": 266,
+    "second_lm_bits": 21,
+    "second_lm_ones": 0,
+    "second_margin_bits": -35,
+    "second_params": [
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ]
+    ],
+    "second_threshold_width": 10,
+    "feasible": false
+  },
+  {
+    "image": "Man",
+    "domain": "plaintext",
+    "delta": 2,
+    "half_payload_bits": 55029,
+    "second_gross_bits": 55258,
+    "second_aux_bits": 266,
+    "second_lm_bits": 21,
+    "second_lm_ones": 0,
+    "second_margin_bits": -37,
+    "second_params": [
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ]
+    ],
+    "second_threshold_width": 10,
+    "feasible": false
+  },
+  {
+    "image": "Man",
+    "domain": "plaintext",
+    "delta": 2,
+    "half_payload_bits": 55033,
+    "second_gross_bits": 55257,
+    "second_aux_bits": 266,
+    "second_lm_bits": 21,
+    "second_lm_ones": 0,
+    "second_margin_bits": -42,
+    "second_params": [
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ]
+    ],
+    "second_threshold_width": 10,
+    "feasible": false
+  },
+  {
+    "image": "Man",
+    "domain": "plaintext",
+    "delta": 2,
+    "half_payload_bits": 55037,
+    "second_gross_bits": 55256,
+    "second_aux_bits": 266,
+    "second_lm_bits": 21,
+    "second_lm_ones": 0,
+    "second_margin_bits": -47,
+    "second_params": [
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ]
+    ],
+    "second_threshold_width": 10,
+    "feasible": false
+  },
+  {
+    "image": "Man",
+    "domain": "plaintext",
+    "delta": 3,
+    "half_payload_bits": 0,
+    "second_gross_bits": 74017,
+    "second_aux_bits": 282,
+    "second_lm_bits": 21,
+    "second_lm_ones": 0,
+    "second_margin_bits": 73735,
+    "second_params": [
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ]
+    ],
+    "second_threshold_width": 10,
+    "feasible": true
+  },
+  {
+    "image": "Man",
+    "domain": "plaintext",
+    "delta": 3,
+    "half_payload_bits": 9275,
+    "second_gross_bits": 73972,
+    "second_aux_bits": 282,
+    "second_lm_bits": 21,
+    "second_lm_ones": 0,
+    "second_margin_bits": 64415,
+    "second_params": [
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ]
+    ],
+    "second_threshold_width": 10,
+    "feasible": true
+  },
+  {
+    "image": "Man",
+    "domain": "plaintext",
+    "delta": 3,
+    "half_payload_bits": 18549,
+    "second_gross_bits": 73898,
+    "second_aux_bits": 282,
+    "second_lm_bits": 21,
+    "second_lm_ones": 0,
+    "second_margin_bits": 55067,
+    "second_params": [
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ]
+    ],
+    "second_threshold_width": 10,
+    "feasible": true
+  },
+  {
+    "image": "Man",
+    "domain": "plaintext",
+    "delta": 3,
+    "half_payload_bits": 27824,
+    "second_gross_bits": 73620,
+    "second_aux_bits": 282,
+    "second_lm_bits": 21,
+    "second_lm_ones": 0,
+    "second_margin_bits": 45514,
+    "second_params": [
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ]
+    ],
+    "second_threshold_width": 10,
+    "feasible": true
+  },
+  {
+    "image": "Man",
+    "domain": "plaintext",
+    "delta": 3,
+    "half_payload_bits": 37098,
+    "second_gross_bits": 73427,
+    "second_aux_bits": 282,
+    "second_lm_bits": 21,
+    "second_lm_ones": 0,
+    "second_margin_bits": 36047,
+    "second_params": [
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ]
+    ],
+    "second_threshold_width": 10,
+    "feasible": true
+  },
+  {
+    "image": "Man",
+    "domain": "plaintext",
+    "delta": 3,
+    "half_payload_bits": 46373,
+    "second_gross_bits": 73332,
+    "second_aux_bits": 282,
+    "second_lm_bits": 21,
+    "second_lm_ones": 0,
+    "second_margin_bits": 26677,
+    "second_params": [
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ]
+    ],
+    "second_threshold_width": 10,
+    "feasible": true
+  },
+  {
+    "image": "Man",
+    "domain": "plaintext",
+    "delta": 3,
+    "half_payload_bits": 55648,
+    "second_gross_bits": 73233,
+    "second_aux_bits": 282,
+    "second_lm_bits": 21,
+    "second_lm_ones": 0,
+    "second_margin_bits": 17303,
+    "second_params": [
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ]
+    ],
+    "second_threshold_width": 10,
+    "feasible": true
+  },
+  {
+    "image": "Man",
+    "domain": "plaintext",
+    "delta": 3,
+    "half_payload_bits": 64922,
+    "second_gross_bits": 72968,
+    "second_aux_bits": 282,
+    "second_lm_bits": 21,
+    "second_lm_ones": 0,
+    "second_margin_bits": 7764,
+    "second_params": [
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ]
+    ],
+    "second_threshold_width": 10,
+    "feasible": true
+  },
+  {
+    "image": "Man",
+    "domain": "plaintext",
+    "delta": 3,
+    "half_payload_bits": 74197,
+    "second_gross_bits": 72498,
+    "second_aux_bits": 282,
+    "second_lm_bits": 21,
+    "second_lm_ones": 0,
+    "second_margin_bits": -1981,
+    "second_params": [
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ]
+    ],
+    "second_threshold_width": 10,
+    "feasible": false
+  },
+  {
+    "image": "Man",
+    "domain": "plaintext",
+    "delta": 3,
+    "half_payload_bits": 69559,
+    "second_gross_bits": 72686,
+    "second_aux_bits": 282,
+    "second_lm_bits": 21,
+    "second_lm_ones": 0,
+    "second_margin_bits": 2845,
+    "second_params": [
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ]
+    ],
+    "second_threshold_width": 10,
+    "feasible": true
+  },
+  {
+    "image": "Man",
+    "domain": "plaintext",
+    "delta": 3,
+    "half_payload_bits": 71878,
+    "second_gross_bits": 72571,
+    "second_aux_bits": 282,
+    "second_lm_bits": 21,
+    "second_lm_ones": 0,
+    "second_margin_bits": 411,
+    "second_params": [
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ]
+    ],
+    "second_threshold_width": 10,
+    "feasible": true
+  },
+  {
+    "image": "Man",
+    "domain": "plaintext",
+    "delta": 3,
+    "half_payload_bits": 73037,
+    "second_gross_bits": 72512,
+    "second_aux_bits": 282,
+    "second_lm_bits": 21,
+    "second_lm_ones": 0,
+    "second_margin_bits": -807,
+    "second_params": [
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ]
+    ],
+    "second_threshold_width": 10,
+    "feasible": false
+  },
+  {
+    "image": "Man",
+    "domain": "plaintext",
+    "delta": 3,
+    "half_payload_bits": 72457,
+    "second_gross_bits": 72532,
+    "second_aux_bits": 282,
+    "second_lm_bits": 21,
+    "second_lm_ones": 0,
+    "second_margin_bits": -207,
+    "second_params": [
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ]
+    ],
+    "second_threshold_width": 10,
+    "feasible": false
+  },
+  {
+    "image": "Man",
+    "domain": "plaintext",
+    "delta": 3,
+    "half_payload_bits": 72167,
+    "second_gross_bits": 72552,
+    "second_aux_bits": 282,
+    "second_lm_bits": 21,
+    "second_lm_ones": 0,
+    "second_margin_bits": 103,
+    "second_params": [
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ]
+    ],
+    "second_threshold_width": 10,
+    "feasible": true
+  },
+  {
+    "image": "Man",
+    "domain": "plaintext",
+    "delta": 3,
+    "half_payload_bits": 72312,
+    "second_gross_bits": 72543,
+    "second_aux_bits": 282,
+    "second_lm_bits": 21,
+    "second_lm_ones": 0,
+    "second_margin_bits": -51,
+    "second_params": [
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ]
+    ],
+    "second_threshold_width": 10,
+    "feasible": false
+  },
+  {
+    "image": "Man",
+    "domain": "plaintext",
+    "delta": 3,
+    "half_payload_bits": 72239,
+    "second_gross_bits": 72542,
+    "second_aux_bits": 282,
+    "second_lm_bits": 21,
+    "second_lm_ones": 0,
+    "second_margin_bits": 21,
+    "second_params": [
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ]
+    ],
+    "second_threshold_width": 10,
+    "feasible": true
+  },
+  {
+    "image": "Man",
+    "domain": "plaintext",
+    "delta": 3,
+    "half_payload_bits": 72275,
+    "second_gross_bits": 72544,
+    "second_aux_bits": 282,
+    "second_lm_bits": 21,
+    "second_lm_ones": 0,
+    "second_margin_bits": -13,
+    "second_params": [
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ]
+    ],
+    "second_threshold_width": 10,
+    "feasible": false
+  },
+  {
+    "image": "Man",
+    "domain": "plaintext",
+    "delta": 3,
+    "half_payload_bits": 72257,
+    "second_gross_bits": 72542,
+    "second_aux_bits": 282,
+    "second_lm_bits": 21,
+    "second_lm_ones": 0,
+    "second_margin_bits": 3,
+    "second_params": [
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ]
+    ],
+    "second_threshold_width": 10,
+    "feasible": true
+  },
+  {
+    "image": "Man",
+    "domain": "plaintext",
+    "delta": 3,
+    "half_payload_bits": 72266,
+    "second_gross_bits": 72545,
+    "second_aux_bits": 282,
+    "second_lm_bits": 21,
+    "second_lm_ones": 0,
+    "second_margin_bits": -3,
+    "second_params": [
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ]
+    ],
+    "second_threshold_width": 10,
+    "feasible": false
+  },
+  {
+    "image": "Man",
+    "domain": "plaintext",
+    "delta": 3,
+    "half_payload_bits": 72233,
+    "second_gross_bits": 72544,
+    "second_aux_bits": 282,
+    "second_lm_bits": 21,
+    "second_lm_ones": 0,
+    "second_margin_bits": 29,
+    "second_params": [
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ]
+    ],
+    "second_threshold_width": 10,
+    "feasible": true
+  },
+  {
+    "image": "Man",
+    "domain": "plaintext",
+    "delta": 3,
+    "half_payload_bits": 72237,
+    "second_gross_bits": 72543,
+    "second_aux_bits": 282,
+    "second_lm_bits": 21,
+    "second_lm_ones": 0,
+    "second_margin_bits": 24,
+    "second_params": [
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ]
+    ],
+    "second_threshold_width": 10,
+    "feasible": true
+  },
+  {
+    "image": "Man",
+    "domain": "plaintext",
+    "delta": 3,
+    "half_payload_bits": 72241,
+    "second_gross_bits": 72543,
+    "second_aux_bits": 282,
+    "second_lm_bits": 21,
+    "second_lm_ones": 0,
+    "second_margin_bits": 20,
+    "second_params": [
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ]
+    ],
+    "second_threshold_width": 10,
+    "feasible": true
+  },
+  {
+    "image": "Man",
+    "domain": "plaintext",
+    "delta": 3,
+    "half_payload_bits": 72245,
+    "second_gross_bits": 72544,
+    "second_aux_bits": 282,
+    "second_lm_bits": 21,
+    "second_lm_ones": 0,
+    "second_margin_bits": 17,
+    "second_params": [
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ]
+    ],
+    "second_threshold_width": 10,
+    "feasible": true
+  },
+  {
+    "image": "Man",
+    "domain": "plaintext",
+    "delta": 3,
+    "half_payload_bits": 72249,
+    "second_gross_bits": 72544,
+    "second_aux_bits": 282,
+    "second_lm_bits": 21,
+    "second_lm_ones": 0,
+    "second_margin_bits": 13,
+    "second_params": [
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ]
+    ],
+    "second_threshold_width": 10,
+    "feasible": true
+  },
+  {
+    "image": "Man",
+    "domain": "plaintext",
+    "delta": 3,
+    "half_payload_bits": 72253,
+    "second_gross_bits": 72544,
+    "second_aux_bits": 282,
+    "second_lm_bits": 21,
+    "second_lm_ones": 0,
+    "second_margin_bits": 9,
+    "second_params": [
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ]
+    ],
+    "second_threshold_width": 10,
+    "feasible": true
+  },
+  {
+    "image": "Man",
+    "domain": "plaintext",
+    "delta": 3,
+    "half_payload_bits": 72261,
+    "second_gross_bits": 72545,
+    "second_aux_bits": 282,
+    "second_lm_bits": 21,
+    "second_lm_ones": 0,
+    "second_margin_bits": 2,
+    "second_params": [
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ]
+    ],
+    "second_threshold_width": 10,
+    "feasible": true
+  },
+  {
+    "image": "Man",
+    "domain": "plaintext",
+    "delta": 3,
+    "half_payload_bits": 72265,
+    "second_gross_bits": 72545,
+    "second_aux_bits": 282,
+    "second_lm_bits": 21,
+    "second_lm_ones": 0,
+    "second_margin_bits": -2,
+    "second_params": [
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ]
+    ],
+    "second_threshold_width": 10,
+    "feasible": false
+  },
+  {
+    "image": "Man",
+    "domain": "plaintext",
+    "delta": 3,
+    "half_payload_bits": 72269,
+    "second_gross_bits": 72545,
+    "second_aux_bits": 282,
+    "second_lm_bits": 21,
+    "second_lm_ones": 0,
+    "second_margin_bits": -6,
+    "second_params": [
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ]
+    ],
+    "second_threshold_width": 10,
+    "feasible": false
+  },
+  {
+    "image": "Man",
+    "domain": "plaintext",
+    "delta": 3,
+    "half_payload_bits": 72273,
+    "second_gross_bits": 72544,
+    "second_aux_bits": 282,
+    "second_lm_bits": 21,
+    "second_lm_ones": 0,
+    "second_margin_bits": -11,
+    "second_params": [
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ]
+    ],
+    "second_threshold_width": 10,
+    "feasible": false
+  },
+  {
+    "image": "Man",
+    "domain": "plaintext",
+    "delta": 3,
+    "half_payload_bits": 72277,
+    "second_gross_bits": 72544,
+    "second_aux_bits": 282,
+    "second_lm_bits": 21,
+    "second_lm_ones": 0,
+    "second_margin_bits": -15,
+    "second_params": [
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ]
+    ],
+    "second_threshold_width": 10,
+    "feasible": false
+  },
+  {
+    "image": "Man",
+    "domain": "plaintext",
+    "delta": 3,
+    "half_payload_bits": 72281,
+    "second_gross_bits": 72541,
+    "second_aux_bits": 282,
+    "second_lm_bits": 21,
+    "second_lm_ones": 0,
+    "second_margin_bits": -22,
+    "second_params": [
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ]
+    ],
+    "second_threshold_width": 10,
+    "feasible": false
+  },
+  {
+    "image": "Man",
+    "domain": "plaintext",
+    "delta": 3,
+    "half_payload_bits": 72285,
+    "second_gross_bits": 72543,
+    "second_aux_bits": 282,
+    "second_lm_bits": 21,
+    "second_lm_ones": 0,
+    "second_margin_bits": -24,
+    "second_params": [
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ]
+    ],
+    "second_threshold_width": 10,
+    "feasible": false
+  },
+  {
+    "image": "Man",
+    "domain": "plaintext",
+    "delta": 3,
+    "half_payload_bits": 72289,
+    "second_gross_bits": 72544,
+    "second_aux_bits": 282,
+    "second_lm_bits": 21,
+    "second_lm_ones": 0,
+    "second_margin_bits": -27,
+    "second_params": [
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ]
+    ],
+    "second_threshold_width": 10,
+    "feasible": false
+  },
+  {
+    "image": "Man",
+    "domain": "plaintext",
+    "delta": 3,
+    "half_payload_bits": 72293,
+    "second_gross_bits": 72544,
+    "second_aux_bits": 282,
+    "second_lm_bits": 21,
+    "second_lm_ones": 0,
+    "second_margin_bits": -31,
+    "second_params": [
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ]
+    ],
+    "second_threshold_width": 10,
+    "feasible": false
+  },
+  {
+    "image": "Man",
+    "domain": "plaintext",
+    "delta": 3,
+    "half_payload_bits": 72297,
+    "second_gross_bits": 72544,
+    "second_aux_bits": 282,
+    "second_lm_bits": 21,
+    "second_lm_ones": 0,
+    "second_margin_bits": -35,
+    "second_params": [
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ]
+    ],
+    "second_threshold_width": 10,
+    "feasible": false
+  },
+  {
+    "image": "Man",
+    "domain": "plaintext",
+    "delta": 4,
+    "half_payload_bits": 0,
+    "second_gross_bits": 86768,
+    "second_aux_bits": 282,
+    "second_lm_bits": 21,
+    "second_lm_ones": 0,
+    "second_margin_bits": 86486,
+    "second_params": [
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ]
+    ],
+    "second_threshold_width": 10,
+    "feasible": true
+  },
+  {
+    "image": "Man",
+    "domain": "plaintext",
+    "delta": 4,
+    "half_payload_bits": 10850,
+    "second_gross_bits": 86660,
+    "second_aux_bits": 282,
+    "second_lm_bits": 21,
+    "second_lm_ones": 0,
+    "second_margin_bits": 75528,
+    "second_params": [
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ]
+    ],
+    "second_threshold_width": 10,
+    "feasible": true
+  },
+  {
+    "image": "Man",
+    "domain": "plaintext",
+    "delta": 4,
+    "half_payload_bits": 21701,
+    "second_gross_bits": 86502,
+    "second_aux_bits": 282,
+    "second_lm_bits": 21,
+    "second_lm_ones": 0,
+    "second_margin_bits": 64519,
+    "second_params": [
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ]
+    ],
+    "second_threshold_width": 10,
+    "feasible": true
+  },
+  {
+    "image": "Man",
+    "domain": "plaintext",
+    "delta": 4,
+    "half_payload_bits": 32552,
+    "second_gross_bits": 86274,
+    "second_aux_bits": 282,
+    "second_lm_bits": 21,
+    "second_lm_ones": 0,
+    "second_margin_bits": 53440,
+    "second_params": [
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ]
+    ],
+    "second_threshold_width": 10,
+    "feasible": true
+  },
+  {
+    "image": "Man",
+    "domain": "plaintext",
+    "delta": 4,
+    "half_payload_bits": 43402,
+    "second_gross_bits": 86107,
+    "second_aux_bits": 282,
+    "second_lm_bits": 21,
+    "second_lm_ones": 0,
+    "second_margin_bits": 42423,
+    "second_params": [
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        4
+      ],
+      [
+        4,
+        4
+      ]
+    ],
+    "second_threshold_width": 10,
+    "feasible": true
+  },
+  {
+    "image": "Man",
+    "domain": "plaintext",
+    "delta": 4,
+    "half_payload_bits": 54252,
+    "second_gross_bits": 86012,
+    "second_aux_bits": 282,
+    "second_lm_bits": 21,
+    "second_lm_ones": 0,
+    "second_margin_bits": 31478,
+    "second_params": [
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ]
+    ],
+    "second_threshold_width": 10,
+    "feasible": true
+  },
+  {
+    "image": "Man",
+    "domain": "plaintext",
+    "delta": 4,
+    "half_payload_bits": 65103,
+    "second_gross_bits": 85998,
+    "second_aux_bits": 282,
+    "second_lm_bits": 21,
+    "second_lm_ones": 0,
+    "second_margin_bits": 20613,
+    "second_params": [
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        4
+      ]
+    ],
+    "second_threshold_width": 10,
+    "feasible": true
+  },
+  {
+    "image": "Man",
+    "domain": "plaintext",
+    "delta": 4,
+    "half_payload_bits": 75954,
+    "second_gross_bits": 85743,
+    "second_aux_bits": 282,
+    "second_lm_bits": 21,
+    "second_lm_ones": 0,
+    "second_margin_bits": 9507,
+    "second_params": [
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        4
+      ]
+    ],
+    "second_threshold_width": 10,
+    "feasible": true
+  },
+  {
+    "image": "Man",
+    "domain": "plaintext",
+    "delta": 4,
+    "half_payload_bits": 86804,
+    "second_gross_bits": 85382,
+    "second_aux_bits": 282,
+    "second_lm_bits": 21,
+    "second_lm_ones": 0,
+    "second_margin_bits": -1704,
+    "second_params": [
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        4
+      ]
+    ],
+    "second_threshold_width": 10,
+    "feasible": false
+  },
+  {
+    "image": "Man",
+    "domain": "plaintext",
+    "delta": 4,
+    "half_payload_bits": 81379,
+    "second_gross_bits": 85535,
+    "second_aux_bits": 282,
+    "second_lm_bits": 21,
+    "second_lm_ones": 0,
+    "second_margin_bits": 3874,
+    "second_params": [
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        4
+      ]
+    ],
+    "second_threshold_width": 10,
+    "feasible": true
+  },
+  {
+    "image": "Man",
+    "domain": "plaintext",
+    "delta": 4,
+    "half_payload_bits": 84091,
+    "second_gross_bits": 85448,
+    "second_aux_bits": 282,
+    "second_lm_bits": 21,
+    "second_lm_ones": 0,
+    "second_margin_bits": 1075,
+    "second_params": [
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        4
+      ]
+    ],
+    "second_threshold_width": 10,
+    "feasible": true
+  },
+  {
+    "image": "Man",
+    "domain": "plaintext",
+    "delta": 4,
+    "half_payload_bits": 85447,
+    "second_gross_bits": 85407,
+    "second_aux_bits": 282,
+    "second_lm_bits": 21,
+    "second_lm_ones": 0,
+    "second_margin_bits": -322,
+    "second_params": [
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        4
+      ]
+    ],
+    "second_threshold_width": 10,
+    "feasible": false
+  },
+  {
+    "image": "Man",
+    "domain": "plaintext",
+    "delta": 4,
+    "half_payload_bits": 84769,
+    "second_gross_bits": 85426,
+    "second_aux_bits": 282,
+    "second_lm_bits": 21,
+    "second_lm_ones": 0,
+    "second_margin_bits": 375,
+    "second_params": [
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        4
+      ]
+    ],
+    "second_threshold_width": 10,
+    "feasible": true
+  },
+  {
+    "image": "Man",
+    "domain": "plaintext",
+    "delta": 4,
+    "half_payload_bits": 85108,
+    "second_gross_bits": 85420,
+    "second_aux_bits": 282,
+    "second_lm_bits": 21,
+    "second_lm_ones": 0,
+    "second_margin_bits": 30,
+    "second_params": [
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        4
+      ]
+    ],
+    "second_threshold_width": 10,
+    "feasible": true
+  },
+  {
+    "image": "Man",
+    "domain": "plaintext",
+    "delta": 4,
+    "half_payload_bits": 85277,
+    "second_gross_bits": 85413,
+    "second_aux_bits": 282,
+    "second_lm_bits": 21,
+    "second_lm_ones": 0,
+    "second_margin_bits": -146,
+    "second_params": [
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        4
+      ]
+    ],
+    "second_threshold_width": 10,
+    "feasible": false
+  },
+  {
+    "image": "Man",
+    "domain": "plaintext",
+    "delta": 4,
+    "half_payload_bits": 85192,
+    "second_gross_bits": 85421,
+    "second_aux_bits": 282,
+    "second_lm_bits": 21,
+    "second_lm_ones": 0,
+    "second_margin_bits": -53,
+    "second_params": [
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        4
+      ]
+    ],
+    "second_threshold_width": 10,
+    "feasible": false
+  },
+  {
+    "image": "Man",
+    "domain": "plaintext",
+    "delta": 4,
+    "half_payload_bits": 85150,
+    "second_gross_bits": 85416,
+    "second_aux_bits": 282,
+    "second_lm_bits": 21,
+    "second_lm_ones": 0,
+    "second_margin_bits": -16,
+    "second_params": [
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        4
+      ]
+    ],
+    "second_threshold_width": 10,
+    "feasible": false
+  },
+  {
+    "image": "Man",
+    "domain": "plaintext",
+    "delta": 4,
+    "half_payload_bits": 85129,
+    "second_gross_bits": 85420,
+    "second_aux_bits": 282,
+    "second_lm_bits": 21,
+    "second_lm_ones": 0,
+    "second_margin_bits": 9,
+    "second_params": [
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        4
+      ]
+    ],
+    "second_threshold_width": 10,
+    "feasible": true
+  },
+  {
+    "image": "Man",
+    "domain": "plaintext",
+    "delta": 4,
+    "half_payload_bits": 85139,
+    "second_gross_bits": 85418,
+    "second_aux_bits": 282,
+    "second_lm_bits": 21,
+    "second_lm_ones": 0,
+    "second_margin_bits": -3,
+    "second_params": [
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        4
+      ]
+    ],
+    "second_threshold_width": 10,
+    "feasible": false
+  },
+  {
+    "image": "Man",
+    "domain": "plaintext",
+    "delta": 4,
+    "half_payload_bits": 85105,
+    "second_gross_bits": 85420,
+    "second_aux_bits": 282,
+    "second_lm_bits": 21,
+    "second_lm_ones": 0,
+    "second_margin_bits": 33,
+    "second_params": [
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        4
+      ]
+    ],
+    "second_threshold_width": 10,
+    "feasible": true
+  },
+  {
+    "image": "Man",
+    "domain": "plaintext",
+    "delta": 4,
+    "half_payload_bits": 85109,
+    "second_gross_bits": 85420,
+    "second_aux_bits": 282,
+    "second_lm_bits": 21,
+    "second_lm_ones": 0,
+    "second_margin_bits": 29,
+    "second_params": [
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        4
+      ]
+    ],
+    "second_threshold_width": 10,
+    "feasible": true
+  },
+  {
+    "image": "Man",
+    "domain": "plaintext",
+    "delta": 4,
+    "half_payload_bits": 85113,
+    "second_gross_bits": 85420,
+    "second_aux_bits": 282,
+    "second_lm_bits": 21,
+    "second_lm_ones": 0,
+    "second_margin_bits": 25,
+    "second_params": [
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        4
+      ]
+    ],
+    "second_threshold_width": 10,
+    "feasible": true
+  },
+  {
+    "image": "Man",
+    "domain": "plaintext",
+    "delta": 4,
+    "half_payload_bits": 85117,
+    "second_gross_bits": 85420,
+    "second_aux_bits": 282,
+    "second_lm_bits": 21,
+    "second_lm_ones": 0,
+    "second_margin_bits": 21,
+    "second_params": [
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        4
+      ]
+    ],
+    "second_threshold_width": 10,
+    "feasible": true
+  },
+  {
+    "image": "Man",
+    "domain": "plaintext",
+    "delta": 4,
+    "half_payload_bits": 85121,
+    "second_gross_bits": 85420,
+    "second_aux_bits": 282,
+    "second_lm_bits": 21,
+    "second_lm_ones": 0,
+    "second_margin_bits": 17,
+    "second_params": [
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        4
+      ]
+    ],
+    "second_threshold_width": 10,
+    "feasible": true
+  },
+  {
+    "image": "Man",
+    "domain": "plaintext",
+    "delta": 4,
+    "half_payload_bits": 85125,
+    "second_gross_bits": 85420,
+    "second_aux_bits": 282,
+    "second_lm_bits": 21,
+    "second_lm_ones": 0,
+    "second_margin_bits": 13,
+    "second_params": [
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        4
+      ]
+    ],
+    "second_threshold_width": 10,
+    "feasible": true
+  },
+  {
+    "image": "Man",
+    "domain": "plaintext",
+    "delta": 4,
+    "half_payload_bits": 85133,
+    "second_gross_bits": 85419,
+    "second_aux_bits": 282,
+    "second_lm_bits": 21,
+    "second_lm_ones": 0,
+    "second_margin_bits": 4,
+    "second_params": [
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        4
+      ]
+    ],
+    "second_threshold_width": 10,
+    "feasible": true
+  },
+  {
+    "image": "Man",
+    "domain": "plaintext",
+    "delta": 4,
+    "half_payload_bits": 85137,
+    "second_gross_bits": 85418,
+    "second_aux_bits": 282,
+    "second_lm_bits": 21,
+    "second_lm_ones": 0,
+    "second_margin_bits": -1,
+    "second_params": [
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        4
+      ]
+    ],
+    "second_threshold_width": 10,
+    "feasible": false
+  },
+  {
+    "image": "Man",
+    "domain": "plaintext",
+    "delta": 4,
+    "half_payload_bits": 85141,
+    "second_gross_bits": 85417,
+    "second_aux_bits": 282,
+    "second_lm_bits": 21,
+    "second_lm_ones": 0,
+    "second_margin_bits": -6,
+    "second_params": [
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        4
+      ]
+    ],
+    "second_threshold_width": 10,
+    "feasible": false
+  },
+  {
+    "image": "Man",
+    "domain": "plaintext",
+    "delta": 4,
+    "half_payload_bits": 85145,
+    "second_gross_bits": 85417,
+    "second_aux_bits": 282,
+    "second_lm_bits": 21,
+    "second_lm_ones": 0,
+    "second_margin_bits": -10,
+    "second_params": [
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        4
+      ]
+    ],
+    "second_threshold_width": 10,
+    "feasible": false
+  },
+  {
+    "image": "Man",
+    "domain": "plaintext",
+    "delta": 4,
+    "half_payload_bits": 85149,
+    "second_gross_bits": 85417,
+    "second_aux_bits": 282,
+    "second_lm_bits": 21,
+    "second_lm_ones": 0,
+    "second_margin_bits": -14,
+    "second_params": [
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        4
+      ]
+    ],
+    "second_threshold_width": 10,
+    "feasible": false
+  },
+  {
+    "image": "Man",
+    "domain": "plaintext",
+    "delta": 4,
+    "half_payload_bits": 85153,
+    "second_gross_bits": 85416,
+    "second_aux_bits": 282,
+    "second_lm_bits": 21,
+    "second_lm_ones": 0,
+    "second_margin_bits": -19,
+    "second_params": [
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        4
+      ]
+    ],
+    "second_threshold_width": 10,
+    "feasible": false
+  },
+  {
+    "image": "Man",
+    "domain": "plaintext",
+    "delta": 4,
+    "half_payload_bits": 85157,
+    "second_gross_bits": 85417,
+    "second_aux_bits": 282,
+    "second_lm_bits": 21,
+    "second_lm_ones": 0,
+    "second_margin_bits": -22,
+    "second_params": [
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        4
+      ]
+    ],
+    "second_threshold_width": 10,
+    "feasible": false
+  },
+  {
+    "image": "Man",
+    "domain": "plaintext",
+    "delta": 4,
+    "half_payload_bits": 85161,
+    "second_gross_bits": 85417,
+    "second_aux_bits": 282,
+    "second_lm_bits": 21,
+    "second_lm_ones": 0,
+    "second_margin_bits": -26,
+    "second_params": [
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        4
+      ]
+    ],
+    "second_threshold_width": 10,
+    "feasible": false
+  },
+  {
+    "image": "Man",
+    "domain": "plaintext",
+    "delta": 4,
+    "half_payload_bits": 85165,
+    "second_gross_bits": 85417,
+    "second_aux_bits": 282,
+    "second_lm_bits": 21,
+    "second_lm_ones": 0,
+    "second_margin_bits": -30,
+    "second_params": [
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        4
+      ]
+    ],
+    "second_threshold_width": 10,
+    "feasible": false
+  },
+  {
+    "image": "Man",
+    "domain": "plaintext",
+    "delta": 4,
+    "half_payload_bits": 85169,
+    "second_gross_bits": 85420,
+    "second_aux_bits": 282,
+    "second_lm_bits": 21,
+    "second_lm_ones": 0,
+    "second_margin_bits": -31,
+    "second_params": [
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        4
+      ]
+    ],
+    "second_threshold_width": 10,
+    "feasible": false
+  },
+  {
+    "image": "Man",
+    "domain": "plaintext",
+    "delta": 5,
+    "half_payload_bits": 0,
+    "second_gross_bits": 95687,
+    "second_aux_bits": 298,
+    "second_lm_bits": 21,
+    "second_lm_ones": 0,
+    "second_margin_bits": 95389,
+    "second_params": [
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        7
+      ]
+    ],
+    "second_threshold_width": 10,
+    "feasible": true
+  },
+  {
+    "image": "Man",
+    "domain": "plaintext",
+    "delta": 5,
+    "half_payload_bits": 11960,
+    "second_gross_bits": 95657,
+    "second_aux_bits": 298,
+    "second_lm_bits": 21,
+    "second_lm_ones": 0,
+    "second_margin_bits": 83399,
+    "second_params": [
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        7
+      ]
+    ],
+    "second_threshold_width": 10,
+    "feasible": true
+  },
+  {
+    "image": "Man",
+    "domain": "plaintext",
+    "delta": 5,
+    "half_payload_bits": 23921,
+    "second_gross_bits": 95589,
+    "second_aux_bits": 298,
+    "second_lm_bits": 21,
+    "second_lm_ones": 0,
+    "second_margin_bits": 71370,
+    "second_params": [
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        7
+      ]
+    ],
+    "second_threshold_width": 10,
+    "feasible": true
+  },
+  {
+    "image": "Man",
+    "domain": "plaintext",
+    "delta": 5,
+    "half_payload_bits": 35881,
+    "second_gross_bits": 95411,
+    "second_aux_bits": 298,
+    "second_lm_bits": 21,
+    "second_lm_ones": 0,
+    "second_margin_bits": 59232,
+    "second_params": [
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        7
+      ]
+    ],
+    "second_threshold_width": 10,
+    "feasible": true
+  },
+  {
+    "image": "Man",
+    "domain": "plaintext",
+    "delta": 5,
+    "half_payload_bits": 47842,
+    "second_gross_bits": 95327,
+    "second_aux_bits": 298,
+    "second_lm_bits": 21,
+    "second_lm_ones": 0,
+    "second_margin_bits": 47187,
+    "second_params": [
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ]
+    ],
+    "second_threshold_width": 10,
+    "feasible": true
+  },
+  {
+    "image": "Man",
+    "domain": "plaintext",
+    "delta": 5,
+    "half_payload_bits": 59802,
+    "second_gross_bits": 95312,
+    "second_aux_bits": 298,
+    "second_lm_bits": 21,
+    "second_lm_ones": 0,
+    "second_margin_bits": 35212,
+    "second_params": [
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ]
+    ],
+    "second_threshold_width": 10,
+    "feasible": true
+  },
+  {
+    "image": "Man",
+    "domain": "plaintext",
+    "delta": 5,
+    "half_payload_bits": 71762,
+    "second_gross_bits": 95281,
+    "second_aux_bits": 298,
+    "second_lm_bits": 21,
+    "second_lm_ones": 0,
+    "second_margin_bits": 23221,
+    "second_params": [
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ]
+    ],
+    "second_threshold_width": 10,
+    "feasible": true
+  },
+  {
+    "image": "Man",
+    "domain": "plaintext",
+    "delta": 5,
+    "half_payload_bits": 83723,
+    "second_gross_bits": 95064,
+    "second_aux_bits": 298,
+    "second_lm_bits": 21,
+    "second_lm_ones": 0,
+    "second_margin_bits": 11043,
+    "second_params": [
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ]
+    ],
+    "second_threshold_width": 10,
+    "feasible": true
+  },
+  {
+    "image": "Man",
+    "domain": "plaintext",
+    "delta": 5,
+    "half_payload_bits": 95683,
+    "second_gross_bits": 94804,
+    "second_aux_bits": 298,
+    "second_lm_bits": 21,
+    "second_lm_ones": 0,
+    "second_margin_bits": -1177,
+    "second_params": [
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ]
+    ],
+    "second_threshold_width": 10,
+    "feasible": false
+  },
+  {
+    "image": "Man",
+    "domain": "plaintext",
+    "delta": 5,
+    "half_payload_bits": 89703,
+    "second_gross_bits": 94927,
+    "second_aux_bits": 298,
+    "second_lm_bits": 21,
+    "second_lm_ones": 0,
+    "second_margin_bits": 4926,
+    "second_params": [
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ]
+    ],
+    "second_threshold_width": 10,
+    "feasible": true
+  },
+  {
+    "image": "Man",
+    "domain": "plaintext",
+    "delta": 5,
+    "half_payload_bits": 92693,
+    "second_gross_bits": 94843,
+    "second_aux_bits": 298,
+    "second_lm_bits": 21,
+    "second_lm_ones": 0,
+    "second_margin_bits": 1852,
+    "second_params": [
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ]
+    ],
+    "second_threshold_width": 10,
+    "feasible": true
+  },
+  {
+    "image": "Man",
+    "domain": "plaintext",
+    "delta": 5,
+    "half_payload_bits": 94188,
+    "second_gross_bits": 94827,
+    "second_aux_bits": 298,
+    "second_lm_bits": 21,
+    "second_lm_ones": 0,
+    "second_margin_bits": 341,
+    "second_params": [
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ]
+    ],
+    "second_threshold_width": 10,
+    "feasible": true
+  },
+  {
+    "image": "Man",
+    "domain": "plaintext",
+    "delta": 5,
+    "half_payload_bits": 94935,
+    "second_gross_bits": 94808,
+    "second_aux_bits": 298,
+    "second_lm_bits": 21,
+    "second_lm_ones": 0,
+    "second_margin_bits": -425,
+    "second_params": [
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ]
+    ],
+    "second_threshold_width": 10,
+    "feasible": false
+  },
+  {
+    "image": "Man",
+    "domain": "plaintext",
+    "delta": 5,
+    "half_payload_bits": 94561,
+    "second_gross_bits": 94816,
+    "second_aux_bits": 298,
+    "second_lm_bits": 21,
+    "second_lm_ones": 0,
+    "second_margin_bits": -43,
+    "second_params": [
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ]
+    ],
+    "second_threshold_width": 10,
+    "feasible": false
+  },
+  {
+    "image": "Man",
+    "domain": "plaintext",
+    "delta": 5,
+    "half_payload_bits": 94374,
+    "second_gross_bits": 94816,
+    "second_aux_bits": 298,
+    "second_lm_bits": 21,
+    "second_lm_ones": 0,
+    "second_margin_bits": 144,
+    "second_params": [
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ]
+    ],
+    "second_threshold_width": 10,
+    "feasible": true
+  },
+  {
+    "image": "Man",
+    "domain": "plaintext",
+    "delta": 5,
+    "half_payload_bits": 94467,
+    "second_gross_bits": 94815,
+    "second_aux_bits": 298,
+    "second_lm_bits": 21,
+    "second_lm_ones": 0,
+    "second_margin_bits": 50,
+    "second_params": [
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ]
+    ],
+    "second_threshold_width": 10,
+    "feasible": true
+  },
+  {
+    "image": "Man",
+    "domain": "plaintext",
+    "delta": 5,
+    "half_payload_bits": 94514,
+    "second_gross_bits": 94816,
+    "second_aux_bits": 298,
+    "second_lm_bits": 21,
+    "second_lm_ones": 0,
+    "second_margin_bits": 4,
+    "second_params": [
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ]
+    ],
+    "second_threshold_width": 10,
+    "feasible": true
+  },
+  {
+    "image": "Man",
+    "domain": "plaintext",
+    "delta": 5,
+    "half_payload_bits": 94537,
+    "second_gross_bits": 94811,
+    "second_aux_bits": 298,
+    "second_lm_bits": 21,
+    "second_lm_ones": 0,
+    "second_margin_bits": -24,
+    "second_params": [
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ]
+    ],
+    "second_threshold_width": 10,
+    "feasible": false
+  },
+  {
+    "image": "Man",
+    "domain": "plaintext",
+    "delta": 5,
+    "half_payload_bits": 94525,
+    "second_gross_bits": 94814,
+    "second_aux_bits": 298,
+    "second_lm_bits": 21,
+    "second_lm_ones": 0,
+    "second_margin_bits": -9,
+    "second_params": [
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ]
+    ],
+    "second_threshold_width": 10,
+    "feasible": false
+  },
+  {
+    "image": "Man",
+    "domain": "plaintext",
+    "delta": 5,
+    "half_payload_bits": 94490,
+    "second_gross_bits": 94817,
+    "second_aux_bits": 298,
+    "second_lm_bits": 21,
+    "second_lm_ones": 0,
+    "second_margin_bits": 29,
+    "second_params": [
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ]
+    ],
+    "second_threshold_width": 10,
+    "feasible": true
+  },
+  {
+    "image": "Man",
+    "domain": "plaintext",
+    "delta": 5,
+    "half_payload_bits": 94494,
+    "second_gross_bits": 94817,
+    "second_aux_bits": 298,
+    "second_lm_bits": 21,
+    "second_lm_ones": 0,
+    "second_margin_bits": 25,
+    "second_params": [
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ]
+    ],
+    "second_threshold_width": 10,
+    "feasible": true
+  },
+  {
+    "image": "Man",
+    "domain": "plaintext",
+    "delta": 5,
+    "half_payload_bits": 94498,
+    "second_gross_bits": 94817,
+    "second_aux_bits": 298,
+    "second_lm_bits": 21,
+    "second_lm_ones": 0,
+    "second_margin_bits": 21,
+    "second_params": [
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ]
+    ],
+    "second_threshold_width": 10,
+    "feasible": true
+  },
+  {
+    "image": "Man",
+    "domain": "plaintext",
+    "delta": 5,
+    "half_payload_bits": 94502,
+    "second_gross_bits": 94817,
+    "second_aux_bits": 298,
+    "second_lm_bits": 21,
+    "second_lm_ones": 0,
+    "second_margin_bits": 17,
+    "second_params": [
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ]
+    ],
+    "second_threshold_width": 10,
+    "feasible": true
+  },
+  {
+    "image": "Man",
+    "domain": "plaintext",
+    "delta": 5,
+    "half_payload_bits": 94506,
+    "second_gross_bits": 94817,
+    "second_aux_bits": 298,
+    "second_lm_bits": 21,
+    "second_lm_ones": 0,
+    "second_margin_bits": 13,
+    "second_params": [
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ]
+    ],
+    "second_threshold_width": 10,
+    "feasible": true
+  },
+  {
+    "image": "Man",
+    "domain": "plaintext",
+    "delta": 5,
+    "half_payload_bits": 94510,
+    "second_gross_bits": 94816,
+    "second_aux_bits": 298,
+    "second_lm_bits": 21,
+    "second_lm_ones": 0,
+    "second_margin_bits": 8,
+    "second_params": [
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ]
+    ],
+    "second_threshold_width": 10,
+    "feasible": true
+  },
+  {
+    "image": "Man",
+    "domain": "plaintext",
+    "delta": 5,
+    "half_payload_bits": 94518,
+    "second_gross_bits": 94815,
+    "second_aux_bits": 298,
+    "second_lm_bits": 21,
+    "second_lm_ones": 0,
+    "second_margin_bits": -1,
+    "second_params": [
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ]
+    ],
+    "second_threshold_width": 10,
+    "feasible": false
+  },
+  {
+    "image": "Man",
+    "domain": "plaintext",
+    "delta": 5,
+    "half_payload_bits": 94522,
+    "second_gross_bits": 94815,
+    "second_aux_bits": 298,
+    "second_lm_bits": 21,
+    "second_lm_ones": 0,
+    "second_margin_bits": -5,
+    "second_params": [
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ]
+    ],
+    "second_threshold_width": 10,
+    "feasible": false
+  },
+  {
+    "image": "Man",
+    "domain": "plaintext",
+    "delta": 5,
+    "half_payload_bits": 94526,
+    "second_gross_bits": 94814,
+    "second_aux_bits": 298,
+    "second_lm_bits": 21,
+    "second_lm_ones": 0,
+    "second_margin_bits": -10,
+    "second_params": [
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ]
+    ],
+    "second_threshold_width": 10,
+    "feasible": false
+  },
+  {
+    "image": "Man",
+    "domain": "plaintext",
+    "delta": 5,
+    "half_payload_bits": 94530,
+    "second_gross_bits": 94813,
+    "second_aux_bits": 298,
+    "second_lm_bits": 21,
+    "second_lm_ones": 0,
+    "second_margin_bits": -15,
+    "second_params": [
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ]
+    ],
+    "second_threshold_width": 10,
+    "feasible": false
+  },
+  {
+    "image": "Man",
+    "domain": "plaintext",
+    "delta": 5,
+    "half_payload_bits": 94534,
+    "second_gross_bits": 94811,
+    "second_aux_bits": 298,
+    "second_lm_bits": 21,
+    "second_lm_ones": 0,
+    "second_margin_bits": -21,
+    "second_params": [
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ]
+    ],
+    "second_threshold_width": 10,
+    "feasible": false
+  },
+  {
+    "image": "Man",
+    "domain": "plaintext",
+    "delta": 5,
+    "half_payload_bits": 94538,
+    "second_gross_bits": 94811,
+    "second_aux_bits": 298,
+    "second_lm_bits": 21,
+    "second_lm_ones": 0,
+    "second_margin_bits": -25,
+    "second_params": [
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ]
+    ],
+    "second_threshold_width": 10,
+    "feasible": false
+  },
+  {
+    "image": "Man",
+    "domain": "plaintext",
+    "delta": 5,
+    "half_payload_bits": 94542,
+    "second_gross_bits": 94812,
+    "second_aux_bits": 298,
+    "second_lm_bits": 21,
+    "second_lm_ones": 0,
+    "second_margin_bits": -28,
+    "second_params": [
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ]
+    ],
+    "second_threshold_width": 10,
+    "feasible": false
+  },
+  {
+    "image": "Man",
+    "domain": "plaintext",
+    "delta": 5,
+    "half_payload_bits": 94546,
+    "second_gross_bits": 94813,
+    "second_aux_bits": 298,
+    "second_lm_bits": 21,
+    "second_lm_ones": 0,
+    "second_margin_bits": -31,
+    "second_params": [
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ]
+    ],
+    "second_threshold_width": 10,
+    "feasible": false
+  },
+  {
+    "image": "Man",
+    "domain": "plaintext",
+    "delta": 5,
+    "half_payload_bits": 94550,
+    "second_gross_bits": 94815,
+    "second_aux_bits": 298,
+    "second_lm_bits": 21,
+    "second_lm_ones": 0,
+    "second_margin_bits": -33,
+    "second_params": [
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ]
+    ],
+    "second_threshold_width": 10,
+    "feasible": false
+  },
+  {
+    "image": "Man",
+    "domain": "plaintext",
+    "delta": 5,
+    "half_payload_bits": 94554,
+    "second_gross_bits": 94815,
+    "second_aux_bits": 298,
+    "second_lm_bits": 21,
+    "second_lm_ones": 0,
+    "second_margin_bits": -37,
+    "second_params": [
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ]
+    ],
+    "second_threshold_width": 10,
+    "feasible": false
+  },
+  {
+    "image": "Man",
+    "domain": "plaintext",
+    "delta": 6,
+    "half_payload_bits": 0,
+    "second_gross_bits": 102159,
+    "second_aux_bits": 298,
+    "second_lm_bits": 21,
+    "second_lm_ones": 0,
+    "second_margin_bits": 101861,
+    "second_params": [
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        7
+      ]
+    ],
+    "second_threshold_width": 10,
+    "feasible": true
+  },
+  {
+    "image": "Man",
+    "domain": "plaintext",
+    "delta": 6,
+    "half_payload_bits": 12772,
+    "second_gross_bits": 102186,
+    "second_aux_bits": 298,
+    "second_lm_bits": 21,
+    "second_lm_ones": 0,
+    "second_margin_bits": 89116,
+    "second_params": [
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        7
+      ]
+    ],
+    "second_threshold_width": 10,
+    "feasible": true
+  },
+  {
+    "image": "Man",
+    "domain": "plaintext",
+    "delta": 6,
+    "half_payload_bits": 25544,
+    "second_gross_bits": 102102,
+    "second_aux_bits": 298,
+    "second_lm_bits": 21,
+    "second_lm_ones": 0,
+    "second_margin_bits": 76260,
+    "second_params": [
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        7
+      ]
+    ],
+    "second_threshold_width": 10,
+    "feasible": true
+  },
+  {
+    "image": "Man",
+    "domain": "plaintext",
+    "delta": 6,
+    "half_payload_bits": 38316,
+    "second_gross_bits": 102014,
+    "second_aux_bits": 298,
+    "second_lm_bits": 21,
+    "second_lm_ones": 0,
+    "second_margin_bits": 63400,
+    "second_params": [
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        7
+      ]
+    ],
+    "second_threshold_width": 10,
+    "feasible": true
+  },
+  {
+    "image": "Man",
+    "domain": "plaintext",
+    "delta": 6,
+    "half_payload_bits": 51088,
+    "second_gross_bits": 102016,
+    "second_aux_bits": 298,
+    "second_lm_bits": 21,
+    "second_lm_ones": 0,
+    "second_margin_bits": 50630,
+    "second_params": [
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        7
+      ]
+    ],
+    "second_threshold_width": 10,
+    "feasible": true
+  },
+  {
+    "image": "Man",
+    "domain": "plaintext",
+    "delta": 6,
+    "half_payload_bits": 63861,
+    "second_gross_bits": 102064,
+    "second_aux_bits": 298,
+    "second_lm_bits": 21,
+    "second_lm_ones": 0,
+    "second_margin_bits": 37905,
+    "second_params": [
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ]
+    ],
+    "second_threshold_width": 10,
+    "feasible": true
+  },
+  {
+    "image": "Man",
+    "domain": "plaintext",
+    "delta": 6,
+    "half_payload_bits": 76633,
+    "second_gross_bits": 102005,
+    "second_aux_bits": 298,
+    "second_lm_bits": 21,
+    "second_lm_ones": 0,
+    "second_margin_bits": 25074,
+    "second_params": [
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ]
+    ],
+    "second_threshold_width": 10,
+    "feasible": true
+  },
+  {
+    "image": "Man",
+    "domain": "plaintext",
+    "delta": 6,
+    "half_payload_bits": 89405,
+    "second_gross_bits": 101866,
+    "second_aux_bits": 298,
+    "second_lm_bits": 21,
+    "second_lm_ones": 0,
+    "second_margin_bits": 12163,
+    "second_params": [
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ]
+    ],
+    "second_threshold_width": 10,
+    "feasible": true
+  },
+  {
+    "image": "Man",
+    "domain": "plaintext",
+    "delta": 6,
+    "half_payload_bits": 102177,
+    "second_gross_bits": 101692,
+    "second_aux_bits": 298,
+    "second_lm_bits": 21,
+    "second_lm_ones": 0,
+    "second_margin_bits": -783,
+    "second_params": [
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ]
+    ],
+    "second_threshold_width": 10,
+    "feasible": false
+  },
+  {
+    "image": "Man",
+    "domain": "plaintext",
+    "delta": 6,
+    "half_payload_bits": 95791,
+    "second_gross_bits": 101746,
+    "second_aux_bits": 298,
+    "second_lm_bits": 21,
+    "second_lm_ones": 0,
+    "second_margin_bits": 5657,
+    "second_params": [
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ]
+    ],
+    "second_threshold_width": 10,
+    "feasible": true
+  },
+  {
+    "image": "Man",
+    "domain": "plaintext",
+    "delta": 6,
+    "half_payload_bits": 98984,
+    "second_gross_bits": 101705,
+    "second_aux_bits": 298,
+    "second_lm_bits": 21,
+    "second_lm_ones": 0,
+    "second_margin_bits": 2423,
+    "second_params": [
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ]
+    ],
+    "second_threshold_width": 10,
+    "feasible": true
+  },
+  {
+    "image": "Man",
+    "domain": "plaintext",
+    "delta": 6,
+    "half_payload_bits": 100580,
+    "second_gross_bits": 101700,
+    "second_aux_bits": 298,
+    "second_lm_bits": 21,
+    "second_lm_ones": 0,
+    "second_margin_bits": 822,
+    "second_params": [
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ]
+    ],
+    "second_threshold_width": 10,
+    "feasible": true
+  },
+  {
+    "image": "Man",
+    "domain": "plaintext",
+    "delta": 6,
+    "half_payload_bits": 101378,
+    "second_gross_bits": 101696,
+    "second_aux_bits": 298,
+    "second_lm_bits": 21,
+    "second_lm_ones": 0,
+    "second_margin_bits": 20,
+    "second_params": [
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ]
+    ],
+    "second_threshold_width": 10,
+    "feasible": true
+  },
+  {
+    "image": "Man",
+    "domain": "plaintext",
+    "delta": 6,
+    "half_payload_bits": 101777,
+    "second_gross_bits": 101677,
+    "second_aux_bits": 298,
+    "second_lm_bits": 21,
+    "second_lm_ones": 0,
+    "second_margin_bits": -398,
+    "second_params": [
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ]
+    ],
+    "second_threshold_width": 10,
+    "feasible": false
+  },
+  {
+    "image": "Man",
+    "domain": "plaintext",
+    "delta": 6,
+    "half_payload_bits": 101577,
+    "second_gross_bits": 101692,
+    "second_aux_bits": 298,
+    "second_lm_bits": 21,
+    "second_lm_ones": 0,
+    "second_margin_bits": -183,
+    "second_params": [
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ]
+    ],
+    "second_threshold_width": 10,
+    "feasible": false
+  },
+  {
+    "image": "Man",
+    "domain": "plaintext",
+    "delta": 6,
+    "half_payload_bits": 101477,
+    "second_gross_bits": 101696,
+    "second_aux_bits": 298,
+    "second_lm_bits": 21,
+    "second_lm_ones": 0,
+    "second_margin_bits": -79,
+    "second_params": [
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ]
+    ],
+    "second_threshold_width": 10,
+    "feasible": false
+  },
+  {
+    "image": "Man",
+    "domain": "plaintext",
+    "delta": 6,
+    "half_payload_bits": 101427,
+    "second_gross_bits": 101695,
+    "second_aux_bits": 298,
+    "second_lm_bits": 21,
+    "second_lm_ones": 0,
+    "second_margin_bits": -30,
+    "second_params": [
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ]
+    ],
+    "second_threshold_width": 10,
+    "feasible": false
+  },
+  {
+    "image": "Man",
+    "domain": "plaintext",
+    "delta": 6,
+    "half_payload_bits": 101402,
+    "second_gross_bits": 101696,
+    "second_aux_bits": 298,
+    "second_lm_bits": 21,
+    "second_lm_ones": 0,
+    "second_margin_bits": -4,
+    "second_params": [
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ]
+    ],
+    "second_threshold_width": 10,
+    "feasible": false
+  },
+  {
+    "image": "Man",
+    "domain": "plaintext",
+    "delta": 6,
+    "half_payload_bits": 101390,
+    "second_gross_bits": 101697,
+    "second_aux_bits": 298,
+    "second_lm_bits": 21,
+    "second_lm_ones": 0,
+    "second_margin_bits": 9,
+    "second_params": [
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ]
+    ],
+    "second_threshold_width": 10,
+    "feasible": true
+  },
+  {
+    "image": "Man",
+    "domain": "plaintext",
+    "delta": 6,
+    "half_payload_bits": 101366,
+    "second_gross_bits": 101694,
+    "second_aux_bits": 298,
+    "second_lm_bits": 21,
+    "second_lm_ones": 0,
+    "second_margin_bits": 30,
+    "second_params": [
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ]
+    ],
+    "second_threshold_width": 10,
+    "feasible": true
+  },
+  {
+    "image": "Man",
+    "domain": "plaintext",
+    "delta": 6,
+    "half_payload_bits": 101370,
+    "second_gross_bits": 101695,
+    "second_aux_bits": 298,
+    "second_lm_bits": 21,
+    "second_lm_ones": 0,
+    "second_margin_bits": 27,
+    "second_params": [
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ]
+    ],
+    "second_threshold_width": 10,
+    "feasible": true
+  },
+  {
+    "image": "Man",
+    "domain": "plaintext",
+    "delta": 6,
+    "half_payload_bits": 101374,
+    "second_gross_bits": 101695,
+    "second_aux_bits": 298,
+    "second_lm_bits": 21,
+    "second_lm_ones": 0,
+    "second_margin_bits": 23,
+    "second_params": [
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ]
+    ],
+    "second_threshold_width": 10,
+    "feasible": true
+  },
+  {
+    "image": "Man",
+    "domain": "plaintext",
+    "delta": 6,
+    "half_payload_bits": 101382,
+    "second_gross_bits": 101696,
+    "second_aux_bits": 298,
+    "second_lm_bits": 21,
+    "second_lm_ones": 0,
+    "second_margin_bits": 16,
+    "second_params": [
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ]
+    ],
+    "second_threshold_width": 10,
+    "feasible": true
+  },
+  {
+    "image": "Man",
+    "domain": "plaintext",
+    "delta": 6,
+    "half_payload_bits": 101386,
+    "second_gross_bits": 101696,
+    "second_aux_bits": 298,
+    "second_lm_bits": 21,
+    "second_lm_ones": 0,
+    "second_margin_bits": 12,
+    "second_params": [
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ]
+    ],
+    "second_threshold_width": 10,
+    "feasible": true
+  },
+  {
+    "image": "Man",
+    "domain": "plaintext",
+    "delta": 6,
+    "half_payload_bits": 101394,
+    "second_gross_bits": 101697,
+    "second_aux_bits": 298,
+    "second_lm_bits": 21,
+    "second_lm_ones": 0,
+    "second_margin_bits": 5,
+    "second_params": [
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ]
+    ],
+    "second_threshold_width": 10,
+    "feasible": true
+  },
+  {
+    "image": "Man",
+    "domain": "plaintext",
+    "delta": 6,
+    "half_payload_bits": 101398,
+    "second_gross_bits": 101697,
+    "second_aux_bits": 298,
+    "second_lm_bits": 21,
+    "second_lm_ones": 0,
+    "second_margin_bits": 1,
+    "second_params": [
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ]
+    ],
+    "second_threshold_width": 10,
+    "feasible": true
+  },
+  {
+    "image": "Man",
+    "domain": "plaintext",
+    "delta": 6,
+    "half_payload_bits": 101406,
+    "second_gross_bits": 101696,
+    "second_aux_bits": 298,
+    "second_lm_bits": 21,
+    "second_lm_ones": 0,
+    "second_margin_bits": -8,
+    "second_params": [
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ]
+    ],
+    "second_threshold_width": 10,
+    "feasible": false
+  },
+  {
+    "image": "Man",
+    "domain": "plaintext",
+    "delta": 6,
+    "half_payload_bits": 101410,
+    "second_gross_bits": 101696,
+    "second_aux_bits": 298,
+    "second_lm_bits": 21,
+    "second_lm_ones": 0,
+    "second_margin_bits": -12,
+    "second_params": [
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ]
+    ],
+    "second_threshold_width": 10,
+    "feasible": false
+  },
+  {
+    "image": "Man",
+    "domain": "plaintext",
+    "delta": 6,
+    "half_payload_bits": 101414,
+    "second_gross_bits": 101696,
+    "second_aux_bits": 298,
+    "second_lm_bits": 21,
+    "second_lm_ones": 0,
+    "second_margin_bits": -16,
+    "second_params": [
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ]
+    ],
+    "second_threshold_width": 10,
+    "feasible": false
+  },
+  {
+    "image": "Man",
+    "domain": "plaintext",
+    "delta": 6,
+    "half_payload_bits": 101418,
+    "second_gross_bits": 101695,
+    "second_aux_bits": 298,
+    "second_lm_bits": 21,
+    "second_lm_ones": 0,
+    "second_margin_bits": -21,
+    "second_params": [
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ]
+    ],
+    "second_threshold_width": 10,
+    "feasible": false
+  },
+  {
+    "image": "Man",
+    "domain": "plaintext",
+    "delta": 6,
+    "half_payload_bits": 101422,
+    "second_gross_bits": 101695,
+    "second_aux_bits": 298,
+    "second_lm_bits": 21,
+    "second_lm_ones": 0,
+    "second_margin_bits": -25,
+    "second_params": [
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ]
+    ],
+    "second_threshold_width": 10,
+    "feasible": false
+  },
+  {
+    "image": "Man",
+    "domain": "plaintext",
+    "delta": 6,
+    "half_payload_bits": 101426,
+    "second_gross_bits": 101695,
+    "second_aux_bits": 298,
+    "second_lm_bits": 21,
+    "second_lm_ones": 0,
+    "second_margin_bits": -29,
+    "second_params": [
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ]
+    ],
+    "second_threshold_width": 10,
+    "feasible": false
+  },
+  {
+    "image": "Man",
+    "domain": "plaintext",
+    "delta": 6,
+    "half_payload_bits": 101430,
+    "second_gross_bits": 101695,
+    "second_aux_bits": 298,
+    "second_lm_bits": 21,
+    "second_lm_ones": 0,
+    "second_margin_bits": -33,
+    "second_params": [
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ]
+    ],
+    "second_threshold_width": 10,
+    "feasible": false
+  },
+  {
+    "image": "Man",
+    "domain": "plaintext",
+    "delta": 6,
+    "half_payload_bits": 101434,
+    "second_gross_bits": 101696,
+    "second_aux_bits": 298,
+    "second_lm_bits": 21,
+    "second_lm_ones": 0,
+    "second_margin_bits": -36,
+    "second_params": [
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ]
+    ],
+    "second_threshold_width": 10,
+    "feasible": false
+  }
+]

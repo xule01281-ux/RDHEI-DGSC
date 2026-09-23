@@ -1,0 +1,518 @@
+[
+  {
+    "method": "HC-MHM",
+    "image": "Man",
+    "domain": "ciphertext",
+    "delta_max": 6,
+    "delta": 1,
+    "seed": 0,
+    "first_gross_bits": 1093,
+    "first_aux_bits": 12216,
+    "first_lm_bits": 11955,
+    "first_lm_ones": 1515,
+    "first_threshold_width": 12,
+    "first_params": [
+      [
+        1,
+        2
+      ],
+      [
+        1,
+        3
+      ],
+      [
+        1,
+        3
+      ],
+      [
+        1,
+        4
+      ],
+      [
+        1,
+        4
+      ],
+      [
+        1,
+        4
+      ],
+      [
+        1,
+        5
+      ],
+      [
+        1,
+        5
+      ],
+      [
+        1,
+        5
+      ],
+      [
+        1,
+        6
+      ],
+      [
+        1,
+        6
+      ],
+      [
+        1,
+        6
+      ],
+      [
+        1,
+        6
+      ],
+      [
+        1,
+        6
+      ],
+      [
+        1,
+        6
+      ],
+      [
+        1,
+        6
+      ]
+    ],
+    "first_relaxed_upper_bits": 1165,
+    "first_net_balance_bits": -11123,
+    "net_capacity_estimate_bits": 0,
+    "ecc_estimate_bpp": 0.0,
+    "positive_payload_found": false,
+    "probes": 0,
+    "elapsed_seconds": 0.04945769999176264
+  },
+  {
+    "method": "HC-MHM",
+    "image": "Man",
+    "domain": "ciphertext",
+    "delta_max": 6,
+    "delta": 2,
+    "seed": 0,
+    "first_gross_bits": 2123,
+    "first_aux_bits": 18356,
+    "first_lm_bits": 18079,
+    "first_lm_ones": 2537,
+    "first_threshold_width": 12,
+    "first_params": [
+      [
+        2,
+        2
+      ],
+      [
+        2,
+        3
+      ],
+      [
+        2,
+        3
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        2,
+        7
+      ],
+      [
+        2,
+        7
+      ],
+      [
+        2,
+        7
+      ],
+      [
+        2,
+        7
+      ],
+      [
+        2,
+        7
+      ],
+      [
+        2,
+        7
+      ],
+      [
+        2,
+        7
+      ],
+      [
+        2,
+        7
+      ],
+      [
+        2,
+        7
+      ]
+    ],
+    "first_relaxed_upper_bits": 2194,
+    "first_net_balance_bits": -16233,
+    "net_capacity_estimate_bits": 0,
+    "ecc_estimate_bpp": 0.0,
+    "positive_payload_found": false,
+    "probes": 0,
+    "elapsed_seconds": 0.04950790002476424
+  },
+  {
+    "method": "HC-MHM",
+    "image": "Man",
+    "domain": "ciphertext",
+    "delta_max": 6,
+    "delta": 3,
+    "seed": 0,
+    "first_gross_bits": 3092,
+    "first_aux_bits": 23851,
+    "first_lm_bits": 23558,
+    "first_lm_ones": 3555,
+    "first_threshold_width": 12,
+    "first_params": [
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        3
+      ],
+      [
+        3,
+        3
+      ],
+      [
+        3,
+        4
+      ],
+      [
+        3,
+        4
+      ],
+      [
+        3,
+        4
+      ],
+      [
+        3,
+        5
+      ],
+      [
+        3,
+        5
+      ],
+      [
+        3,
+        5
+      ],
+      [
+        3,
+        7
+      ],
+      [
+        3,
+        7
+      ],
+      [
+        3,
+        7
+      ],
+      [
+        3,
+        7
+      ],
+      [
+        3,
+        7
+      ],
+      [
+        3,
+        7
+      ],
+      [
+        3,
+        8
+      ]
+    ],
+    "first_relaxed_upper_bits": 3171,
+    "first_net_balance_bits": -20759,
+    "net_capacity_estimate_bits": 0,
+    "ecc_estimate_bpp": 0.0,
+    "positive_payload_found": false,
+    "probes": 0,
+    "elapsed_seconds": 0.05104529997333884
+  },
+  {
+    "method": "HC-MHM",
+    "image": "Man",
+    "domain": "ciphertext",
+    "delta_max": 6,
+    "delta": 4,
+    "seed": 0,
+    "first_gross_bits": 4083,
+    "first_aux_bits": 28864,
+    "first_lm_bits": 28571,
+    "first_lm_ones": 4567,
+    "first_threshold_width": 12,
+    "first_params": [
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        4
+      ],
+      [
+        4,
+        4
+      ],
+      [
+        4,
+        4
+      ],
+      [
+        4,
+        4
+      ],
+      [
+        4,
+        5
+      ],
+      [
+        4,
+        5
+      ],
+      [
+        4,
+        7
+      ],
+      [
+        4,
+        7
+      ],
+      [
+        4,
+        7
+      ],
+      [
+        4,
+        7
+      ],
+      [
+        4,
+        7
+      ],
+      [
+        4,
+        7
+      ],
+      [
+        4,
+        9
+      ]
+    ],
+    "first_relaxed_upper_bits": 4177,
+    "first_net_balance_bits": -24781,
+    "net_capacity_estimate_bits": 0,
+    "ecc_estimate_bpp": 0.0,
+    "positive_payload_found": false,
+    "probes": 0,
+    "elapsed_seconds": 0.0538430999731645
+  },
+  {
+    "method": "HC-MHM",
+    "image": "Man",
+    "domain": "ciphertext",
+    "delta_max": 6,
+    "delta": 5,
+    "seed": 0,
+    "first_gross_bits": 5060,
+    "first_aux_bits": 33505,
+    "first_lm_bits": 33196,
+    "first_lm_ones": 5568,
+    "first_threshold_width": 12,
+    "first_params": [
+      [
+        5,
+        5
+      ],
+      [
+        5,
+        6
+      ],
+      [
+        5,
+        6
+      ],
+      [
+        5,
+        7
+      ],
+      [
+        5,
+        7
+      ],
+      [
+        5,
+        7
+      ],
+      [
+        5,
+        7
+      ],
+      [
+        5,
+        7
+      ],
+      [
+        5,
+        7
+      ],
+      [
+        5,
+        7
+      ],
+      [
+        5,
+        7
+      ],
+      [
+        5,
+        7
+      ],
+      [
+        5,
+        7
+      ],
+      [
+        5,
+        7
+      ],
+      [
+        5,
+        8
+      ],
+      [
+        5,
+        9
+      ]
+    ],
+    "first_relaxed_upper_bits": 5160,
+    "first_net_balance_bits": -28445,
+    "net_capacity_estimate_bits": 0,
+    "ecc_estimate_bpp": 0.0,
+    "positive_payload_found": false,
+    "probes": 0,
+    "elapsed_seconds": 0.05401980003807694
+  },
+  {
+    "method": "HC-MHM",
+    "image": "Man",
+    "domain": "ciphertext",
+    "delta_max": 6,
+    "delta": 6,
+    "seed": 0,
+    "first_gross_bits": 6068,
+    "first_aux_bits": 37972,
+    "first_lm_bits": 37663,
+    "first_lm_ones": 6596,
+    "first_threshold_width": 12,
+    "first_params": [
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        6
+      ],
+      [
+        6,
+        6
+      ],
+      [
+        6,
+        7
+      ],
+      [
+        6,
+        7
+      ],
+      [
+        6,
+        7
+      ],
+      [
+        6,
+        7
+      ],
+      [
+        6,
+        7
+      ],
+      [
+        6,
+        7
+      ],
+      [
+        6,
+        7
+      ],
+      [
+        6,
+        7
+      ],
+      [
+        6,
+        7
+      ],
+      [
+        6,
+        7
+      ],
+      [
+        6,
+        10
+      ],
+      [
+        6,
+        11
+      ],
+      [
+        6,
+        11
+      ]
+    ],
+    "first_relaxed_upper_bits": 6161,
+    "first_net_balance_bits": -31904,
+    "net_capacity_estimate_bits": 0,
+    "ecc_estimate_bpp": 0.0,
+    "positive_payload_found": false,
+    "probes": 0,
+    "elapsed_seconds": 0.054474700009450316
+  }
+]

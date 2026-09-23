@@ -1,0 +1,962 @@
+[
+  {
+    "method": "HC-MHM",
+    "image": "Man",
+    "domain": "plaintext",
+    "delta_max": 6,
+    "delta": 1,
+    "seed": 0,
+    "first_gross_bits": 31489,
+    "first_aux_bits": 250,
+    "first_lm_bits": 21,
+    "first_lm_ones": 0,
+    "first_threshold_width": 10,
+    "first_params": [
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        2
+      ]
+    ],
+    "first_relaxed_upper_bits": 31490,
+    "first_net_balance_bits": 31239,
+    "net_capacity_estimate_bits": 62478,
+    "ecc_estimate_bpp": 0.23833465576171875,
+    "positive_payload_found": true,
+    "probes": 9,
+    "elapsed_seconds": 0.3560309000313282,
+    "half_payload_bits": 31239,
+    "second_gross_bits": 31494,
+    "second_aux_bits": 250,
+    "second_lm_bits": 21,
+    "second_lm_ones": 0,
+    "second_margin_bits": 5,
+    "second_params": [
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        0
+      ]
+    ],
+    "second_threshold_width": 10,
+    "feasible": true
+  },
+  {
+    "method": "HC-MHM",
+    "image": "Man",
+    "domain": "plaintext",
+    "delta_max": 6,
+    "delta": 2,
+    "seed": 0,
+    "first_gross_bits": 56552,
+    "first_aux_bits": 266,
+    "first_lm_bits": 21,
+    "first_lm_ones": 0,
+    "first_threshold_width": 10,
+    "first_params": [
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        2
+      ]
+    ],
+    "first_relaxed_upper_bits": 56560,
+    "first_net_balance_bits": 56286,
+    "net_capacity_estimate_bits": 109986,
+    "ecc_estimate_bpp": 0.41956329345703125,
+    "positive_payload_found": true,
+    "probes": 34,
+    "elapsed_seconds": 1.1708803999936208,
+    "half_payload_bits": 54993,
+    "second_gross_bits": 55259,
+    "second_aux_bits": 266,
+    "second_lm_bits": 21,
+    "second_lm_ones": 0,
+    "second_margin_bits": 0,
+    "second_params": [
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ]
+    ],
+    "second_threshold_width": 10,
+    "feasible": true
+  },
+  {
+    "method": "HC-MHM",
+    "image": "Man",
+    "domain": "plaintext",
+    "delta_max": 6,
+    "delta": 3,
+    "seed": 0,
+    "first_gross_bits": 74479,
+    "first_aux_bits": 282,
+    "first_lm_bits": 21,
+    "first_lm_ones": 0,
+    "first_threshold_width": 10,
+    "first_params": [
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ]
+    ],
+    "first_relaxed_upper_bits": 74479,
+    "first_net_balance_bits": 74197,
+    "net_capacity_estimate_bits": 144522,
+    "ecc_estimate_bpp": 0.5513076782226562,
+    "positive_payload_found": true,
+    "probes": 35,
+    "elapsed_seconds": 1.0949496000539511,
+    "half_payload_bits": 72261,
+    "second_gross_bits": 72545,
+    "second_aux_bits": 282,
+    "second_lm_bits": 21,
+    "second_lm_ones": 0,
+    "second_margin_bits": 2,
+    "second_params": [
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ]
+    ],
+    "second_threshold_width": 10,
+    "feasible": true
+  },
+  {
+    "method": "HC-MHM",
+    "image": "Man",
+    "domain": "plaintext",
+    "delta_max": 6,
+    "delta": 4,
+    "seed": 0,
+    "first_gross_bits": 87086,
+    "first_aux_bits": 282,
+    "first_lm_bits": 21,
+    "first_lm_ones": 0,
+    "first_threshold_width": 10,
+    "first_params": [
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        8
+      ]
+    ],
+    "first_relaxed_upper_bits": 87086,
+    "first_net_balance_bits": 86804,
+    "net_capacity_estimate_bits": 170266,
+    "ecc_estimate_bpp": 0.6495132446289062,
+    "positive_payload_found": true,
+    "probes": 35,
+    "elapsed_seconds": 1.125017900019884,
+    "half_payload_bits": 85133,
+    "second_gross_bits": 85419,
+    "second_aux_bits": 282,
+    "second_lm_bits": 21,
+    "second_lm_ones": 0,
+    "second_margin_bits": 4,
+    "second_params": [
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        4
+      ]
+    ],
+    "second_threshold_width": 10,
+    "feasible": true
+  },
+  {
+    "method": "HC-MHM",
+    "image": "Man",
+    "domain": "plaintext",
+    "delta_max": 6,
+    "delta": 5,
+    "seed": 0,
+    "first_gross_bits": 95981,
+    "first_aux_bits": 298,
+    "first_lm_bits": 21,
+    "first_lm_ones": 0,
+    "first_threshold_width": 10,
+    "first_params": [
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        5
+      ],
+      [
+        5,
+        8
+      ]
+    ],
+    "first_relaxed_upper_bits": 95981,
+    "first_net_balance_bits": 95683,
+    "net_capacity_estimate_bits": 189028,
+    "ecc_estimate_bpp": 0.7210845947265625,
+    "positive_payload_found": true,
+    "probes": 35,
+    "elapsed_seconds": 1.0527495999122038,
+    "half_payload_bits": 94514,
+    "second_gross_bits": 94816,
+    "second_aux_bits": 298,
+    "second_lm_bits": 21,
+    "second_lm_ones": 0,
+    "second_margin_bits": 4,
+    "second_params": [
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ]
+    ],
+    "second_threshold_width": 10,
+    "feasible": true
+  },
+  {
+    "method": "HC-MHM",
+    "image": "Man",
+    "domain": "plaintext",
+    "delta_max": 6,
+    "delta": 6,
+    "seed": 0,
+    "first_gross_bits": 102475,
+    "first_aux_bits": 298,
+    "first_lm_bits": 21,
+    "first_lm_ones": 0,
+    "first_threshold_width": 10,
+    "first_params": [
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        8
+      ]
+    ],
+    "first_relaxed_upper_bits": 102475,
+    "first_net_balance_bits": 102177,
+    "net_capacity_estimate_bits": 202796,
+    "ecc_estimate_bpp": 0.7736053466796875,
+    "positive_payload_found": true,
+    "probes": 34,
+    "elapsed_seconds": 1.081587600056082,
+    "half_payload_bits": 101398,
+    "second_gross_bits": 101697,
+    "second_aux_bits": 298,
+    "second_lm_bits": 21,
+    "second_lm_ones": 0,
+    "second_margin_bits": 1,
+    "second_params": [
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ]
+    ],
+    "second_threshold_width": 10,
+    "feasible": true
+  }
+]

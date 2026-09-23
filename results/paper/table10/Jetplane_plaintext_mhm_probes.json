@@ -1,0 +1,4268 @@
+[
+  {
+    "image": "Jetplane",
+    "domain": "plaintext",
+    "delta": 1,
+    "half_payload_bits": 0,
+    "second_gross_bits": 39855,
+    "second_aux_bits": 250,
+    "second_lm_bits": 21,
+    "second_lm_ones": 0,
+    "second_margin_bits": 39605,
+    "second_params": [
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        2
+      ],
+      [
+        1,
+        5
+      ]
+    ],
+    "second_threshold_width": 10,
+    "feasible": true
+  },
+  {
+    "image": "Jetplane",
+    "domain": "plaintext",
+    "delta": 1,
+    "half_payload_bits": 4958,
+    "second_gross_bits": 40099,
+    "second_aux_bits": 250,
+    "second_lm_bits": 21,
+    "second_lm_ones": 0,
+    "second_margin_bits": 34891,
+    "second_params": [
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        2
+      ],
+      [
+        1,
+        5
+      ]
+    ],
+    "second_threshold_width": 10,
+    "feasible": true
+  },
+  {
+    "image": "Jetplane",
+    "domain": "plaintext",
+    "delta": 1,
+    "half_payload_bits": 9917,
+    "second_gross_bits": 40380,
+    "second_aux_bits": 250,
+    "second_lm_bits": 21,
+    "second_lm_ones": 0,
+    "second_margin_bits": 30213,
+    "second_params": [
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        2
+      ],
+      [
+        1,
+        5
+      ]
+    ],
+    "second_threshold_width": 10,
+    "feasible": true
+  },
+  {
+    "image": "Jetplane",
+    "domain": "plaintext",
+    "delta": 1,
+    "half_payload_bits": 14875,
+    "second_gross_bits": 40710,
+    "second_aux_bits": 250,
+    "second_lm_bits": 21,
+    "second_lm_ones": 0,
+    "second_margin_bits": 25585,
+    "second_params": [
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        2
+      ],
+      [
+        1,
+        5
+      ]
+    ],
+    "second_threshold_width": 10,
+    "feasible": true
+  },
+  {
+    "image": "Jetplane",
+    "domain": "plaintext",
+    "delta": 1,
+    "half_payload_bits": 19834,
+    "second_gross_bits": 41434,
+    "second_aux_bits": 250,
+    "second_lm_bits": 21,
+    "second_lm_ones": 0,
+    "second_margin_bits": 21350,
+    "second_params": [
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        2
+      ],
+      [
+        1,
+        5
+      ]
+    ],
+    "second_threshold_width": 10,
+    "feasible": true
+  },
+  {
+    "image": "Jetplane",
+    "domain": "plaintext",
+    "delta": 1,
+    "half_payload_bits": 24792,
+    "second_gross_bits": 42794,
+    "second_aux_bits": 250,
+    "second_lm_bits": 21,
+    "second_lm_ones": 0,
+    "second_margin_bits": 17752,
+    "second_params": [
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        2
+      ],
+      [
+        1,
+        5
+      ]
+    ],
+    "second_threshold_width": 10,
+    "feasible": true
+  },
+  {
+    "image": "Jetplane",
+    "domain": "plaintext",
+    "delta": 1,
+    "half_payload_bits": 29750,
+    "second_gross_bits": 44201,
+    "second_aux_bits": 250,
+    "second_lm_bits": 21,
+    "second_lm_ones": 0,
+    "second_margin_bits": 14201,
+    "second_params": [
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        2
+      ],
+      [
+        1,
+        5
+      ]
+    ],
+    "second_threshold_width": 10,
+    "feasible": true
+  },
+  {
+    "image": "Jetplane",
+    "domain": "plaintext",
+    "delta": 1,
+    "half_payload_bits": 34709,
+    "second_gross_bits": 45204,
+    "second_aux_bits": 250,
+    "second_lm_bits": 21,
+    "second_lm_ones": 0,
+    "second_margin_bits": 10245,
+    "second_params": [
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        2
+      ],
+      [
+        1,
+        2
+      ]
+    ],
+    "second_threshold_width": 10,
+    "feasible": true
+  },
+  {
+    "image": "Jetplane",
+    "domain": "plaintext",
+    "delta": 1,
+    "half_payload_bits": 39667,
+    "second_gross_bits": 45946,
+    "second_aux_bits": 250,
+    "second_lm_bits": 21,
+    "second_lm_ones": 0,
+    "second_margin_bits": 6029,
+    "second_params": [
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        2
+      ],
+      [
+        1,
+        5
+      ]
+    ],
+    "second_threshold_width": 10,
+    "feasible": true
+  },
+  {
+    "image": "Jetplane",
+    "domain": "plaintext",
+    "delta": 2,
+    "half_payload_bits": 0,
+    "second_gross_bits": 73172,
+    "second_aux_bits": 266,
+    "second_lm_bits": 21,
+    "second_lm_ones": 0,
+    "second_margin_bits": 72906,
+    "second_params": [
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        2
+      ],
+      [
+        2,
+        5
+      ]
+    ],
+    "second_threshold_width": 10,
+    "feasible": true
+  },
+  {
+    "image": "Jetplane",
+    "domain": "plaintext",
+    "delta": 2,
+    "half_payload_bits": 9133,
+    "second_gross_bits": 73130,
+    "second_aux_bits": 266,
+    "second_lm_bits": 21,
+    "second_lm_ones": 0,
+    "second_margin_bits": 63731,
+    "second_params": [
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        2
+      ],
+      [
+        2,
+        5
+      ]
+    ],
+    "second_threshold_width": 10,
+    "feasible": true
+  },
+  {
+    "image": "Jetplane",
+    "domain": "plaintext",
+    "delta": 2,
+    "half_payload_bits": 18266,
+    "second_gross_bits": 73050,
+    "second_aux_bits": 266,
+    "second_lm_bits": 21,
+    "second_lm_ones": 0,
+    "second_margin_bits": 54518,
+    "second_params": [
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        2
+      ],
+      [
+        2,
+        5
+      ]
+    ],
+    "second_threshold_width": 10,
+    "feasible": true
+  },
+  {
+    "image": "Jetplane",
+    "domain": "plaintext",
+    "delta": 2,
+    "half_payload_bits": 27399,
+    "second_gross_bits": 73077,
+    "second_aux_bits": 266,
+    "second_lm_bits": 21,
+    "second_lm_ones": 0,
+    "second_margin_bits": 45412,
+    "second_params": [
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        2
+      ],
+      [
+        2,
+        5
+      ]
+    ],
+    "second_threshold_width": 10,
+    "feasible": true
+  },
+  {
+    "image": "Jetplane",
+    "domain": "plaintext",
+    "delta": 2,
+    "half_payload_bits": 36532,
+    "second_gross_bits": 73336,
+    "second_aux_bits": 266,
+    "second_lm_bits": 21,
+    "second_lm_ones": 0,
+    "second_margin_bits": 36538,
+    "second_params": [
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        2
+      ]
+    ],
+    "second_threshold_width": 10,
+    "feasible": true
+  },
+  {
+    "image": "Jetplane",
+    "domain": "plaintext",
+    "delta": 2,
+    "half_payload_bits": 45665,
+    "second_gross_bits": 74016,
+    "second_aux_bits": 266,
+    "second_lm_bits": 21,
+    "second_lm_ones": 0,
+    "second_margin_bits": 28085,
+    "second_params": [
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        5
+      ]
+    ],
+    "second_threshold_width": 10,
+    "feasible": true
+  },
+  {
+    "image": "Jetplane",
+    "domain": "plaintext",
+    "delta": 2,
+    "half_payload_bits": 54798,
+    "second_gross_bits": 74743,
+    "second_aux_bits": 266,
+    "second_lm_bits": 21,
+    "second_lm_ones": 0,
+    "second_margin_bits": 19679,
+    "second_params": [
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        5
+      ]
+    ],
+    "second_threshold_width": 10,
+    "feasible": true
+  },
+  {
+    "image": "Jetplane",
+    "domain": "plaintext",
+    "delta": 2,
+    "half_payload_bits": 63931,
+    "second_gross_bits": 75351,
+    "second_aux_bits": 266,
+    "second_lm_bits": 21,
+    "second_lm_ones": 0,
+    "second_margin_bits": 11154,
+    "second_params": [
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        2
+      ]
+    ],
+    "second_threshold_width": 10,
+    "feasible": true
+  },
+  {
+    "image": "Jetplane",
+    "domain": "plaintext",
+    "delta": 2,
+    "half_payload_bits": 73064,
+    "second_gross_bits": 75825,
+    "second_aux_bits": 266,
+    "second_lm_bits": 21,
+    "second_lm_ones": 0,
+    "second_margin_bits": 2495,
+    "second_params": [
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        5
+      ]
+    ],
+    "second_threshold_width": 10,
+    "feasible": true
+  },
+  {
+    "image": "Jetplane",
+    "domain": "plaintext",
+    "delta": 3,
+    "half_payload_bits": 0,
+    "second_gross_bits": 92283,
+    "second_aux_bits": 282,
+    "second_lm_bits": 21,
+    "second_lm_ones": 0,
+    "second_margin_bits": 92001,
+    "second_params": [
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        5
+      ]
+    ],
+    "second_threshold_width": 10,
+    "feasible": true
+  },
+  {
+    "image": "Jetplane",
+    "domain": "plaintext",
+    "delta": 3,
+    "half_payload_bits": 11476,
+    "second_gross_bits": 91976,
+    "second_aux_bits": 282,
+    "second_lm_bits": 21,
+    "second_lm_ones": 0,
+    "second_margin_bits": 80218,
+    "second_params": [
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        5
+      ]
+    ],
+    "second_threshold_width": 10,
+    "feasible": true
+  },
+  {
+    "image": "Jetplane",
+    "domain": "plaintext",
+    "delta": 3,
+    "half_payload_bits": 22951,
+    "second_gross_bits": 91553,
+    "second_aux_bits": 282,
+    "second_lm_bits": 21,
+    "second_lm_ones": 0,
+    "second_margin_bits": 68320,
+    "second_params": [
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        5
+      ]
+    ],
+    "second_threshold_width": 10,
+    "feasible": true
+  },
+  {
+    "image": "Jetplane",
+    "domain": "plaintext",
+    "delta": 3,
+    "half_payload_bits": 34426,
+    "second_gross_bits": 91230,
+    "second_aux_bits": 282,
+    "second_lm_bits": 21,
+    "second_lm_ones": 0,
+    "second_margin_bits": 56522,
+    "second_params": [
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        5
+      ]
+    ],
+    "second_threshold_width": 10,
+    "feasible": true
+  },
+  {
+    "image": "Jetplane",
+    "domain": "plaintext",
+    "delta": 3,
+    "half_payload_bits": 45902,
+    "second_gross_bits": 91234,
+    "second_aux_bits": 282,
+    "second_lm_bits": 21,
+    "second_lm_ones": 0,
+    "second_margin_bits": 45050,
+    "second_params": [
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ]
+    ],
+    "second_threshold_width": 10,
+    "feasible": true
+  },
+  {
+    "image": "Jetplane",
+    "domain": "plaintext",
+    "delta": 3,
+    "half_payload_bits": 57378,
+    "second_gross_bits": 91714,
+    "second_aux_bits": 282,
+    "second_lm_bits": 21,
+    "second_lm_ones": 0,
+    "second_margin_bits": 34054,
+    "second_params": [
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ]
+    ],
+    "second_threshold_width": 10,
+    "feasible": true
+  },
+  {
+    "image": "Jetplane",
+    "domain": "plaintext",
+    "delta": 3,
+    "half_payload_bits": 68853,
+    "second_gross_bits": 92392,
+    "second_aux_bits": 282,
+    "second_lm_bits": 21,
+    "second_lm_ones": 0,
+    "second_margin_bits": 23257,
+    "second_params": [
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        3
+      ],
+      [
+        3,
+        4
+      ]
+    ],
+    "second_threshold_width": 10,
+    "feasible": true
+  },
+  {
+    "image": "Jetplane",
+    "domain": "plaintext",
+    "delta": 3,
+    "half_payload_bits": 80328,
+    "second_gross_bits": 92764,
+    "second_aux_bits": 282,
+    "second_lm_bits": 21,
+    "second_lm_ones": 0,
+    "second_margin_bits": 12154,
+    "second_params": [
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ]
+    ],
+    "second_threshold_width": 10,
+    "feasible": true
+  },
+  {
+    "image": "Jetplane",
+    "domain": "plaintext",
+    "delta": 3,
+    "half_payload_bits": 91804,
+    "second_gross_bits": 93042,
+    "second_aux_bits": 282,
+    "second_lm_bits": 21,
+    "second_lm_ones": 0,
+    "second_margin_bits": 956,
+    "second_params": [
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ]
+    ],
+    "second_threshold_width": 10,
+    "feasible": true
+  },
+  {
+    "image": "Jetplane",
+    "domain": "plaintext",
+    "delta": 4,
+    "half_payload_bits": 0,
+    "second_gross_bits": 102682,
+    "second_aux_bits": 282,
+    "second_lm_bits": 21,
+    "second_lm_ones": 0,
+    "second_margin_bits": 102400,
+    "second_params": [
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        5
+      ]
+    ],
+    "second_threshold_width": 10,
+    "feasible": true
+  },
+  {
+    "image": "Jetplane",
+    "domain": "plaintext",
+    "delta": 4,
+    "half_payload_bits": 12778,
+    "second_gross_bits": 102279,
+    "second_aux_bits": 282,
+    "second_lm_bits": 21,
+    "second_lm_ones": 0,
+    "second_margin_bits": 89219,
+    "second_params": [
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        5
+      ]
+    ],
+    "second_threshold_width": 10,
+    "feasible": true
+  },
+  {
+    "image": "Jetplane",
+    "domain": "plaintext",
+    "delta": 4,
+    "half_payload_bits": 25556,
+    "second_gross_bits": 101889,
+    "second_aux_bits": 282,
+    "second_lm_bits": 21,
+    "second_lm_ones": 0,
+    "second_margin_bits": 76051,
+    "second_params": [
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        5
+      ]
+    ],
+    "second_threshold_width": 10,
+    "feasible": true
+  },
+  {
+    "image": "Jetplane",
+    "domain": "plaintext",
+    "delta": 4,
+    "half_payload_bits": 38333,
+    "second_gross_bits": 101566,
+    "second_aux_bits": 282,
+    "second_lm_bits": 21,
+    "second_lm_ones": 0,
+    "second_margin_bits": 62951,
+    "second_params": [
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        5
+      ]
+    ],
+    "second_threshold_width": 10,
+    "feasible": true
+  },
+  {
+    "image": "Jetplane",
+    "domain": "plaintext",
+    "delta": 4,
+    "half_payload_bits": 51111,
+    "second_gross_bits": 101656,
+    "second_aux_bits": 282,
+    "second_lm_bits": 21,
+    "second_lm_ones": 0,
+    "second_margin_bits": 50263,
+    "second_params": [
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        5
+      ]
+    ],
+    "second_threshold_width": 10,
+    "feasible": true
+  },
+  {
+    "image": "Jetplane",
+    "domain": "plaintext",
+    "delta": 4,
+    "half_payload_bits": 63889,
+    "second_gross_bits": 102208,
+    "second_aux_bits": 282,
+    "second_lm_bits": 21,
+    "second_lm_ones": 0,
+    "second_margin_bits": 38037,
+    "second_params": [
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        5
+      ]
+    ],
+    "second_threshold_width": 10,
+    "feasible": true
+  },
+  {
+    "image": "Jetplane",
+    "domain": "plaintext",
+    "delta": 4,
+    "half_payload_bits": 76666,
+    "second_gross_bits": 102918,
+    "second_aux_bits": 282,
+    "second_lm_bits": 21,
+    "second_lm_ones": 0,
+    "second_margin_bits": 25970,
+    "second_params": [
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        5
+      ]
+    ],
+    "second_threshold_width": 10,
+    "feasible": true
+  },
+  {
+    "image": "Jetplane",
+    "domain": "plaintext",
+    "delta": 4,
+    "half_payload_bits": 89444,
+    "second_gross_bits": 103259,
+    "second_aux_bits": 282,
+    "second_lm_bits": 21,
+    "second_lm_ones": 0,
+    "second_margin_bits": 13533,
+    "second_params": [
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        5
+      ]
+    ],
+    "second_threshold_width": 10,
+    "feasible": true
+  },
+  {
+    "image": "Jetplane",
+    "domain": "plaintext",
+    "delta": 4,
+    "half_payload_bits": 102222,
+    "second_gross_bits": 103529,
+    "second_aux_bits": 282,
+    "second_lm_bits": 21,
+    "second_lm_ones": 0,
+    "second_margin_bits": 1025,
+    "second_params": [
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        4
+      ],
+      [
+        4,
+        5
+      ]
+    ],
+    "second_threshold_width": 10,
+    "feasible": true
+  },
+  {
+    "image": "Jetplane",
+    "domain": "plaintext",
+    "delta": 5,
+    "half_payload_bits": 0,
+    "second_gross_bits": 108882,
+    "second_aux_bits": 298,
+    "second_lm_bits": 21,
+    "second_lm_ones": 0,
+    "second_margin_bits": 108584,
+    "second_params": [
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        5
+      ]
+    ],
+    "second_threshold_width": 10,
+    "feasible": true
+  },
+  {
+    "image": "Jetplane",
+    "domain": "plaintext",
+    "delta": 5,
+    "half_payload_bits": 13556,
+    "second_gross_bits": 108574,
+    "second_aux_bits": 298,
+    "second_lm_bits": 21,
+    "second_lm_ones": 0,
+    "second_margin_bits": 94720,
+    "second_params": [
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        5
+      ]
+    ],
+    "second_threshold_width": 10,
+    "feasible": true
+  },
+  {
+    "image": "Jetplane",
+    "domain": "plaintext",
+    "delta": 5,
+    "half_payload_bits": 27112,
+    "second_gross_bits": 108327,
+    "second_aux_bits": 298,
+    "second_lm_bits": 21,
+    "second_lm_ones": 0,
+    "second_margin_bits": 80917,
+    "second_params": [
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        5
+      ]
+    ],
+    "second_threshold_width": 10,
+    "feasible": true
+  },
+  {
+    "image": "Jetplane",
+    "domain": "plaintext",
+    "delta": 5,
+    "half_payload_bits": 40669,
+    "second_gross_bits": 108164,
+    "second_aux_bits": 298,
+    "second_lm_bits": 21,
+    "second_lm_ones": 0,
+    "second_margin_bits": 67197,
+    "second_params": [
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        5
+      ]
+    ],
+    "second_threshold_width": 10,
+    "feasible": true
+  },
+  {
+    "image": "Jetplane",
+    "domain": "plaintext",
+    "delta": 5,
+    "half_payload_bits": 54225,
+    "second_gross_bits": 108438,
+    "second_aux_bits": 298,
+    "second_lm_bits": 21,
+    "second_lm_ones": 0,
+    "second_margin_bits": 53915,
+    "second_params": [
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        5
+      ]
+    ],
+    "second_threshold_width": 10,
+    "feasible": true
+  },
+  {
+    "image": "Jetplane",
+    "domain": "plaintext",
+    "delta": 5,
+    "half_payload_bits": 67781,
+    "second_gross_bits": 109045,
+    "second_aux_bits": 298,
+    "second_lm_bits": 21,
+    "second_lm_ones": 0,
+    "second_margin_bits": 40966,
+    "second_params": [
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ]
+    ],
+    "second_threshold_width": 10,
+    "feasible": true
+  },
+  {
+    "image": "Jetplane",
+    "domain": "plaintext",
+    "delta": 5,
+    "half_payload_bits": 81338,
+    "second_gross_bits": 109742,
+    "second_aux_bits": 298,
+    "second_lm_bits": 21,
+    "second_lm_ones": 0,
+    "second_margin_bits": 28106,
+    "second_params": [
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ]
+    ],
+    "second_threshold_width": 10,
+    "feasible": true
+  },
+  {
+    "image": "Jetplane",
+    "domain": "plaintext",
+    "delta": 5,
+    "half_payload_bits": 94894,
+    "second_gross_bits": 110066,
+    "second_aux_bits": 298,
+    "second_lm_bits": 21,
+    "second_lm_ones": 0,
+    "second_margin_bits": 14874,
+    "second_params": [
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ]
+    ],
+    "second_threshold_width": 10,
+    "feasible": true
+  },
+  {
+    "image": "Jetplane",
+    "domain": "plaintext",
+    "delta": 5,
+    "half_payload_bits": 108450,
+    "second_gross_bits": 110334,
+    "second_aux_bits": 298,
+    "second_lm_bits": 21,
+    "second_lm_ones": 0,
+    "second_margin_bits": 1586,
+    "second_params": [
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ]
+    ],
+    "second_threshold_width": 10,
+    "feasible": true
+  },
+  {
+    "image": "Jetplane",
+    "domain": "plaintext",
+    "delta": 6,
+    "half_payload_bits": 0,
+    "second_gross_bits": 113045,
+    "second_aux_bits": 298,
+    "second_lm_bits": 21,
+    "second_lm_ones": 0,
+    "second_margin_bits": 112747,
+    "second_params": [
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ]
+    ],
+    "second_threshold_width": 10,
+    "feasible": true
+  },
+  {
+    "image": "Jetplane",
+    "domain": "plaintext",
+    "delta": 6,
+    "half_payload_bits": 14070,
+    "second_gross_bits": 112850,
+    "second_aux_bits": 298,
+    "second_lm_bits": 21,
+    "second_lm_ones": 0,
+    "second_margin_bits": 98482,
+    "second_params": [
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ]
+    ],
+    "second_threshold_width": 10,
+    "feasible": true
+  },
+  {
+    "image": "Jetplane",
+    "domain": "plaintext",
+    "delta": 6,
+    "half_payload_bits": 28140,
+    "second_gross_bits": 112687,
+    "second_aux_bits": 298,
+    "second_lm_bits": 21,
+    "second_lm_ones": 0,
+    "second_margin_bits": 84249,
+    "second_params": [
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ]
+    ],
+    "second_threshold_width": 10,
+    "feasible": true
+  },
+  {
+    "image": "Jetplane",
+    "domain": "plaintext",
+    "delta": 6,
+    "half_payload_bits": 42210,
+    "second_gross_bits": 112617,
+    "second_aux_bits": 298,
+    "second_lm_bits": 21,
+    "second_lm_ones": 0,
+    "second_margin_bits": 70109,
+    "second_params": [
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ]
+    ],
+    "second_threshold_width": 10,
+    "feasible": true
+  },
+  {
+    "image": "Jetplane",
+    "domain": "plaintext",
+    "delta": 6,
+    "half_payload_bits": 56280,
+    "second_gross_bits": 113050,
+    "second_aux_bits": 298,
+    "second_lm_bits": 21,
+    "second_lm_ones": 0,
+    "second_margin_bits": 56472,
+    "second_params": [
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ]
+    ],
+    "second_threshold_width": 10,
+    "feasible": true
+  },
+  {
+    "image": "Jetplane",
+    "domain": "plaintext",
+    "delta": 6,
+    "half_payload_bits": 70350,
+    "second_gross_bits": 113738,
+    "second_aux_bits": 298,
+    "second_lm_bits": 21,
+    "second_lm_ones": 0,
+    "second_margin_bits": 43090,
+    "second_params": [
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ]
+    ],
+    "second_threshold_width": 10,
+    "feasible": true
+  },
+  {
+    "image": "Jetplane",
+    "domain": "plaintext",
+    "delta": 6,
+    "half_payload_bits": 84420,
+    "second_gross_bits": 114388,
+    "second_aux_bits": 298,
+    "second_lm_bits": 21,
+    "second_lm_ones": 0,
+    "second_margin_bits": 29670,
+    "second_params": [
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ]
+    ],
+    "second_threshold_width": 10,
+    "feasible": true
+  },
+  {
+    "image": "Jetplane",
+    "domain": "plaintext",
+    "delta": 6,
+    "half_payload_bits": 98490,
+    "second_gross_bits": 114679,
+    "second_aux_bits": 298,
+    "second_lm_bits": 21,
+    "second_lm_ones": 0,
+    "second_margin_bits": 15891,
+    "second_params": [
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ]
+    ],
+    "second_threshold_width": 10,
+    "feasible": true
+  },
+  {
+    "image": "Jetplane",
+    "domain": "plaintext",
+    "delta": 6,
+    "half_payload_bits": 112560,
+    "second_gross_bits": 114884,
+    "second_aux_bits": 298,
+    "second_lm_bits": 21,
+    "second_lm_ones": 0,
+    "second_margin_bits": 2026,
+    "second_params": [
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ]
+    ],
+    "second_threshold_width": 10,
+    "feasible": true
+  }
+]

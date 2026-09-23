@@ -1,0 +1,38 @@
+{
+  "Baboon": {
+    "file_sha256": "5db548f14560b303f4335fc6046afa349e18c1d9da80f3b8b6b04388693a9e3f",
+    "pixels_sha256_column_major": "43146fd29d993e620944fe9470499cb5845b512aaef228c97850ed4f3f3e094d",
+    "shape": [
+      512,
+      512
+    ],
+    "source": "Original fixed ordinary AES-CTR ciphertext used for Table 10; no credentials included."
+  },
+  "Jetplane": {
+    "file_sha256": "303941a090e6b0dc623b71e5e4cc313b79ebac5d5d5cbd86c81fbe0446762669",
+    "pixels_sha256_column_major": "14fe72c045db8076880fc5f052b2f784c4b115ff3e439bb708e32b887aea7a65",
+    "shape": [
+      512,
+      512
+    ],
+    "source": "Original fixed ordinary AES-CTR ciphertext used for Table 10; no credentials included."
+  },
+  "Man": {
+    "file_sha256": "05da7142b6c214d763578650d045cfe4f0caa6c73b048e7e6ba147ba6a737840",
+    "pixels_sha256_column_major": "d6e2cb1007590eb88c9af1587a171eea0b7a14b0a81f468029dfce1c63ea3476",
+    "shape": [
+      512,
+      512
+    ],
+    "source": "Original fixed ordinary AES-CTR ciphertext used for Table 10; no credentials included."
+  },
+  "Tiffany": {
+    "file_sha256": "e9f15925e4138d586c74b01661bec416da137f8746b8ca4dcca925459edcb40c",
+    "pixels_sha256_column_major": "6dfb08947177320885cfbc9035495fab58ef5d321d21e3f872c87f6ce70a2609",
+    "shape": [
+      512,
+      512
+    ],
+    "source": "Original fixed ordinary AES-CTR ciphertext used for Table 10; no credentials included."
+  }
+}

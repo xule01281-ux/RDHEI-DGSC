@@ -1,0 +1,962 @@
+[
+  {
+    "method": "HC-MHM",
+    "image": "Tiffany",
+    "domain": "plaintext",
+    "delta_max": 6,
+    "delta": 1,
+    "seed": 0,
+    "first_gross_bits": 33737,
+    "first_aux_bits": 8590,
+    "first_lm_bits": 8345,
+    "first_lm_ones": 976,
+    "first_threshold_width": 11,
+    "first_params": [
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        1
+      ]
+    ],
+    "first_relaxed_upper_bits": 33776,
+    "first_net_balance_bits": 25147,
+    "net_capacity_estimate_bits": 50022,
+    "ecc_estimate_bpp": 0.19081878662109375,
+    "positive_payload_found": true,
+    "probes": 32,
+    "elapsed_seconds": 1.6777963999193162,
+    "half_payload_bits": 25011,
+    "second_gross_bits": 33723,
+    "second_aux_bits": 8710,
+    "second_lm_bits": 8465,
+    "second_lm_ones": 993,
+    "second_margin_bits": 2,
+    "second_params": [
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ]
+    ],
+    "second_threshold_width": 11,
+    "feasible": true
+  },
+  {
+    "method": "HC-MHM",
+    "image": "Tiffany",
+    "domain": "plaintext",
+    "delta_max": 6,
+    "delta": 2,
+    "seed": 0,
+    "first_gross_bits": 62608,
+    "first_aux_bits": 10551,
+    "first_lm_bits": 10290,
+    "first_lm_ones": 1260,
+    "first_threshold_width": 11,
+    "first_params": [
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ]
+    ],
+    "first_relaxed_upper_bits": 62608,
+    "first_net_balance_bits": 52057,
+    "net_capacity_estimate_bits": 97646,
+    "ecc_estimate_bpp": 0.37248992919921875,
+    "positive_payload_found": true,
+    "probes": 34,
+    "elapsed_seconds": 1.7447616000426933,
+    "half_payload_bits": 48823,
+    "second_gross_bits": 59289,
+    "second_aux_bits": 10463,
+    "second_lm_bits": 10202,
+    "second_lm_ones": 1247,
+    "second_margin_bits": 3,
+    "second_params": [
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ]
+    ],
+    "second_threshold_width": 11,
+    "feasible": true
+  },
+  {
+    "method": "HC-MHM",
+    "image": "Tiffany",
+    "domain": "plaintext",
+    "delta_max": 6,
+    "delta": 3,
+    "seed": 0,
+    "first_gross_bits": 83136,
+    "first_aux_bits": 13163,
+    "first_lm_bits": 12886,
+    "first_lm_ones": 1662,
+    "first_threshold_width": 11,
+    "first_params": [
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ]
+    ],
+    "first_relaxed_upper_bits": 83136,
+    "first_net_balance_bits": 69973,
+    "net_capacity_estimate_bits": 128504,
+    "ecc_estimate_bpp": 0.490203857421875,
+    "positive_payload_found": true,
+    "probes": 34,
+    "elapsed_seconds": 1.7858582000480965,
+    "half_payload_bits": 64252,
+    "second_gross_bits": 77449,
+    "second_aux_bits": 13194,
+    "second_lm_bits": 12917,
+    "second_lm_ones": 1667,
+    "second_margin_bits": 3,
+    "second_params": [
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        2
+      ]
+    ],
+    "second_threshold_width": 11,
+    "feasible": true
+  },
+  {
+    "method": "HC-MHM",
+    "image": "Tiffany",
+    "domain": "plaintext",
+    "delta_max": 6,
+    "delta": 4,
+    "seed": 0,
+    "first_gross_bits": 96364,
+    "first_aux_bits": 19429,
+    "first_lm_bits": 19152,
+    "first_lm_ones": 2729,
+    "first_threshold_width": 11,
+    "first_params": [
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ]
+    ],
+    "first_relaxed_upper_bits": 96364,
+    "first_net_balance_bits": 76935,
+    "net_capacity_estimate_bits": 140878,
+    "ecc_estimate_bpp": 0.5374069213867188,
+    "positive_payload_found": true,
+    "probes": 35,
+    "elapsed_seconds": 1.8796908999793231,
+    "half_payload_bits": 70439,
+    "second_gross_bits": 90163,
+    "second_aux_bits": 19722,
+    "second_lm_bits": 19445,
+    "second_lm_ones": 2782,
+    "second_margin_bits": 2,
+    "second_params": [
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        4
+      ]
+    ],
+    "second_threshold_width": 11,
+    "feasible": true
+  },
+  {
+    "method": "HC-MHM",
+    "image": "Tiffany",
+    "domain": "plaintext",
+    "delta_max": 6,
+    "delta": 5,
+    "seed": 0,
+    "first_gross_bits": 104783,
+    "first_aux_bits": 28288,
+    "first_lm_bits": 27995,
+    "first_lm_ones": 4447,
+    "first_threshold_width": 11,
+    "first_params": [
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ]
+    ],
+    "first_relaxed_upper_bits": 104783,
+    "first_net_balance_bits": 76495,
+    "net_capacity_estimate_bits": 140698,
+    "ecc_estimate_bpp": 0.5367202758789062,
+    "positive_payload_found": true,
+    "probes": 35,
+    "elapsed_seconds": 1.960575700039044,
+    "half_payload_bits": 70349,
+    "second_gross_bits": 99027,
+    "second_aux_bits": 28677,
+    "second_lm_bits": 28384,
+    "second_lm_ones": 4528,
+    "second_margin_bits": 1,
+    "second_params": [
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        5
+      ]
+    ],
+    "second_threshold_width": 11,
+    "feasible": true
+  },
+  {
+    "method": "HC-MHM",
+    "image": "Tiffany",
+    "domain": "plaintext",
+    "delta_max": 6,
+    "delta": 6,
+    "seed": 0,
+    "first_gross_bits": 110236,
+    "first_aux_bits": 35149,
+    "first_lm_bits": 34856,
+    "first_lm_ones": 5943,
+    "first_threshold_width": 11,
+    "first_params": [
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ]
+    ],
+    "first_relaxed_upper_bits": 110236,
+    "first_net_balance_bits": 75087,
+    "net_capacity_estimate_bits": 139246,
+    "ecc_estimate_bpp": 0.5311813354492188,
+    "positive_payload_found": true,
+    "probes": 35,
+    "elapsed_seconds": 2.0551613999996334,
+    "half_payload_bits": 69623,
+    "second_gross_bits": 105062,
+    "second_aux_bits": 35437,
+    "second_lm_bits": 35144,
+    "second_lm_ones": 6009,
+    "second_margin_bits": 2,
+    "second_params": [
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ]
+    ],
+    "second_threshold_width": 11,
+    "feasible": true
+  }
+]

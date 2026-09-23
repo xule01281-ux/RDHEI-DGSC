@@ -1,0 +1,482 @@
+{
+  "version": "1.0.0",
+  "production_main_chain_unchanged": true,
+  "files": [
+    {
+      "source": "Copy_of_Predictor_Value2.m",
+      "release": "src/Copy_of_Predictor_Value2.m",
+      "source_sha256": "6c4336f48e122d623fc3cc202d4d97317552c304831c71f6981e8587e2fedf22",
+      "release_sha256": "6c4336f48e122d623fc3cc202d4d97317552c304831c71f6981e8587e2fedf22",
+      "changes": "Verbatim source"
+    },
+    {
+      "source": "Copy_of_complete_bit.m",
+      "release": "src/Copy_of_complete_bit.m",
+      "source_sha256": "73634dd83c4e9e2675e0317114640ec5f5b9a9f77887ccd4c172c12680b34630",
+      "release_sha256": "73634dd83c4e9e2675e0317114640ec5f5b9a9f77887ccd4c172c12680b34630",
+      "changes": "Verbatim source"
+    },
+    {
+      "source": "Embed_Data_Encrypt_Data.m",
+      "release": "src/Embed_Data_Encrypt_Data.m",
+      "source_sha256": "1ee9f6d10e0ba4c9eada63a3f55e1e15100a2d0cab5777f084f06ed9e52d12e4",
+      "release_sha256": "1ee9f6d10e0ba4c9eada63a3f55e1e15100a2d0cab5777f084f06ed9e52d12e4",
+      "changes": "Verbatim source"
+    },
+    {
+      "source": "Encrypt_Data.m",
+      "release": "src/Encrypt_Data.m",
+      "source_sha256": "2ba739a0d10cba0307ff7c2125ed6054c1494703ddf12ff0b4abb5a6441e001a",
+      "release_sha256": "2ba739a0d10cba0307ff7c2125ed6054c1494703ddf12ff0b4abb5a6441e001a",
+      "changes": "Verbatim source"
+    },
+    {
+      "source": "Encrypt_Embed.m",
+      "release": "src/Encrypt_Embed.m",
+      "source_sha256": "c81f90306def4123bfec60e1f41b2d0a710a441d3a741712cccc6e168b235b3e",
+      "release_sha256": "d1a7ac1dfeb454e4d361ae3532f63753a0f19c7365e2eaaea9d0fdf9c1f69936",
+      "changes": "Expose the already computed recovered image as optional output 8; numerical body unchanged"
+    },
+    {
+      "source": "Extract_Data2.m",
+      "release": "src/Extract_Data2.m",
+      "source_sha256": "857c4754a9211a3ccc65225b7c335bb60fdac1859bd3d2870706ab1d308a1288",
+      "release_sha256": "857c4754a9211a3ccc65225b7c335bb60fdac1859bd3d2870706ab1d308a1288",
+      "changes": "Verbatim source"
+    },
+    {
+      "source": "HuffmanNode.m",
+      "release": "src/HuffmanNode.m",
+      "source_sha256": "9f24bbf11e69c6b7c26ae5a035d79631e4ba8556a176d95e8581c36ba4948187",
+      "release_sha256": "9f24bbf11e69c6b7c26ae5a035d79631e4ba8556a176d95e8581c36ba4948187",
+      "changes": "Verbatim source"
+    },
+    {
+      "source": "Recover_Image2.m",
+      "release": "src/Recover_Image2.m",
+      "source_sha256": "17aab3ae8899c8561205c94fb2c7bf44d79e67bb4022027c07056622749f6dba",
+      "release_sha256": "17aab3ae8899c8561205c94fb2c7bf44d79e67bb4022027c07056622749f6dba",
+      "changes": "Verbatim source"
+    },
+    {
+      "source": "Transform_E.m",
+      "release": "src/Transform_E.m",
+      "source_sha256": "f046696953f9db64734bbd82c7b3a18cccb4a3ecab70e2deb0a4982c49947837",
+      "release_sha256": "f046696953f9db64734bbd82c7b3a18cccb4a3ecab70e2deb0a4982c49947837",
+      "changes": "Verbatim source"
+    },
+    {
+      "source": "aesCtrImageDecrypt.m",
+      "release": "src/aesCtrImageDecrypt.m",
+      "source_sha256": "633faa12e0e2e2bf9598d59ac00a96858ae5a20a6656e216a71749a4416521b6",
+      "release_sha256": "633faa12e0e2e2bf9598d59ac00a96858ae5a20a6656e216a71749a4416521b6",
+      "changes": "Verbatim source"
+    },
+    {
+      "source": "aesCtrImageEncrypt.m",
+      "release": "src/aesCtrImageEncrypt.m",
+      "source_sha256": "14548677e672c21284d2b4a33aedf7862eb5c3f95102138dbe44bbce40b8291e",
+      "release_sha256": "14548677e672c21284d2b4a33aedf7862eb5c3f95102138dbe44bbce40b8291e",
+      "changes": "Verbatim source"
+    },
+    {
+      "source": "aes_ctr_bits.m",
+      "release": "src/aes_ctr_bits.m",
+      "source_sha256": "b290f22750bd064ed4db036db0bcbc68bb4f4453385fad27c348b38e554bc399",
+      "release_sha256": "b290f22750bd064ed4db036db0bcbc68bb4f4453385fad27c348b38e554bc399",
+      "changes": "Verbatim source"
+    },
+    {
+      "source": "block_in_support.m",
+      "release": "src/block_in_support.m",
+      "source_sha256": "2ef28d5e3a341b760f751dc49e5da05008ffd5cfb739bd2b53c6e779f9065cda",
+      "release_sha256": "3a8b8a8c929117f603df8ff75f65ba420f9b53386c511dcb2851b73725f061b7",
+      "changes": "Serialize an unused length-table symbol when all segment-length lists are empty"
+    },
+    {
+      "source": "block_in_support2.m",
+      "release": "src/block_in_support2.m",
+      "source_sha256": "c5cdf3b6eb764f6b9539b16d0a18437759da6a6da0912062942f5cc05b848b85",
+      "release_sha256": "c5cdf3b6eb764f6b9539b16d0a18437759da6a6da0912062942f5cc05b848b85",
+      "changes": "Verbatim source"
+    },
+    {
+      "source": "buildHuffmanTree.m",
+      "release": "src/buildHuffmanTree.m",
+      "source_sha256": "0890a9cbd1afb604172d0ebb663ad0cf92d655e3a058b1cc795d3e58aa82af9d",
+      "release_sha256": "9c0ae4e68601ecd93cbc4351d47e3e588ce1533ef20f9b2e942b6374f40d09a8",
+      "changes": "Fix singleton Huffman tree: preserve leaf symbol"
+    },
+    {
+      "source": "calc_global_gradients.m",
+      "release": "src/calc_global_gradients.m",
+      "source_sha256": "28d81f79d90199c4af63be22e64b57dfb0cd7185a1c248a2c1e9cd81ed971b6f",
+      "release_sha256": "28d81f79d90199c4af63be22e64b57dfb0cd7185a1c248a2c1e9cd81ed971b6f",
+      "changes": "Verbatim source"
+    },
+    {
+      "source": "crypto_context.m",
+      "release": "src/crypto_context.m",
+      "source_sha256": "ec44da694bcc51a724c906c0a5924f38600c9f8ac092ec2550720b14861ee3cd",
+      "release_sha256": "ec44da694bcc51a724c906c0a5924f38600c9f8ac092ec2550720b14861ee3cd",
+      "changes": "Verbatim source"
+    },
+    {
+      "source": "crypto_public_header.m",
+      "release": "src/crypto_public_header.m",
+      "source_sha256": "9a4327fa70eb80a2ad0f5522f9af0325d8015b9f97f44e84459ffccc7a32f8a0",
+      "release_sha256": "9a4327fa70eb80a2ad0f5522f9af0325d8015b9f97f44e84459ffccc7a32f8a0",
+      "changes": "Verbatim source"
+    },
+    {
+      "source": "deviate.m",
+      "release": "src/deviate.m",
+      "source_sha256": "5ea0d7583d12f6e40bd9aba7acdc3858a57845e76eba3ec7aa9e924ce8ddbe05",
+      "release_sha256": "5ea0d7583d12f6e40bd9aba7acdc3858a57845e76eba3ec7aa9e924ce8ddbe05",
+      "changes": "Verbatim source"
+    },
+    {
+      "source": "encode_opt_headers.m",
+      "release": "src/encode_opt_headers.m",
+      "source_sha256": "f069f6b12082e2de2b03dfc6aef7cf4f0359c48e9e1274a5d578dc1de238cf70",
+      "release_sha256": "f069f6b12082e2de2b03dfc6aef7cf4f0359c48e9e1274a5d578dc1de238cf70",
+      "changes": "Verbatim source"
+    },
+    {
+      "source": "estimate_prediction_bits.m",
+      "release": "src/estimate_prediction_bits.m",
+      "source_sha256": "07ce53402ec3d70ad4eaf0af33e5b9747772f7d520503cc0af7c6f4ecdf325cd",
+      "release_sha256": "07ce53402ec3d70ad4eaf0af33e5b9747772f7d520503cc0af7c6f4ecdf325cd",
+      "changes": "Verbatim source"
+    },
+    {
+      "source": "expand_prediction_references.m",
+      "release": "src/expand_prediction_references.m",
+      "source_sha256": "3df47196b62ea3c01b4ec5dcd0eb816de4250593fc670e71e8404a7f9629eb9b",
+      "release_sha256": "3df47196b62ea3c01b4ec5dcd0eb816de4250593fc670e71e8404a7f9629eb9b",
+      "changes": "Verbatim source"
+    },
+    {
+      "source": "extract_payload_secure.m",
+      "release": "src/extract_payload_secure.m",
+      "source_sha256": "2c4fa165cf7c0619316402cc3536db1fa098858a543eb7dcac2922573cfc4122",
+      "release_sha256": "2c4fa165cf7c0619316402cc3536db1fa098858a543eb7dcac2922573cfc4122",
+      "changes": "Verbatim source"
+    },
+    {
+      "source": "findArrayIndex.m",
+      "release": "src/findArrayIndex.m",
+      "source_sha256": "009742f43a7eb5b264172c23543da6d2e91d7be2f18b606d12aedfdd10af3ca5",
+      "release_sha256": "009742f43a7eb5b264172c23543da6d2e91d7be2f18b606d12aedfdd10af3ca5",
+      "changes": "Verbatim source"
+    },
+    {
+      "source": "fold_map_codec.m",
+      "release": "src/fold_map_codec.m",
+      "source_sha256": "18e16788b544181e39acf5abc4d390fc701b0b7ee74dd67cb34600ad1d8761e3",
+      "release_sha256": "18e16788b544181e39acf5abc4d390fc701b0b7ee74dd67cb34600ad1d8761e3",
+      "changes": "Verbatim source"
+    },
+    {
+      "source": "generateCodes.m",
+      "release": "src/generateCodes.m",
+      "source_sha256": "7d50fb9e1919e73c890c712587b5760248c5fbd09f5775343049a275c7c0595e",
+      "release_sha256": "b272969083d6d7c4750561884b8cd896d1b8f2d1e9e36c9ab26f5a9a7d05b7b0",
+      "changes": "Fix singleton Huffman tree: emit code 0 for its leaf"
+    },
+    {
+      "source": "global_aux_layout.m",
+      "release": "src/global_aux_layout.m",
+      "source_sha256": "b4cf572eeb0ba11c7b5427c0333adc014e468c3df210b297842a0729d247a1e6",
+      "release_sha256": "b4cf572eeb0ba11c7b5427c0333adc014e468c3df210b297842a0729d247a1e6",
+      "changes": "Verbatim source"
+    },
+    {
+      "source": "huffmanEncode.m",
+      "release": "src/huffmanEncode.m",
+      "source_sha256": "1165a55d6aba28a4323fbc8d72d23f2eaceaa2461dcd348f83272778f3f712b8",
+      "release_sha256": "1165a55d6aba28a4323fbc8d72d23f2eaceaa2461dcd348f83272778f3f712b8",
+      "changes": "Verbatim source"
+    },
+    {
+      "source": "image_bits.m",
+      "release": "src/image_bits.m",
+      "source_sha256": "ff97784ff1f3b18ae4ab25dffaeeac34698bc6998d56ed9bfd9319d04acf818d",
+      "release_sha256": "ff97784ff1f3b18ae4ab25dffaeeac34698bc6998d56ed9bfd9319d04acf818d",
+      "changes": "Verbatim source"
+    },
+    {
+      "source": "med_4dir_prediction.m",
+      "release": "src/med_4dir_prediction.m",
+      "source_sha256": "1c5f7a1b093fbc2b2a1d09d255f87110f0b5e360ab50aebdf56160eec79d6b36",
+      "release_sha256": "1c5f7a1b093fbc2b2a1d09d255f87110f0b5e360ab50aebdf56160eec79d6b36",
+      "changes": "Verbatim source"
+    },
+    {
+      "source": "opt_header_codec.m",
+      "release": "src/opt_header_codec.m",
+      "source_sha256": "6b052574e749a83229798c3dafa3eabfc0531ba1be61ba4c2687fe56d101988b",
+      "release_sha256": "6b052574e749a83229798c3dafa3eabfc0531ba1be61ba4c2687fe56d101988b",
+      "changes": "Verbatim source"
+    },
+    {
+      "source": "packet_bit_layout.m",
+      "release": "src/packet_bit_layout.m",
+      "source_sha256": "2167a908cf4e2de0c0df74324bb8c82d632711b41fec4d1bacefd82c9c88245c",
+      "release_sha256": "2167a908cf4e2de0c0df74324bb8c82d632711b41fec4d1bacefd82c9c88245c",
+      "changes": "Verbatim source"
+    },
+    {
+      "source": "prediction_reference_codec.m",
+      "release": "src/prediction_reference_codec.m",
+      "source_sha256": "28deafa93eeda9f467bb055d555efe890723a80aa6b24d244f23717b2061487b",
+      "release_sha256": "28deafa93eeda9f467bb055d555efe890723a80aa6b24d244f23717b2061487b",
+      "changes": "Verbatim source"
+    },
+    {
+      "source": "prediction_reference_layout.m",
+      "release": "src/prediction_reference_layout.m",
+      "source_sha256": "488b88412726e4a42548992c75e27ff66c0974b5fbd2b6f837e0ec21f786bfae",
+      "release_sha256": "488b88412726e4a42548992c75e27ff66c0974b5fbd2b6f837e0ec21f786bfae",
+      "changes": "Verbatim source"
+    },
+    {
+      "source": "protect_recovery_fields.m",
+      "release": "src/protect_recovery_fields.m",
+      "source_sha256": "4f73a2bcce85996de2a4f194ef268e8dfb2fc9b2cbed427bf55cef11f8b61284",
+      "release_sha256": "4f73a2bcce85996de2a4f194ef268e8dfb2fc9b2cbed427bf55cef11f8b61284",
+      "changes": "Verbatim source"
+    },
+    {
+      "source": "read_global_support.m",
+      "release": "src/read_global_support.m",
+      "source_sha256": "b8e5f1f307c863920a61ee53229cd6fe02cdeeb9ec971b943526aecce7c087e4",
+      "release_sha256": "b8e5f1f307c863920a61ee53229cd6fe02cdeeb9ec971b943526aecce7c087e4",
+      "changes": "Verbatim source"
+    },
+    {
+      "source": "read_opt_headers.m",
+      "release": "src/read_opt_headers.m",
+      "source_sha256": "cf56d36f5c809899a418f5c17e4e8ddedccfec7fe94e08aaabff3c9687cad592",
+      "release_sha256": "cf56d36f5c809899a418f5c17e4e8ddedccfec7fe94e08aaabff3c9687cad592",
+      "changes": "Verbatim source"
+    },
+    {
+      "source": "recover_from_prediction_error.m",
+      "release": "src/recover_from_prediction_error.m",
+      "source_sha256": "877e2c0263b853958058a4102e36dc30b0d7ab7a1d73767f825a75d5e6d1cd81",
+      "release_sha256": "877e2c0263b853958058a4102e36dc30b0d7ab7a1d73767f825a75d5e6d1cd81",
+      "changes": "Verbatim source"
+    },
+    {
+      "source": "reverse_block_processing.m",
+      "release": "src/reverse_block_processing.m",
+      "source_sha256": "d86877a48bece67c24b427082364ecffbdd9206427ccf65d807463f1642b0fc4",
+      "release_sha256": "d86877a48bece67c24b427082364ecffbdd9206427ccf65d807463f1642b0fc4",
+      "changes": "Verbatim source"
+    },
+    {
+      "source": "scramble_blocks_within.m",
+      "release": "src/scramble_blocks_within.m",
+      "source_sha256": "3d53d400621b615be88d7ba4f337441f2098b4156593b932f48f7f86471f681f",
+      "release_sha256": "3d53d400621b615be88d7ba4f337441f2098b4156593b932f48f7f86471f681f",
+      "changes": "Verbatim source"
+    },
+    {
+      "source": "select_block.m",
+      "release": "src/select_block.m",
+      "source_sha256": "c92d2845b05fc51f7f1a9815112a5ef6f0c1431ae5e6fd2c40d29190565ae099",
+      "release_sha256": "c92d2845b05fc51f7f1a9815112a5ef6f0c1431ae5e6fd2c40d29190565ae099",
+      "changes": "Verbatim source"
+    },
+    {
+      "source": "skipped_r_codec.m",
+      "release": "src/skipped_r_codec.m",
+      "source_sha256": "161f4c90e7b3b5c9e7c1ddc1d9a0e466bfa9334e1f5cb3ea1e2dfd6222a0f2e7",
+      "release_sha256": "161f4c90e7b3b5c9e7c1ddc1d9a0e466bfa9334e1f5cb3ea1e2dfd6222a0f2e7",
+      "changes": "Verbatim source"
+    },
+    {
+      "source": "sort_z.m",
+      "release": "src/sort_z.m",
+      "source_sha256": "f2aa9d24ab44f2045b08674d8a6469f7f3975d80d4410b5102c90819d8ce4c37",
+      "release_sha256": "f2aa9d24ab44f2045b08674d8a6469f7f3975d80d4410b5102c90819d8ce4c37",
+      "changes": "Verbatim source"
+    },
+    {
+      "source": "sum_PFA.m",
+      "release": "src/sum_PFA.m",
+      "source_sha256": "02c63eced8ec158f5f15fb84968e7c598e8b50e509d80951bd9875a600f82c45",
+      "release_sha256": "02c63eced8ec158f5f15fb84968e7c598e8b50e509d80951bd9875a600f82c45",
+      "changes": "Verbatim source"
+    },
+    {
+      "source": "test_PFA.m",
+      "release": "src/test_PFA.m",
+      "source_sha256": "52edf78c29e019a8201d13249ce590ae5e8829acc9cd17b40b3f81341a372cd2",
+      "release_sha256": "52edf78c29e019a8201d13249ce590ae5e8829acc9cd17b40b3f81341a372cd2",
+      "changes": "Verbatim source"
+    },
+    {
+      "source": "test_fold_map_codec.m",
+      "release": "tests/test_fold_map_codec.m",
+      "source_sha256": "031274865adacd515579f0b6131629cd2d01ee4e13326a28d8e307593099bb33",
+      "release_sha256": "031274865adacd515579f0b6131629cd2d01ee4e13326a28d8e307593099bb33",
+      "changes": "Verbatim source"
+    },
+    {
+      "source": "test_opt_header_codec.m",
+      "release": "tests/test_opt_header_codec.m",
+      "source_sha256": "af7402a8771f5605fd0b3c4a0b900c4180d4465f1ef52f7fee8fd7b09ef0d867",
+      "release_sha256": "af7402a8771f5605fd0b3c4a0b900c4180d4465f1ef52f7fee8fd7b09ef0d867",
+      "changes": "Verbatim source"
+    },
+    {
+      "source": "unpack_fold_reference.m",
+      "release": "src/unpack_fold_reference.m",
+      "source_sha256": "bdc66e31fe6e03be7052a493e5d3fe2dd9a8aa9d9fc4ba8e1d52053cd5a45784",
+      "release_sha256": "bdc66e31fe6e03be7052a493e5d3fe2dd9a8aa9d9fc4ba8e1d52053cd5a45784",
+      "changes": "Verbatim source"
+    },
+    {
+      "source": "unscramble_blocks_within.m",
+      "release": "src/unscramble_blocks_within.m",
+      "source_sha256": "c9e9cf987b4cae04860df77f31d3d75479954abd601e283e2ea323d789504bfe",
+      "release_sha256": "c9e9cf987b4cae04860df77f31d3d75479954abd601e283e2ea323d789504bfe",
+      "changes": "Verbatim source"
+    },
+    {
+      "source": "dataset_capacity_tests/dataset_capacity_only.m",
+      "release": "src/dataset_capacity_tests/dataset_capacity_only.m",
+      "source_sha256": "abdd0a25fd5f68edfa0433c27457a1fb819a14ea77a49b43867a2121ba4c2eda",
+      "release_sha256": "abdd0a25fd5f68edfa0433c27457a1fb819a14ea77a49b43867a2121ba4c2eda",
+      "changes": "Relative data/results defaults; part wrapper forwards optional paths; scalar CSV export uses AsArray=true; capacity arithmetic unchanged"
+    },
+    {
+      "source": "dataset_capacity_tests/dataset_ecc_empty_row.m",
+      "release": "src/dataset_capacity_tests/dataset_ecc_empty_row.m",
+      "source_sha256": "81024de50a8bd0523db289325d650afd57b57d96b9f426c7664a3f8a4cc7b2e1",
+      "release_sha256": "81024de50a8bd0523db289325d650afd57b57d96b9f426c7664a3f8a4cc7b2e1",
+      "changes": "Relative data/results defaults; part wrapper forwards optional paths; scalar CSV export uses AsArray=true; capacity arithmetic unchanged"
+    },
+    {
+      "source": "dataset_capacity_tests/dataset_ecc_export.m",
+      "release": "src/dataset_capacity_tests/dataset_ecc_export.m",
+      "source_sha256": "3105124d48aeecc8a8e7785c6592d09985cd815ee35095b9dd900949c202e8fc",
+      "release_sha256": "6728eb75a4cb94b7af4b0379bb56e917a01704373e04a3433dd56cfcb8e2ba21",
+      "changes": "Relative data/results defaults; part wrapper forwards optional paths; scalar CSV export uses AsArray=true; capacity arithmetic unchanged"
+    },
+    {
+      "source": "dataset_capacity_tests/dataset_ecc_load_journal.m",
+      "release": "src/dataset_capacity_tests/dataset_ecc_load_journal.m",
+      "source_sha256": "d4e7c127a92a41f58a8dad7f44c5d4d0cc0e3e1dae2fa61a62faf10b4437397e",
+      "release_sha256": "d4e7c127a92a41f58a8dad7f44c5d4d0cc0e3e1dae2fa61a62faf10b4437397e",
+      "changes": "Relative data/results defaults; part wrapper forwards optional paths; scalar CSV export uses AsArray=true; capacity arithmetic unchanged"
+    },
+    {
+      "source": "dataset_capacity_tests/dataset_ecc_select_indices.m",
+      "release": "src/dataset_capacity_tests/dataset_ecc_select_indices.m",
+      "source_sha256": "b85698a86c2b202658eaa46431ae808bbe5cfdadc1f9998595b42456222157c0",
+      "release_sha256": "b85698a86c2b202658eaa46431ae808bbe5cfdadc1f9998595b42456222157c0",
+      "changes": "Relative data/results defaults; part wrapper forwards optional paths; scalar CSV export uses AsArray=true; capacity arithmetic unchanged"
+    },
+    {
+      "source": "dataset_capacity_tests/dataset_ecc_summary.m",
+      "release": "src/dataset_capacity_tests/dataset_ecc_summary.m",
+      "source_sha256": "e58e11773f469d65b2b4b66e336d3fff6c6b74c442c1f3e6fa59f612e4f844a5",
+      "release_sha256": "e58e11773f469d65b2b4b66e336d3fff6c6b74c442c1f3e6fa59f612e4f844a5",
+      "changes": "Relative data/results defaults; part wrapper forwards optional paths; scalar CSV export uses AsArray=true; capacity arithmetic unchanged"
+    },
+    {
+      "source": "dataset_capacity_tests/merge_dataset_ecc.m",
+      "release": "src/dataset_capacity_tests/merge_dataset_ecc.m",
+      "source_sha256": "2245df6165fa3a9d1a0caa0046dfa5fb22736a7d8a514597c3fd7e99a7aa8236",
+      "release_sha256": "983d556a40b7e3330d065ad4317c23e3dd5f2517dfc45eecbbe156b11721d11f",
+      "changes": "Relative data/results defaults; part wrapper forwards optional paths; scalar CSV export uses AsArray=true; capacity arithmetic unchanged"
+    },
+    {
+      "source": "dataset_capacity_tests/run_dataset_ecc.m",
+      "release": "src/dataset_capacity_tests/run_dataset_ecc.m",
+      "source_sha256": "b99457ea5669a716c45ccb875ac311d6be3eb8627fb6d81a8a389e1b5fc51a9f",
+      "release_sha256": "a1ae26d894237a485b497f7f2cf48cc385ab7310f4fcfb362d671432155b5f1a",
+      "changes": "Relative data/results defaults; part wrapper forwards optional paths; scalar CSV export uses AsArray=true; capacity arithmetic unchanged"
+    },
+    {
+      "source": "dataset_capacity_tests/run_dataset_ecc_part.m",
+      "release": "src/dataset_capacity_tests/run_dataset_ecc_part.m",
+      "source_sha256": "9a2298bca36901bf3b21bfca59e97f044095ab07955d801febd2cef531b2ae2e",
+      "release_sha256": "7c05605edfc453247fbda2090eeb1a9637dcd12cd92718830c37aaef0b2fdd98",
+      "changes": "Relative data/results defaults; part wrapper forwards optional paths; scalar CSV export uses AsArray=true; capacity arithmetic unchanged"
+    },
+    {
+      "source": "research_retest/ecc_capacity.m",
+      "release": "experiments/ablation/ecc_capacity.m",
+      "source_sha256": "6bbf640b0aed9a698391a1a626b18fd6e9f4d8e0806541327000cd2624508eff",
+      "release_sha256": "6bbf640b0aed9a698391a1a626b18fd6e9f4d8e0806541327000cd2624508eff",
+      "changes": "Verbatim source"
+    },
+    {
+      "source": "research_retest/ecc_prediction.m",
+      "release": "experiments/ablation/ecc_prediction.m",
+      "source_sha256": "136b385dcd93d48900ba6f94c5447b5eaef7431f04e1515f3b590aa753abb798",
+      "release_sha256": "136b385dcd93d48900ba6f94c5447b5eaef7431f04e1515f3b590aa753abb798",
+      "changes": "Verbatim source"
+    },
+    {
+      "source": "research_retest/scec_no_extreme_predictor.m",
+      "release": "experiments/ablation/scec_no_extreme_predictor.m",
+      "source_sha256": "fd789d2c1335090d9f9b222d4d0b57acfff2f80f01e90b7a166b5ee5efcbb966",
+      "release_sha256": "fd789d2c1335090d9f9b222d4d0b57acfff2f80f01e90b7a166b5ee5efcbb966",
+      "changes": "Verbatim source"
+    },
+    {
+      "source": "research_retest/attack_image.m",
+      "release": "experiments/damage/attack_image.m",
+      "source_sha256": "7b5f50eb5338a3b8efc3acddd9dc9af8c9ddc2e9045c4900145fcd235d99188c",
+      "release_sha256": "7b5f50eb5338a3b8efc3acddd9dc9af8c9ddc2e9045c4900145fcd235d99188c",
+      "changes": "Verbatim source"
+    },
+    {
+      "source": "research_retest/retest_prepare.m",
+      "release": "experiments/damage/retest_prepare.m",
+      "source_sha256": "ef979adfb774807591c6ae54c16d7cd1b3ad9e966a33834d2da11aba83a1be12",
+      "release_sha256": "ef979adfb774807591c6ae54c16d7cd1b3ad9e966a33834d2da11aba83a1be12",
+      "changes": "Verbatim source"
+    },
+    {
+      "source": "research_retest/retest_recover.m",
+      "release": "experiments/damage/retest_recover.m",
+      "source_sha256": "b067b46bad6caaa6f16037b7cd8ca1e87a445d55d946b4a1c8fc1a01bf588e21",
+      "release_sha256": "b067b46bad6caaa6f16037b7cd8ca1e87a445d55d946b4a1c8fc1a01bf588e21",
+      "changes": "Verbatim source"
+    },
+    {
+      "source": "research_retest/retest_deadline.m",
+      "release": "experiments/damage/retest_deadline.m",
+      "source_sha256": "2b17a0e3036ffc1283f0b75b73225398aa0859d85e2a88456177c0057d333f4b",
+      "release_sha256": "2b17a0e3036ffc1283f0b75b73225398aa0859d85e2a88456177c0057d333f4b",
+      "changes": "Verbatim source"
+    }
+  ],
+  "matlab_products": [
+    {
+      "Name": "MATLAB",
+      "Version": "9.14",
+      "ProductNumber": 1,
+      "Certain": true
+    },
+    {
+      "Name": "Image Processing Toolbox",
+      "Version": "11.7",
+      "ProductNumber": 17,
+      "Certain": true
+    },
+    {
+      "Name": "Statistics and Machine Learning Toolbox",
+      "Version": "12.5",
+      "ProductNumber": 19,
+      "Certain": true
+    }
+  ],
+  "scope_note": "Historical v1.0.0 main-chain manifest retained. For v1.1.0 experiment adapters also see paper_dependencies.json and paper_provenance.json."
+}

@@ -1,0 +1,312 @@
+{
+  "ablation": [
+    {
+      "group": "full",
+      "label": "完整SCEC",
+      "bits": [
+        872799,
+        1035906,
+        491502,
+        980588
+      ],
+      "ecc": [
+        3.3294639587402344,
+        3.9516677856445312,
+        1.8749313354492188,
+        3.7406463623046875
+      ],
+      "total_bits": 3380795,
+      "mean_ecc": 3.224177360534668,
+      "loss_bits": 0
+    },
+    {
+      "group": "no_scec",
+      "label": "关闭全部SCEC",
+      "bits": [
+        867468,
+        1031964,
+        488107,
+        985630
+      ],
+      "ecc": [
+        3.3091278076171875,
+        3.9366302490234375,
+        1.8619804382324219,
+        3.7598800659179688
+      ],
+      "total_bits": 3373169,
+      "mean_ecc": 3.216904640197754,
+      "loss_bits": 7626
+    },
+    {
+      "group": "no_feedback",
+      "label": "关闭趋势反馈",
+      "bits": [
+        867468,
+        1033352,
+        488107,
+        985630
+      ],
+      "ecc": [
+        3.3091278076171875,
+        3.941925048828125,
+        1.8619804382324219,
+        3.7598800659179688
+      ],
+      "total_bits": 3374557,
+      "mean_ecc": 3.218228340148926,
+      "loss_bits": 6238
+    },
+    {
+      "group": "no_spatial",
+      "label": "关闭空间调度",
+      "bits": [
+        872799,
+        1031992,
+        491502,
+        980588
+      ],
+      "ecc": [
+        3.3294639587402344,
+        3.936737060546875,
+        1.8749313354492188,
+        3.7406463623046875
+      ],
+      "total_bits": 3376881,
+      "mean_ecc": 3.220444679260254,
+      "loss_bits": 3914
+    },
+    {
+      "group": "weight_05",
+      "label": "固定反馈权重0.5",
+      "bits": [
+        870781,
+        1037027,
+        489521,
+        977704
+      ],
+      "ecc": [
+        3.321765899658203,
+        3.955944061279297,
+        1.8673744201660156,
+        3.729644775390625
+      ],
+      "total_bits": 3375033,
+      "mean_ecc": 3.218682289123535,
+      "loss_bits": 5762
+    },
+    {
+      "group": "no_bias_clamp",
+      "label": "关闭偏差幅度限幅",
+      "bits": [
+        873438,
+        1035975,
+        488505,
+        980581
+      ],
+      "ecc": [
+        3.3319015502929688,
+        3.9519309997558594,
+        1.8634986877441406,
+        3.740619659423828
+      ],
+      "total_bits": 3378499,
+      "mean_ecc": 3.221987724304199,
+      "loss_bits": 2296
+    },
+    {
+      "group": "no_neighborhood_clamp",
+      "label": "关闭最终邻域限幅",
+      "bits": [
+        872799,
+        1035906,
+        491502,
+        980588
+      ],
+      "ecc": [
+        3.3294639587402344,
+        3.9516677856445312,
+        1.8749313354492188,
+        3.7406463623046875
+      ],
+      "total_bits": 3380795,
+      "mean_ecc": 3.224177360534668,
+      "loss_bits": 0
+    }
+  ],
+  "damage": [
+    {
+      "attack": "control",
+      "label": "无扰动",
+      "level": 0,
+      "trials": 4,
+      "extraction_completed": 4,
+      "payload_exact": 4,
+      "recovery_completed": 4,
+      "image_exact": 4,
+      "joint_exact": 4,
+      "ber_eligible": 4,
+      "conditional_ber": 0.0
+    },
+    {
+      "attack": "bitflip",
+      "label": "随机比特翻转",
+      "level": 1,
+      "trials": 20,
+      "extraction_completed": 20,
+      "payload_exact": 14,
+      "recovery_completed": 6,
+      "image_exact": 6,
+      "joint_exact": 0,
+      "ber_eligible": 20,
+      "conditional_ber": 3.549460999557796e-07
+    },
+    {
+      "attack": "bitflip",
+      "label": "随机比特翻转",
+      "level": 10,
+      "trials": 20,
+      "extraction_completed": 19,
+      "payload_exact": 0,
+      "recovery_completed": 0,
+      "image_exact": 0,
+      "joint_exact": 0,
+      "ber_eligible": 19,
+      "conditional_ber": 4.7524830657756455e-06
+    },
+    {
+      "attack": "bitflip",
+      "label": "随机比特翻转",
+      "level": 100,
+      "trials": 20,
+      "extraction_completed": 12,
+      "payload_exact": 0,
+      "recovery_completed": 0,
+      "image_exact": 0,
+      "joint_exact": 0,
+      "ber_eligible": 12,
+      "conditional_ber": 0.13307533719540782
+    },
+    {
+      "attack": "gaussian",
+      "label": "高斯噪声",
+      "level": 0.5,
+      "trials": 20,
+      "extraction_completed": 0,
+      "payload_exact": 0,
+      "recovery_completed": 0,
+      "image_exact": 0,
+      "joint_exact": 0,
+      "ber_eligible": 0,
+      "conditional_ber": null
+    },
+    {
+      "attack": "gaussian",
+      "label": "高斯噪声",
+      "level": 1,
+      "trials": 20,
+      "extraction_completed": 0,
+      "payload_exact": 0,
+      "recovery_completed": 0,
+      "image_exact": 0,
+      "joint_exact": 0,
+      "ber_eligible": 0,
+      "conditional_ber": null
+    },
+    {
+      "attack": "gaussian",
+      "label": "高斯噪声",
+      "level": 2,
+      "trials": 20,
+      "extraction_completed": 0,
+      "payload_exact": 0,
+      "recovery_completed": 0,
+      "image_exact": 0,
+      "joint_exact": 0,
+      "ber_eligible": 0,
+      "conditional_ber": null
+    },
+    {
+      "attack": "crop_zero",
+      "label": "中心区域丢失",
+      "level": 0.01,
+      "trials": 4,
+      "extraction_completed": 0,
+      "payload_exact": 0,
+      "recovery_completed": 0,
+      "image_exact": 0,
+      "joint_exact": 0,
+      "ber_eligible": 0,
+      "conditional_ber": null
+    },
+    {
+      "attack": "crop_zero",
+      "label": "中心区域丢失",
+      "level": 0.05,
+      "trials": 4,
+      "extraction_completed": 0,
+      "payload_exact": 0,
+      "recovery_completed": 0,
+      "image_exact": 0,
+      "joint_exact": 0,
+      "ber_eligible": 0,
+      "conditional_ber": null
+    },
+    {
+      "attack": "crop_zero",
+      "label": "中心区域丢失",
+      "level": 0.1,
+      "trials": 4,
+      "extraction_completed": 0,
+      "payload_exact": 0,
+      "recovery_completed": 0,
+      "image_exact": 0,
+      "joint_exact": 0,
+      "ber_eligible": 0,
+      "conditional_ber": null
+    },
+    {
+      "attack": "translate",
+      "label": "水平平移",
+      "level": 1,
+      "trials": 4,
+      "extraction_completed": 0,
+      "payload_exact": 0,
+      "recovery_completed": 0,
+      "image_exact": 0,
+      "joint_exact": 0,
+      "ber_eligible": 0,
+      "conditional_ber": null
+    },
+    {
+      "attack": "translate",
+      "label": "水平平移",
+      "level": 2,
+      "trials": 4,
+      "extraction_completed": 0,
+      "payload_exact": 0,
+      "recovery_completed": 0,
+      "image_exact": 0,
+      "joint_exact": 0,
+      "ber_eligible": 0,
+      "conditional_ber": null
+    },
+    {
+      "attack": "translate",
+      "label": "水平平移",
+      "level": 4,
+      "trials": 4,
+      "extraction_completed": 0,
+      "payload_exact": 0,
+      "recovery_completed": 0,
+      "image_exact": 0,
+      "joint_exact": 0,
+      "ber_eligible": 0,
+      "conditional_ber": null
+    }
+  ],
+  "production_files_unchanged": 107,
+  "control_exact": 4,
+  "damaged_joint_success": 0,
+  "timeout_count": 0
+}

@@ -1,0 +1,518 @@
+[
+  {
+    "method": "HC-MHM",
+    "image": "Baboon",
+    "domain": "ciphertext",
+    "delta_max": 6,
+    "delta": 1,
+    "seed": 0,
+    "first_gross_bits": 1096,
+    "first_aux_bits": 11888,
+    "first_lm_bits": 11627,
+    "first_lm_ones": 1464,
+    "first_threshold_width": 12,
+    "first_params": [
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        2
+      ],
+      [
+        1,
+        2
+      ],
+      [
+        1,
+        2
+      ],
+      [
+        1,
+        2
+      ],
+      [
+        1,
+        2
+      ],
+      [
+        1,
+        2
+      ],
+      [
+        1,
+        2
+      ],
+      [
+        1,
+        2
+      ]
+    ],
+    "first_relaxed_upper_bits": 1175,
+    "first_net_balance_bits": -10792,
+    "net_capacity_estimate_bits": 0,
+    "ecc_estimate_bpp": 0.0,
+    "positive_payload_found": false,
+    "probes": 0,
+    "elapsed_seconds": 0.046509900013916194
+  },
+  {
+    "method": "HC-MHM",
+    "image": "Baboon",
+    "domain": "ciphertext",
+    "delta_max": 6,
+    "delta": 2,
+    "seed": 0,
+    "first_gross_bits": 2099,
+    "first_aux_bits": 17890,
+    "first_lm_bits": 17613,
+    "first_lm_ones": 2455,
+    "first_threshold_width": 12,
+    "first_params": [
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        2
+      ],
+      [
+        2,
+        2
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        2,
+        6
+      ],
+      [
+        2,
+        7
+      ]
+    ],
+    "first_relaxed_upper_bits": 2210,
+    "first_net_balance_bits": -15791,
+    "net_capacity_estimate_bits": 0,
+    "ecc_estimate_bpp": 0.0,
+    "positive_payload_found": false,
+    "probes": 0,
+    "elapsed_seconds": 0.04633569996803999
+  },
+  {
+    "method": "HC-MHM",
+    "image": "Baboon",
+    "domain": "ciphertext",
+    "delta_max": 6,
+    "delta": 3,
+    "seed": 0,
+    "first_gross_bits": 3106,
+    "first_aux_bits": 23293,
+    "first_lm_bits": 23000,
+    "first_lm_ones": 3447,
+    "first_threshold_width": 12,
+    "first_params": [
+      [
+        3,
+        3
+      ],
+      [
+        3,
+        5
+      ],
+      [
+        3,
+        5
+      ],
+      [
+        3,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        3,
+        7
+      ],
+      [
+        3,
+        7
+      ],
+      [
+        3,
+        7
+      ],
+      [
+        3,
+        7
+      ],
+      [
+        3,
+        7
+      ],
+      [
+        3,
+        7
+      ],
+      [
+        3,
+        7
+      ],
+      [
+        3,
+        7
+      ],
+      [
+        3,
+        7
+      ],
+      [
+        3,
+        7
+      ]
+    ],
+    "first_relaxed_upper_bits": 3223,
+    "first_net_balance_bits": -20187,
+    "net_capacity_estimate_bits": 0,
+    "ecc_estimate_bpp": 0.0,
+    "positive_payload_found": false,
+    "probes": 0,
+    "elapsed_seconds": 0.04794489999767393
+  },
+  {
+    "method": "HC-MHM",
+    "image": "Baboon",
+    "domain": "ciphertext",
+    "delta_max": 6,
+    "delta": 4,
+    "seed": 0,
+    "first_gross_bits": 4190,
+    "first_aux_bits": 28491,
+    "first_lm_bits": 28198,
+    "first_lm_ones": 4489,
+    "first_threshold_width": 12,
+    "first_params": [
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        5
+      ],
+      [
+        4,
+        5
+      ],
+      [
+        4,
+        5
+      ],
+      [
+        4,
+        6
+      ],
+      [
+        4,
+        6
+      ],
+      [
+        4,
+        7
+      ],
+      [
+        4,
+        7
+      ],
+      [
+        4,
+        7
+      ],
+      [
+        4,
+        9
+      ],
+      [
+        4,
+        9
+      ],
+      [
+        4,
+        9
+      ],
+      [
+        4,
+        9
+      ],
+      [
+        4,
+        9
+      ],
+      [
+        4,
+        9
+      ],
+      [
+        4,
+        9
+      ]
+    ],
+    "first_relaxed_upper_bits": 4265,
+    "first_net_balance_bits": -24301,
+    "net_capacity_estimate_bits": 0,
+    "ecc_estimate_bpp": 0.0,
+    "positive_payload_found": false,
+    "probes": 0,
+    "elapsed_seconds": 0.05180180002935231
+  },
+  {
+    "method": "HC-MHM",
+    "image": "Baboon",
+    "domain": "ciphertext",
+    "delta_max": 6,
+    "delta": 5,
+    "seed": 0,
+    "first_gross_bits": 5199,
+    "first_aux_bits": 33227,
+    "first_lm_bits": 32918,
+    "first_lm_ones": 5506,
+    "first_threshold_width": 12,
+    "first_params": [
+      [
+        5,
+        5
+      ],
+      [
+        5,
+        5
+      ],
+      [
+        5,
+        5
+      ],
+      [
+        5,
+        5
+      ],
+      [
+        5,
+        5
+      ],
+      [
+        5,
+        5
+      ],
+      [
+        5,
+        7
+      ],
+      [
+        5,
+        7
+      ],
+      [
+        5,
+        7
+      ],
+      [
+        5,
+        9
+      ],
+      [
+        5,
+        9
+      ],
+      [
+        5,
+        9
+      ],
+      [
+        5,
+        9
+      ],
+      [
+        5,
+        9
+      ],
+      [
+        5,
+        9
+      ],
+      [
+        5,
+        9
+      ]
+    ],
+    "first_relaxed_upper_bits": 5270,
+    "first_net_balance_bits": -28028,
+    "net_capacity_estimate_bits": 0,
+    "ecc_estimate_bpp": 0.0,
+    "positive_payload_found": false,
+    "probes": 0,
+    "elapsed_seconds": 0.052709200070239604
+  },
+  {
+    "method": "HC-MHM",
+    "image": "Baboon",
+    "domain": "ciphertext",
+    "delta_max": 6,
+    "delta": 6,
+    "seed": 0,
+    "first_gross_bits": 6194,
+    "first_aux_bits": 37591,
+    "first_lm_bits": 37282,
+    "first_lm_ones": 6506,
+    "first_threshold_width": 12,
+    "first_params": [
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        7
+      ],
+      [
+        6,
+        7
+      ],
+      [
+        6,
+        7
+      ],
+      [
+        6,
+        9
+      ],
+      [
+        6,
+        9
+      ],
+      [
+        6,
+        11
+      ],
+      [
+        6,
+        11
+      ],
+      [
+        6,
+        11
+      ],
+      [
+        6,
+        11
+      ],
+      [
+        6,
+        11
+      ]
+    ],
+    "first_relaxed_upper_bits": 6260,
+    "first_net_balance_bits": -31397,
+    "net_capacity_estimate_bits": 0,
+    "ecc_estimate_bpp": 0.0,
+    "positive_payload_found": false,
+    "probes": 0,
+    "elapsed_seconds": 0.05432560003828257
+  }
+]

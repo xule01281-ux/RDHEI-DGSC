@@ -1,0 +1,6 @@
+{
+  "arithmetic_roundtrip": true,
+  "mhm_dp_vs_bruteforce": true,
+  "idpvo_example_forward_count": 3,
+  "full_image_recovery_tested": false
+}

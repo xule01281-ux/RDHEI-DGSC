@@ -1,0 +1,16 @@
+{
+  "archive_version": "1.1.0",
+  "python": "3.12.14",
+  "numpy": "2.3.5",
+  "pillow": "12.3.0",
+  "matlab": "R2023a 9.14.0.2206163",
+  "os": "Windows 64-bit",
+  "new_matlab_toolbox_use": "Image Processing Toolbox ssim for Table 4",
+  "formal_timing_hardware": "Intel Core i7-14650HX, approximately 32 GB RAM",
+  "python_dependencies": [
+    "numpy",
+    "Pillow"
+  ],
+  "datasets_distributed": false,
+  "natural_image_credentials_distributed": false
+}
